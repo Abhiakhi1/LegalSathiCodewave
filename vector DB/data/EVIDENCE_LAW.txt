@@ -1,0 +1,49 @@
+INTRODUCTORY OVERVIEW OF THE LAW OF EVIDENCE
+What is the Law of Evidence?
+The Law of Evidence is the body of law that determines what evidence is admissible, relevant, and reliable in legal proceedings. It prescribes the rules and principles that govern the proof of facts in a court of law. Its primary objective is to ensure a fair trial by preventing the court from being influenced by irrelevant or unreliable information. In India, this area of law was governed for over 150 years by the Indian Evidence Act, 1872. As part of a major overhaul of the criminal justice system, this Act was replaced by the Bharatiya Sakshya Adhiniyam, 2023 (BSA), effective from July 1, 2024. The new law retains the core principles of the old one but significantly modernizes the rules to accommodate electronic and digital evidence.
+
+PART I: HISTORICAL LAW OF EVIDENCE
+1. The Indian Evidence Act, 1872 (IEA) [Repealed]
+Description: The Indian Evidence Act, 1872, was the foundational law governing the admissibility of evidence in Indian courts until its repeal. Drafted by Sir James Fitzjames Stephen, it provided a codified and uniform set of rules for all judicial proceedings, based on the principles of English common law.
+
+Key Provisions:
+
+Relevancy of Facts (Part I, Sections 5-55): Detailed which facts are considered relevant and may be proved in a legal proceeding. This included facts forming part of the same transaction (res gestae), facts showing motive or preparation, and admissions and confessions.
+
+On Proof (Part II, Sections 56-100): Classified evidence as oral and documentary. It laid down the principle that documents must be proved by primary evidence (the original document itself), with secondary evidence being admissible only in specific circumstances.
+
+Production and Effect of Evidence (Part III, Sections 101-167): Dealt with the burden of proof, estoppel, and the examination of witnesses. It established the fundamental principle that the burden of proof lies on the person who asserts a fact.
+
+Associated Legal Terminology:
+
+Evidence: Included (1) all statements which the court permits or requires to be made before it by witnesses (oral evidence); and (2) all documents produced for the inspection of the court (documentary evidence).
+
+Fact in Issue: Any fact from which, either by itself or in connection with other facts, the existence, non-existence, nature, or extent of any right, liability, or disability asserted or denied in any suit or proceeding, necessarily follows.
+
+Relevant Fact: A fact that is connected with a fact in issue in any of the ways referred to in the provisions of the Act.
+
+Presumption: An inference of fact drawn by the court. The Act distinguished between "may presume" (discretionary), "shall presume" (mandatory but rebuttable), and "conclusive proof" (irrebuttable).
+
+PART II: CURRENT LAW OF EVIDENCE
+2. The Bharatiya Sakshya Adhiniyam, 2023 (BSA)
+Description: The Bharatiya Sakshya Adhiniyam (BSA) is the new law of evidence in India, replacing the Indian Evidence Act, 1872. It consolidates and provides for general rules and principles of evidence for a fair trial, with a significant focus on modernizing the law to accommodate electronic and digital evidence, which have become central to modern litigation.
+
+Key Provisions:
+
+Admissibility of Electronic Records: The most significant change is the explicit and enhanced recognition of electronic or digital records. The definition of "document" is expanded to include electronic records on emails, server logs, smartphones, and other digital devices. The BSA gives electronic records the same legal effect, validity, and enforceability as paper records.
+
+Electronic Records as Primary Evidence: The BSA clarifies that electronic records, such as a video recording simultaneously stored and transmitted, can be considered primary evidence. This is a major shift from the IEA, where electronic evidence was generally treated as secondary evidence.
+
+Certification of Electronic Evidence: The BSA lays down the conditions for the admissibility of electronic records, which largely mirrors Section 65B of the IEA. It requires a certificate to authenticate the electronic record when it is presented as secondary evidence, detailing the manner of its production and the device used.
+
+Joint Trials: The BSA clarifies that in a joint trial, if an accused has absconded, the trial will still be treated as a joint trial for the purpose of considering the confession of a co-accused.
+
+Associated Legal Terminology:
+
+Electronic Record: Data, record, or data generated, image or sound stored, received, or sent in an electronic form or micro film or computer-generated microfiche.
+
+Primary Evidence: The document itself produced for the inspection of the Court. Under the BSA, this explicitly includes electronic records stored in multiple files, where each file is considered primary evidence.
+
+Secondary Evidence: Includes certified copies, copies made from the original by mechanical processes, and oral accounts of the contents of a document by a person who has seen it.
+
+Confession: An admission made at any time by a person accused of an offence, stating or suggesting the inference that he committed that offence. The rules regarding the inadmissibility of confessions made to police officers are retained in the BSA.

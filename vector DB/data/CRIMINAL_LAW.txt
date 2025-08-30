@@ -1,0 +1,150 @@
+INTRODUCTORY OVERVIEW OF CRIMINAL LAW
+What is Criminal Law?
+Criminal Law is the body of law that relates to crime. It proscribes conduct perceived as threatening, harmful, or otherwise endangering to the property, health, safety, and moral welfare of people. It includes the punishment and rehabilitation of people who violate such laws. The criminal justice system in India underwent a historic transformation in 2023, with the enactment of three new laws that replaced the colonial-era criminal codes. The new laws—the Bharatiya Nyaya Sanhita, 2023; the Bharatiya Nagarik Suraksha Sanhita, 2023; and the Bharatiya Sakshya Adhiniyam, 2023—came into effect on July 1, 2024, representing a significant paradigm shift aimed at decolonizing and modernizing Indian criminal jurisprudence.
+
+PART I: SUBSTANTIVE CRIMINAL LAW
+This area of law defines specific crimes and prescribes punishments for them. It establishes what conduct is considered criminal.
+
+1. The Indian Penal Code, 1860 (IPC) [Historical Law]
+Description: The Indian Penal Code was the primary substantive criminal code of India for over 160 years. Drafted on the recommendations of the First Law Commission of India chaired by Thomas Babington Macaulay, it was a comprehensive code intended to cover all substantive aspects of criminal law. It was repealed and replaced by the Bharatiya Nyaya Sanhita, 2023.
+
+Key Provisions:
+
+General Explanations and Exceptions (Chapters II, IV): Defined fundamental concepts and laid down general exceptions to criminal liability, such as acts done by a person of unsound mind and the right of private defence.
+
+Offences Against the State (Chapter VI): Included offenses like waging war against the Government of India and sedition (Section 124A).
+
+Offences Against the Human Body (Chapter XVI): Covered a wide range of offenses from culpable homicide and murder (Sections 299-302) to kidnapping, abduction, and sexual offenses like rape (Section 375).
+
+Offences Against Property (Chapter XVII): Defined offenses such as theft, extortion, robbery, dacoity, criminal misappropriation, criminal breach of trust, and cheating.
+
+Associated Legal Terminology:
+
+Offence: An act or omission made punishable by any law.
+
+Mens Rea: "Guilty mind," referring to the criminal intent.
+
+Actus Reus: "Guilty act," referring to the physical act of the crime.
+
+Culpable Homicide: Causing death with the intention or knowledge that the act is likely to cause death.
+
+2. The Bharatiya Nyaya Sanhita, 2023 (BNS) [Current Law]
+Description: The Bharatiya Nyaya Sanhita (BNS) is the new official criminal code of India, which replaced the Indian Penal Code, 1860. The BNS aims to consolidate and amend the laws relating to criminal offenses with a focus on delivering justice rather than merely inflicting punishment.
+
+Key Provisions:
+
+New Offences: Introduces new, contemporary offenses, including:
+
+Terrorist Act (Section 113): Defined as an act intended to threaten the unity, integrity, security, or economic security of India.
+
+Organised Crime (Section 111): Defined as a continuing unlawful activity by a group for material benefit.
+
+Mob Lynching (Section 103(2)): Murder or grievous hurt by a group of five or more persons on grounds of race, caste, etc., is now a specific offense.
+
+Repeal of Sedition: The offense of sedition is repealed and replaced by Section 152, which penalizes acts endangering the sovereignty, unity, and integrity of India.
+
+New Punishment: Introduces "community service" as a form of punishment for certain petty offenses.
+
+Gender Neutrality: Updates some provisions for greater gender neutrality.
+
+Associated Legal Terminology:
+
+Terrorist Act: An act committed with the intent to threaten the unity, integrity, security, economic security, or sovereignty of India.
+
+Organised Crime: Continuing unlawful activity by an individual or group for material benefit.
+
+Community Service: A punishment requiring an offender to perform unpaid work for the community.
+
+PART II: PROCEDURAL CRIMINAL LAW
+This area of law prescribes the machinery and procedures for the investigation, inquiry, and trial of criminal offenses.
+
+1. The Code of Criminal Procedure, 1973 (CrPC) [Historical Law]
+Description: The CrPC was the primary legislation governing the procedural aspects of criminal law in India. It provided the framework for the functioning of criminal courts, police investigation, arrest and bail procedures, and trial processes. It was repealed and replaced by the Bharatiya Nagarik Suraksha Sanhita, 2023.
+
+Key Provisions:
+
+Classification of Offences: Classified offenses into "cognizable" (police can arrest without a warrant) and "non-cognizable," and "bailable" and "non-bailable."
+
+Hierarchy of Criminal Courts: Established the hierarchy of courts (Supreme Court, High Courts, Courts of Session, Magistrates' Courts).
+
+Investigation: Detailed police powers, including the recording of a First Information Report (FIR) (Section 154) and the preparation of a charge sheet (Section 173).
+
+Trial Procedures: Outlined distinct procedures for different types of trials.
+
+Associated Legal Terminology:
+
+First Information Report (FIR): Information recorded by police on the commission of a cognizable offense, setting the criminal justice process in motion.
+
+Cognizable Offence: A serious offense for which a police officer can arrest without a warrant.
+
+Bailable Offence: An offense in which the accused has a right to be released on bail.
+
+Charge Sheet: A final report prepared by police after investigation, submitted to a court.
+
+2. The Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) [Current Law]
+Description: The BNSS is the new procedural law that has replaced the CrPC. It aims to consolidate and amend the law relating to criminal procedure, with a focus on leveraging technology to make the process more efficient and transparent.
+
+Key Provisions:
+
+Use of Technology: All trials, inquiries, and proceedings may be held in electronic mode. Summons can be served electronically, and examination of witnesses can be done via video conferencing.
+
+Mandatory Forensic Investigation: Forensic investigation is now mandatory for offenses punishable with seven years of imprisonment or more.
+
+Timelines for Procedures: Introduces strict timelines for various stages, such as pronouncement of judgment within 30 days of argument completion.
+
+Trial in Absentia: A new provision (Section 356) allows for the trial and judgment in the absence of a proclaimed offender.
+
+Zero FIR: The concept of a "Zero FIR" (an FIR that can be filed in any police station, regardless of jurisdiction) is given statutory recognition.
+
+Associated Legal Terminology:
+
+Audio-video electronic means: Includes video conferencing and recording of processes like search and seizure.
+
+Proclaimed Offender: An accused person who has absconded to avoid a warrant.
+
+Zero FIR: An FIR registered at any police station, which is then transferred to the appropriate station for investigation.
+
+PART III: LAW OF EVIDENCE
+This body of law determines what evidence is admissible, relevant, and reliable in legal proceedings.
+
+1. The Indian Evidence Act, 1872 (IEA) [Historical Law]
+Description: The IEA was the foundational law governing the admissibility of evidence in Indian courts for over 150 years. It provided a codified set of rules for all judicial proceedings. It was repealed and replaced by the Bharatiya Sakshya Adhiniyam, 2023.
+
+Key Provisions:
+
+Relevancy of Facts (Part I): Detailed which facts are considered relevant and may be proved.
+
+On Proof (Part II): Classified evidence as oral and documentary and laid down rules for proof.
+
+Production and Effect of Evidence (Part III): Dealt with the burden of proof, estoppel, and the examination of witnesses.
+
+Associated Legal Terminology:
+
+Evidence: Includes all statements made by witnesses (oral evidence) and all documents produced for the court's inspection (documentary evidence).
+
+Fact in Issue: Any fact from which the existence or non-existence of a right or liability necessarily follows.
+
+Relevant Fact: A fact connected with a fact in issue.
+
+Presumption: An inference of fact drawn by the court.
+
+2. The Bharatiya Sakshya Adhiniyam, 2023 (BSA) [Current Law]
+Description: The BSA is the new law of evidence in India, replacing the IEA. It consolidates the rules of evidence with a significant focus on modernizing the law to accommodate electronic and digital evidence.
+
+Key Provisions:
+
+Admissibility of Electronic Records: The definition of "document" is expanded to include electronic records on emails, server logs, smartphones, etc. Electronic records are given the same legal effect as paper records.
+
+Electronic Records as Primary Evidence: The BSA clarifies that electronic records, such as a video recording simultaneously stored and transmitted, can be considered primary evidence. This is a major shift from the IEA.
+
+Certification of Electronic Evidence: Retains the requirement for a certificate to authenticate an electronic record when it is presented as secondary evidence, detailing the manner of its production and the device used.
+
+Associated Legal Terminology:
+
+Electronic Record: Data, record, or data generated, image or sound stored, received, or sent in an electronic form.
+
+Primary Evidence: The document itself produced for the inspection of the Court.
+
+Secondary Evidence: Includes certified copies, copies made from the original, and oral accounts of the contents of a document.
+
+Confession: An admission made by an accused person stating or suggesting that they committed an offence.

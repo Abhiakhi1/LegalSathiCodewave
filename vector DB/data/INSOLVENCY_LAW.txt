@@ -1,0 +1,61 @@
+INTRODUCTORY OVERVIEW OF INSOLVENCY LAW
+What is Insolvency Law?
+Insolvency Law is the body of law that provides a legal framework for resolving the financial distress of individuals, corporations, and other entities who are unable to repay their outstanding debts. The primary objective of this law is not to shut down businesses, but to provide a mechanism for their revival and rehabilitation. If revival is not possible, it provides for an orderly and fair process of liquidation, where the assets of the debtor are distributed among the creditors. In India, this field was historically governed by a fragmented set of laws, leading to long delays and inefficient outcomes. This was fundamentally changed by the enactment of the Insolvency and Bankruptcy Code, 2016, which consolidated the existing framework and created a single, time-bound process for insolvency resolution.
+
+PART I: THE PRIMARY LEGISLATION
+1. The Insolvency and Bankruptcy Code, 2016 (IBC)
+Description: This is the comprehensive and consolidated legislation that governs the insolvency and bankruptcy process for companies, partnership firms, and individuals in India. The IBC was a landmark reform aimed at creating a robust legal framework for the timely resolution of insolvency, maximizing the value of assets of the debtor, promoting entrepreneurship, increasing the availability of credit, and balancing the interests of all stakeholders. It has significantly changed the creditor-debtor relationship in India, empowering creditors to initiate a resolution process in a time-bound manner.
+
+Key Provisions: The Code is primarily divided into processes for corporate debtors and for individuals/partnership firms.
+
+A. Corporate Insolvency Resolution Process (CIRP) (Part II):
+
+Initiation of CIRP (Sections 7, 9, & 10): The CIRP can be initiated against a corporate debtor that has committed a default of at least Rs. 1 crore (the threshold was increased from Rs. 1 lakh). The application can be filed with the Adjudicating Authority (the National Company Law Tribunal - NCLT) by:
+
+A Financial Creditor (e.g., a bank that has given a loan).
+
+An Operational Creditor (e.g., a supplier of goods or services).
+
+The Corporate Debtor itself.
+
+Time Limit for Completion of Insolvency Resolution Process (Section 12): This is a cornerstone of the Code. The CIRP must be completed within a period of 180 days from the date of admission of the application. This can be extended by a one-time extension of up to 90 days. The maximum time limit, including any extensions and litigation period, is 330 days.
+
+Moratorium (Section 14): Once the CIRP is initiated, the NCLT declares a moratorium period. During this period, all pending suits or proceedings against the corporate debtor are stayed, and no new proceedings can be initiated. This gives the company breathing space to work out a resolution.
+
+Management of the Corporate Debtor: An Insolvency Professional is appointed as the Interim Resolution Professional (IRP), and later as the Resolution Professional (RP). The powers of the company's Board of Directors are suspended, and the RP takes over the management of the company's affairs.
+
+Committee of Creditors (CoC) (Section 21): A Committee of Creditors is constituted, comprising all the financial creditors of the corporate debtor. The CoC is the primary decision-making body during the CIRP. It is responsible for approving or rejecting a resolution plan.
+
+Submission of Resolution Plan (Section 30): The Resolution Professional invites prospective resolution applicants to submit resolution plans for the revival of the company. The CoC must approve a resolution plan by a vote of not less than sixty-six percent of the voting share.
+
+Liquidation (Chapter III): If a resolution plan is not approved by the CoC within the stipulated time, or if the NCLT rejects the approved plan, the corporate debtor goes into liquidation. In liquidation, the assets of the company are sold, and the proceeds are distributed among the creditors according to a specified order of priority (the "waterfall mechanism").
+
+B. Insolvency Resolution for Individuals and Partnership Firms (Part III):
+
+The Code also provides a framework for the insolvency resolution and bankruptcy of individuals and partnership firms, although these provisions are being implemented in a phased manner.
+
+Associated Legal Terminology:
+
+Insolvency: A state where an individual or organization is unable to meet their outstanding financial debts as they fall due.
+
+Bankruptcy: A legal process for an insolvent individual or entity, which is initiated by a court order, leading to the distribution of their assets among creditors.
+
+Corporate Debtor: A corporate person who owes a debt to any person.
+
+Financial Creditor: Any person to whom a financial debt is owed.
+
+Operational Creditor: Any person to whom an operational debt is owed (a claim in respect of the provision of goods or services).
+
+Corporate Insolvency Resolution Process (CIRP): The time-bound process under the IBC for resolving the insolvency of a corporate debtor.
+
+National Company Law Tribunal (NCLT): The Adjudicating Authority for corporate insolvency and liquidation proceedings.
+
+Insolvency Professional (IP): A licensed professional who is appointed to conduct the insolvency resolution process.
+
+Committee of Creditors (CoC): The committee of financial creditors that makes key decisions during the CIRP.
+
+Resolution Plan: A plan for the revival of the corporate debtor, which may involve restructuring, merger, or sale of the company.
+
+Moratorium: A period during which legal actions against the corporate debtor are stayed.
+
+Liquidation: The process of winding up a company by selling its assets to repay its creditors.

@@ -1,0 +1,125 @@
+INTRODUCTORY OVERVIEW OF CORPORATE LAW
+What is Corporate Law?
+Corporate Law (also known as Company Law) is the body of law that governs the rights, relations, and conduct of persons, companies, organizations, and businesses. It deals with the formation, funding, governance, and dissolution of corporations. The primary objective of corporate law in India is to regulate the functioning of companies, protect the interests of various stakeholders like shareholders, creditors, and employees, and promote transparency and accountability in corporate governance. It provides the legal framework that allows businesses to operate as distinct legal entities, separate from their owners.
+
+PART I: COMPANY FORMATION AND GOVERNANCE
+1. The Companies Act, 2013
+Description: The Companies Act, 2013 is the primary legislation that regulates the incorporation of a company, its responsibilities, directors, and dissolution. It replaced the erstwhile Companies Act, 1956, and introduced significant changes to align Indian corporate law with global standards. It governs all types of companies, whether public or private, listed or unlisted.
+
+Key Provisions:
+
+Types of Companies (Sections 2 & 3): The Act primarily defines three types of companies:
+
+Public Company: A company that is not a private company and has a minimum of seven members. It can offer its shares to the public.
+
+Private Company: A company that restricts the right to transfer its shares, limits the number of its members to two hundred, and prohibits any invitation to the public to subscribe for its securities.
+
+One Person Company (OPC): A type of private company that has only one member.
+
+Incorporation of a Company (Section 7): Details the procedure for forming a company, which involves filing key documents like the Memorandum of Association (MOA) and Articles of Association (AOA) with the Registrar of Companies (RoC).
+
+Memorandum of Association (MOA) (Section 4): The MOA is the charter of the company and defines its constitution and the scope of its powers. It contains fundamental clauses such as the name clause, registered office clause, objects clause, liability clause, and capital clause.
+
+Articles of Association (AOA) (Section 5): The AOA contains the internal rules and regulations for the management of the company's affairs.
+
+Directors (Sections 149-172): The Act lays down detailed provisions regarding the board of directors, including their appointment, qualifications, duties, powers, and removal. It mandates the appointment of at least one woman director for certain classes of companies and introduces the concept of independent directors.
+
+Corporate Social Responsibility (CSR) (Section 135): A landmark provision that mandates certain large and profitable companies to spend at least 2% of their average net profits of the preceding three years on CSR activities.
+
+National Company Law Tribunal (NCLT): The Act established the NCLT as a quasi-judicial body to adjudicate all matters related to Indian companies, including insolvency, mergers, and disputes.
+
+Associated Legal Terminology:
+
+Company: An artificial person created by law, having a separate legal entity, perpetual succession, and a common seal.
+
+Shareholder: An owner of shares in a company.
+
+Director: A person appointed to the board of a company to manage its affairs.
+
+Prospectus: A formal legal document that provides details about an investment offering for sale to the public.
+
+2. The Limited Liability Partnership Act, 2008
+Description: This Act provides for the formation and regulation of Limited Liability Partnerships (LLPs). An LLP is a hybrid corporate structure that combines the flexibility of a partnership with the advantage of limited liability of a company.
+
+Key Provisions:
+
+Nature of LLP (Section 3): An LLP is a body corporate with a legal entity separate from that of its partners. It has perpetual succession.
+
+Limited Liability (Section 28): The liability of the partners is limited to their agreed contribution in the LLP. A partner is not personally liable for the wrongful acts or omissions of another partner.
+
+Designated Partners (Section 7): Every LLP must have at least two designated partners who are individuals, and at least one of them must be a resident in India. They are responsible for compliance with the Act.
+
+Associated Legal Terminology:
+
+LLP: A corporate business vehicle that enables professional expertise and entrepreneurial initiative to combine and operate in a flexible, innovative, and efficient manner.
+
+Partner: Any person who becomes a partner in the LLP in accordance with the LLP agreement.
+
+PART II: CORPORATE RESTRUCTURING AND INSOLVENCY
+1. The Insolvency and Bankruptcy Code, 2016 (IBC)
+Description: The IBC is a comprehensive law that consolidates the framework for insolvency resolution of corporate persons, partnership firms, and individuals in a time-bound manner. Its primary objective is to maximize the value of assets of such persons, promote entrepreneurship, and balance the interests of all stakeholders.
+
+Key Provisions:
+
+Corporate Insolvency Resolution Process (CIRP): This is the core process under the Code. When a corporate debtor defaults on a debt, a financial or operational creditor can initiate the CIRP.
+
+Adjudicating Authority: The National Company Law Tribunal (NCLT) is the adjudicating authority for corporate insolvency.
+
+Insolvency Professional (IP): A licensed professional who manages the affairs of the corporate debtor during the CIRP.
+
+Committee of Creditors (CoC): Composed of the financial creditors of the corporate debtor, the CoC decides on the resolution plan for the revival of the company.
+
+Time-bound Resolution: The CIRP must be completed within 180 days, with a one-time extension of 90 days.
+
+Liquidation: If a resolution plan is not approved within the stipulated time, the company goes into liquidation.
+
+Associated Legal Terminology:
+
+Insolvency: A state where an individual or organization is unable to meet their outstanding financial debts.
+
+Bankruptcy: A legal process for an insolvent individual, which is initiated by a court order.
+
+Resolution Plan: A plan for the revival of the corporate debtor.
+
+Moratorium: A period during which all pending suits or proceedings against the corporate debtor are stayed.
+
+PART III: SECURITIES LAW AND REGULATION
+1. The Securities and Exchange Board of India Act, 1992 (SEBI Act)
+Description: This Act provides for the establishment of the Securities and Exchange Board of India (SEBI) to protect the interests of investors in securities and to promote the development of, and to regulate, the securities market. SEBI is the apex regulator for the capital markets in India.
+
+Key Provisions:
+
+Establishment and Functions of SEBI (Sections 3 & 11): Establishes SEBI as a statutory body and outlines its wide-ranging powers and functions, which include regulating stock exchanges, registering and regulating intermediaries like brokers and merchant bankers, and prohibiting fraudulent and unfair trade practices.
+
+Prohibition of Insider Trading: SEBI has the power to prohibit insider trading, which is the trading of a company's securities by individuals with access to non-public, price-sensitive information.
+
+Penalties and Adjudication: The Act provides for stringent penalties for various violations of securities laws.
+
+Associated Legal Terminology:
+
+Securities: Include shares, stocks, bonds, debentures, and derivatives.
+
+Insider Trading: The illegal practice of trading on the stock exchange to one's own advantage through having access to confidential information.
+
+Capital Market: The part of a financial system concerned with raising capital by dealing in shares, bonds, and other long-term investments.
+
+PART IV: KEY DOCTRINES IN CORPORATE LAW
+Doctrine of Corporate Veil (Separate Legal Personality):
+
+Description: This is the most fundamental principle of company law. It establishes that a company is a legal entity separate and distinct from its members (shareholders). This "veil" separates the company's personality from its members, who are generally not liable for the company's debts.
+
+Lifting or Piercing the Corporate Veil:
+
+Description: In certain exceptional circumstances, the courts can disregard the separate personality of the company and look at the reality behind it, holding the members or directors personally liable. This is done to prevent fraud or improper conduct.
+
+Doctrine of Ultra Vires:
+
+Description: A Latin term meaning "beyond the powers." An act is ultra vires if it is beyond the scope of the powers of the company as defined in the objects clause of its Memorandum of Association. Such an act is void and cannot be ratified even by the unanimous consent of all shareholders.
+
+Doctrine of Indoor Management (Turquand's Rule):
+
+Description: This doctrine protects outsiders dealing with a company. It states that an outsider is entitled to assume that the internal procedures of the company have been complied with. They are not required to inquire into the regularity of the company's internal proceedings.
+
+Doctrine of Constructive Notice:
+
+Description: This doctrine operates against the person dealing with the company. Since the MOA and AOA are public documents registered with the RoC, every person dealing with the company is deemed to have knowledge of their contents.

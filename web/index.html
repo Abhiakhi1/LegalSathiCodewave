@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>LegalSathi – First-Step Agent</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+    :root { --bg:#0f172a; --card:#111827; --muted:#94a3b8; --text:#e5e7eb; --acc:#22d3ee; }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);font:14px system-ui,Segoe UI,Roboto,sans-serif}
+    header{padding:16px 20px;border-bottom:1px solid #1f2937;display:flex;gap:10px;align-items:center}
+    header h1{font-size:16px;margin:0;font-weight:600}
+    .pill{background:#0b2530;color:#67e8f9;padding:4px 8px;border-radius:999px;font-size:12px}
+    main{max-width:clamp(1100px,96vw,1440px);margin:20px auto;padding:0 20px;display:grid;gap:16px}
+    .row{display:grid;gap:16px}
+    @media(min-width:1000px){ .row{grid-template-columns:1.2fr .8fr} }
+    .card{background:var(--card);border:1px solid #1f2937;border-radius:14px;padding:14px;overflow-x:auto}
+    .label{display:block;margin:0 0 8px 2px;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.08em}
+    textarea{width:100%;min-height:140px;border:1px solid #1f2937;background:#0b1020;color:var(--text);border-radius:10px;padding:10px;resize:vertical}
+    .controls{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:10px}
+    button{background:linear-gradient(90deg,#06b6d4,#14b8a6);color:#06222a;border:0;padding:10px 14px;border-radius:10px;font-weight:700;cursor:pointer}
+    button:disabled{opacity:.5;cursor:not-allowed}
+    .small{font-size:12px}
+    .muted{color:var(--muted)}
+    table{width:100%;border-collapse:collapse}
+    th,td{padding:8px 10px;border-bottom:1px solid #1f2937;vertical-align:top;white-space:normal;word-break:break-word;overflow-wrap:anywhere}
+    th{color:var(--muted);font-weight:600;text-align:left}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .tag{display:inline-block;background:#0b2530;border:1px solid #123544;color:#67e8f9;border-radius:999px;padding:2px 8px;margin:2px 6px 2px 0}
+    .code{background:#0b1020;border:1px solid #1f2937;border-radius:10px;padding:10px;font-size:12px;overflow:auto}
+    .rowh{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+  </style>
+</head>
+<body>
+<header>
+  <h1>LegalSathi – First-Step Agent</h1>
+  <span class="pill">offline • free • local</span>
+</header>
+
+<main>
+  <div class="row">
+    <section class="card">
+      <label class="label">Enter prompt</label>
+      <textarea id="prompt" placeholder="e.g., Neighbour encroached my farm boundary in Pune. Which sections apply?"></textarea>
+      <div class="controls">
+        <button id="runBtn">Run First-Step Agent</button>
+        <span id="status" class="small muted"></span>
+      </div>
+    </section>
+
+    <aside class="card">
+      <div class="rowh"><strong>Meta filters</strong><span class="muted small">extracted from keywords</span></div>
+      <div id="meta" class="small"></div>
+      <div class="rowh" style="margin-top:10px"><strong>DB Ranking</strong><span class="muted small">Top-N</span></div>
+      <table id="rankTbl">
+        <thead><tr><th>Category</th><th>Score</th><th>Collection</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </aside>
+  </div>
+
+  <section class="card">
+    <div class="rowh"><strong>Keywords</strong><span class="muted small">ranked, no useless terms</span></div>
+    <table id="kwTbl">
+      <thead><tr><th>Term</th><th>Specificity</th><th>Reason</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section class="card">
+    <div class="rowh"><strong>Hits (pointers to embeddings)</strong><span class="muted small">click a row to expand</span></div>
+    <table id="hitTbl">
+      <thead><tr><th>Category</th><th class="mono">ID</th><th>Sim</th><th>Sections</th><th>Acts</th><th>Jurisdiction</th></tr></thead>
+      <tbody></tbody>
+    </table>
+    <div id="hitPreview" class="code mono" style="margin-top:10px; display:none;"></div>
+  </section>
+
+  <section class="card">
+    <div class="rowh"><strong>Trace</strong><span class="muted small">debug info</span></div>
+    <pre id="trace" class="code"></pre>
+  </section>
+</main>
+
+<script>
+const API = location.origin;
+const el = id => document.getElementById(id);
+const fmt = x => (typeof x==='number' ? x.toFixed(3) : (x ?? ''));
+const setStatus = msg => el('status').textContent = msg || '';
+
+function renderKeywords(list){
+  const tb = el('kwTbl').querySelector('tbody'); tb.innerHTML = '';
+  (list||[]).forEach(k=>{
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${k.term}</td><td>${fmt(k.specificity)}</td><td class="muted small">${k.reason||''}</td>`;
+    tb.appendChild(tr);
+  });
+}
+
+function renderMeta(meta){
+  const div = el('meta'); div.innerHTML = '';
+  for(const key of ['acts','sections','jurisdictions']){
+    const arr = (meta && Array.isArray(meta[key])) ? meta[key] : [];
+    const h = document.createElement('div');
+    h.innerHTML = `<div class="muted small" style="margin-top:4px">${key}</div>`;
+    div.appendChild(h);
+    const wrap = document.createElement('div');
+    arr.forEach(v=>{ const s=document.createElement('span'); s.className='tag'; s.textContent=v; wrap.appendChild(s); });
+    if(arr.length===0){ const m=document.createElement('span'); m.className='muted small'; m.textContent='(none)'; wrap.appendChild(m); }
+    div.appendChild(wrap);
+  }
+}
+
+function renderRank(list){
+  const tb = el('rankTbl').querySelector('tbody'); tb.innerHTML='';
+  (list||[]).forEach(r=>{
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${r.category}</td><td>${fmt(r.score)}</td><td class="mono small">${r.sanitized_collection || r.collection || ''}</td>`;
+    tb.appendChild(tr);
+  });
+}
+
+function renderHits(hits){
+  const tb = el('hitTbl').querySelector('tbody'); tb.innerHTML='';
+  el('hitPreview').style.display='none';
+  (hits||[]).forEach(h=>{
+    const tr = document.createElement('tr');
+    tr.style.cursor='pointer';
+    tr.innerHTML = `
+      <td>${h.original_category || h.category || ''}</td>
+      <td class="mono small">${h.id || ''}</td>
+      <td>${fmt(h.sim || h.similarity || 0)}</td>
+      <td class="small">${(h.metadata && (h.metadata.sections||'')) || ''}</td>
+      <td class="small">${(h.metadata && (h.metadata.acts||'')) || ''}</td>
+      <td class="small">${(h.metadata && (h.metadata.jurisdictions||'')) || ''}</td>
+    `;
+    tr.addEventListener('click', ()=>{
+      const pv = el('hitPreview');
+      const head = h.doc_head || h.chunk_text_head || h.doc || '(no preview)';
+      pv.textContent = head + `\n\nmetadata:\n` + JSON.stringify(h.metadata||{},null,2);
+      pv.style.display='block';
+      pv.scrollIntoView({behavior:'smooth', block:'center'});
+    });
+    tb.appendChild(tr);
+  });
+}
+
+function renderTrace(out){ el('trace').textContent = JSON.stringify(out, null, 2); }
+
+async function runAgent(){
+  setStatus('Running…');
+
+  // Only the prompt; backend auto-tunes k’s
+  const body = { prompt: el('prompt').value.trim() };
+
+  try{
+    const res = await fetch(`${API}/first-step-agent`, {
+      method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body)
+    });
+    const j = await res.json();
+
+    const resultObj = j.result ?? j;
+    const metaObj   = j.result?.meta_filter_applied ?? j.meta_filters ?? {};
+    const rankList  = j.db_ranking ?? resultObj.db_ranking ?? [];
+    const hitsArr   = Array.isArray(resultObj.hits) ? resultObj.hits : (Array.isArray(j.hits) ? j.hits : []);
+
+    renderKeywords(j.keywords || []);
+    renderMeta(metaObj);
+    renderRank(rankList);
+    renderHits(hitsArr);
+    renderTrace(j);
+    setStatus(res.ok ? 'Done.' : 'Error');
+  }catch(err){
+    console.error(err);
+    setStatus('Error – see console');
+  }
+}
+
+document.getElementById('runBtn').addEventListener('click', runAgent);
+</script>
+</body>
+</html>

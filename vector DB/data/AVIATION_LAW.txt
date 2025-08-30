@@ -1,0 +1,93 @@
+INTRODUCTORY OVERVIEW OF AVIATION LAW
+What is Aviation Law?
+Aviation Law is the branch of law that governs air transport and navigation. It deals with the operation of aircraft and the maintenance of aviation facilities. In India, the subject of "Airways; aircraft and air navigation" falls under the Union List of the Constitution, giving the Parliament exclusive power to legislate on it. The legal framework for aviation is a complex mix of domestic statutes, rules, and regulations, heavily influenced by international conventions and standards set by organizations like the International Civil Aviation Organization (ICAO). The primary objectives of aviation law are to ensure the safety and security of air travel, regulate air traffic, and govern the rights and liabilities of air carriers, passengers, and other stakeholders in the aviation sector.
+
+PART I: THE PRIMARY LEGISLATIONS
+1. The Aircraft Act, 1934
+Description: This is the foundational and principal legislation that governs civil aviation in India. It is an enabling Act that empowers the Central Government to make rules for regulating the manufacture, possession, use, operation, sale, import, and export of aircraft and for all matters connected with air navigation. The detailed regulations are laid down in the Aircraft Rules, 1937, which are made under the authority of this Act. The Directorate General of Civil Aviation (DGCA) is the primary regulatory body that implements the provisions of the Act and the Rules.
+
+Key Provisions:
+
+Power of Central Government to make rules (Section 5): This is the most crucial provision, granting the Central Government wide-ranging powers to make rules to ensure the safety of air navigation. The subjects covered include:
+
+The registration and marking of aircraft.
+
+The airworthiness of aircraft and the licensing of personnel engaged in their maintenance.
+
+The licensing of pilots, navigators, and other crew members.
+
+The regulation of air traffic control.
+
+The investigation of accidents.
+
+Power of Central Government to make rules for protecting the public from danger (Section 5A): Empowers the government to make rules for the security of civil aviation, including the screening of passengers and baggage.
+
+Power to issue directions (Section 5B): The Director-General of Civil Aviation (DGCA) or any other specified officer is empowered to issue directions for the purpose of securing the safety of aircraft operations.
+
+Emergency powers (Section 6): In the interest of public safety or tranquility, the Central Government can cancel or suspend any license or certificate, or direct that any aircraft shall not be flown.
+
+Associated Legal Terminology:
+
+Aircraft: Any machine which can derive support in the atmosphere from reactions of the air, other than reactions of the air against the earth's surface, and includes balloons, airships, kites, gliders and flying machines.
+
+Aerodrome: Any definite or limited ground or water area intended to be used, either wholly or in part, for the landing or departure of aircraft.
+
+Airworthiness: The condition of an aircraft, its engines, propellers, and other components, which conforms to the approved design and is in a condition for safe operation.
+
+Directorate General of Civil Aviation (DGCA): The statutory regulatory body for civil aviation in India, primarily dealing with safety oversight, regulation of air transport services, and investigation of aviation accidents.
+
+2. The Airports Authority of India Act, 1994
+Description: This Act provides for the constitution of the Airports Authority of India (AAI) and for the transfer and vesting of the undertakings of the International Airports Authority of India and the National Airports Authority to the AAI. The AAI is the statutory body responsible for creating, upgrading, maintaining, and managing civil aviation infrastructure in India.
+
+Key Provisions:
+
+Constitution and incorporation of the Authority (Section 3): Provides for the establishment of the Airports Authority of India as a body corporate.
+
+Functions of the Authority (Section 12): Outlines the primary functions of the AAI, which include:
+
+Managing the airports, civil enclaves, and aeronautical communication stations efficiently.
+
+Providing air traffic services and air transport services at any airport.
+
+Planning, developing, constructing, and maintaining runways, taxiways, aprons, and terminal buildings.
+
+Establishing and maintaining hotels, restaurants, and restrooms at or near the airports.
+
+Powers of the Authority (Section 12A): The AAI has the power to make regulations, charge fees for its services, and enter into contracts.
+
+Associated Legal Terminology:
+
+Airports Authority of India (AAI): The statutory body working under the Ministry of Civil Aviation that is responsible for managing the civil aviation infrastructure in India.
+
+Air Traffic Service: Includes flight information service, alerting service, air traffic advisory service, and air traffic control service.
+
+Civil Enclave: An area at an airport belonging to any of the armed forces of the Union, which is set apart for use by aircraft engaged in scheduled air transport services.
+
+3. The Carriage by Air Act, 1972
+Description: This Act gives effect to international conventions that govern the liability of air carriers in case of death or injury to passengers, destruction or loss of, or damage to, baggage and cargo, and for damage occasioned by delay in the carriage by air. It incorporates the rules of the Warsaw Convention of 1929, the Hague Protocol of 1955, and the Montreal Convention of 1999 into Indian domestic law.
+
+Key Provisions:
+
+Application of Conventions to India (Sections 3 & 4): The Act makes the rules contained in the Schedules (which reproduce the text of the conventions) have the force of law in India in relation to any carriage by air, irrespective of the nationality of the aircraft performing the carriage.
+
+Liability of the Carrier (Chapter III of the Schedules): This is the core of the Act. It establishes a regime of presumed liability against the carrier.
+
+Death or Injury of Passengers: The carrier is liable for damage sustained in the event of the death or bodily injury of a passenger, if the accident which caused the damage took place on board the aircraft or in the course of embarking or disembarking.
+
+Destruction or Loss of Baggage or Cargo: The carrier is liable for damage sustained in the event of the destruction or loss of, or damage to, any registered baggage or any cargo.
+
+Limitation of Liability: The conventions establish a system of limited liability, meaning the carrier's liability for damages is capped at a certain monetary amount, unless it is proved that the damage resulted from an act or omission of the carrier done with intent to cause damage or recklessly and with knowledge that damage would probably result. The Montreal Convention provides for a two-tier system of liability for passenger death or injury, with a strict liability threshold up to a certain amount.
+
+Documents of Carriage: The Act lays down the requirements for the issuance of a passenger ticket, baggage check, and an air waybill for cargo.
+
+Associated Legal Terminology:
+
+Carrier: The entity that undertakes to carry passengers, baggage, or cargo by air.
+
+Warsaw Convention: An international convention which regulates liability for international carriage of persons, luggage, or goods performed by aircraft for reward.
+
+Montreal Convention: A modern international treaty that amended and replaced the Warsaw Convention system, providing for higher and more uniform levels of compensation.
+
+Special Drawing Rights (SDR): An international reserve asset created by the International Monetary Fund (IMF), which is used as the unit of account to express the monetary limits of liability under the Montreal Convention.
+
+Air Waybill: A non-negotiable document of title to goods, serving as a receipt for the shipper, which indicates that the carrier has accepted the goods listed and has an obligation to carry them to the airport of destination.

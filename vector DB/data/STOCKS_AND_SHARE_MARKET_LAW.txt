@@ -1,0 +1,101 @@
+INTRODUCTORY OVERVIEW OF STOCKS AND SHARES MARKET LAW
+What is Stocks and Shares Market Law?
+Stocks and Shares Market Law, more formally known as Securities Law, is the body of law that governs the issuance, sale, and trading of securities. Securities are financial instruments that represent an ownership position in a publicly-traded corporation (stock or share), a creditor relationship with a governmental body or a corporation (bond), or rights to ownership (option). The primary objective of this law is to protect the interests of investors, ensure that the securities market is fair, transparent, and efficient, and promote the development of and to regulate the capital market. In India, the securities market is regulated by a robust legal framework, with the Securities and Exchange Board of India (SEBI) acting as the apex regulatory authority.
+
+PART I: THE PRIMARY REGULATOR AND FRAMEWORK
+1. The Securities and Exchange Board of India Act, 1992 (SEBI Act)
+Description: This is the foundational statute that established the Securities and Exchange Board of India (SEBI) as a statutory body. The Act was enacted to protect the interests of investors in securities and to promote the development of, and to regulate, the securities market. SEBI is vested with wide-ranging powers to oversee and regulate all aspects of the Indian capital markets.
+
+Key Provisions:
+
+Establishment and Incorporation of Board (Section 3): Provides for the establishment of SEBI as a body corporate.
+
+Functions of the Board (Section 11): This is the core provision that outlines the primary functions of SEBI, which include:
+
+Regulating the business in stock exchanges and any other securities markets.
+
+Registering and regulating the working of stock brokers, sub-brokers, share transfer agents, merchant bankers, underwriters, and other intermediaries.
+
+Registering and regulating the working of depositories, custodians, and foreign institutional investors.
+
+Prohibiting fraudulent and unfair trade practices relating to securities markets.
+
+Prohibiting insider trading in securities.
+
+Regulating substantial acquisition of shares and take-overs of companies.
+
+Powers of Investigation (Section 11C): SEBI has the power to conduct investigations into the affairs of any intermediary or person associated with the securities market if it has reasonable grounds to believe that their transactions are being dealt with in a manner detrimental to the investors or the securities market.
+
+Penalties and Adjudication (Chapter VIA): The Act provides for stringent monetary penalties for various offenses, such as insider trading, non-disclosure of acquisition of shares, and fraudulent practices.
+
+Associated Legal Terminology:
+
+Securities and Exchange Board of India (SEBI): The statutory regulatory authority for the securities and commodity market in India.
+
+Securities: Include shares, scrips, stocks, bonds, debentures, derivative, units of a mutual fund, and any other marketable security of a like nature.
+
+Insider Trading: The trading of a company's securities by individuals with access to confidential or non-public, price-sensitive information.
+
+Capital Market: The part of a financial system concerned with raising capital by dealing in shares, bonds, and other long-term investments.
+
+2. The Securities Contracts (Regulation) Act, 1956 (SCRA)
+Description: This Act provides for the regulation of stock exchanges and transactions in securities. It is the principal law that governs the recognition, functioning, and control of stock exchanges in India.
+
+Key Provisions:
+
+Recognition of Stock Exchanges (Section 4): No stock exchange can operate without being granted recognition by the Central Government (powers now exercised by SEBI).
+
+Listing of Securities (Section 21): Empowers a recognized stock exchange to compel any public company to list its securities (i.e., have them admitted for trading on the exchange).
+
+Contracts and Options in Securities: The Act declares certain contracts in securities to be legal and valid, and it regulates options trading and other derivative contracts.
+
+Associated Legal Terminology:
+
+Stock Exchange: A body of individuals, whether incorporated or not, constituted for the purpose of assisting, regulating or controlling the business of buying, selling or dealing in securities.
+
+Listing of Securities: The process of getting securities admitted for trading on a recognized stock exchange.
+
+Derivatives: A financial security with a value that is reliant upon or derived from an underlying asset or group of assets. Common derivatives include futures contracts, forwards, options, and swaps.
+
+3. The Depositories Act, 1996
+Description: This Act was a landmark reform that provided the legal framework for the establishment of depositories in India. It enabled the holding and transfer of securities in electronic, dematerialized form, thereby eliminating the risks and delays associated with physical share certificates.
+
+Key Provisions:
+
+Rights and Obligations of Depositories (Chapter IV): The Act lays down the rights and duties of depositories, depository participants, and the beneficial owners of the securities.
+
+Dematerialization: The Act provides the legal basis for the process of "dematerialization," whereby a security holder can convert their physical securities into an equivalent number of securities in electronic form.
+
+Fungibility: Securities held in a depository are fungible, meaning they are identical and interchangeable. A beneficial owner is entitled to the same number of securities of the same class, but not the exact same certificates.
+
+Associated Legal Terminology:
+
+Depository: An entity that holds securities (like shares, bonds, etc.) of investors in electronic form at the request of the investors through a registered Depository Participant. In India, the two main depositories are the National Securities Depository Limited (NSDL) and the Central Depository Services (India) Limited (CDSL).
+
+Depository Participant (DP): An agent of the depository (like a stockbroker or a bank) through which investors interact with the depository.
+
+Dematerialization (Demat): The process of converting physical shares into an electronic format.
+
+Beneficial Owner: The person who is the real owner of the securities held in a dematerialized account.
+
+PART II: RELEVANT PROVISIONS FROM OTHER LAWS
+1. The Companies Act, 2013
+Description: While the Companies Act governs all companies, it contains several provisions that are fundamental to the functioning of the stock market, particularly those related to the public issuance of securities.
+
+Key Provisions:
+
+Prospectus and Allotment of Securities (Chapter III, Part I): This part contains detailed regulations for companies that wish to raise capital from the public.
+
+Prospectus (Section 26): A prospectus, which is an invitation to the public to subscribe to a company's securities, must contain all the material information and reports specified by SEBI to enable investors to make an informed decision.
+
+Public Offer and Private Placement (Section 23): The Act distinguishes between a public offer (which can be an Initial Public Offer - IPO or a Further Public Offer - FPO) and a private placement.
+
+Share Capital and Debentures (Chapter IV): This chapter governs the types of share capital a company can have, the issuance of shares, and the rights of shareholders.
+
+Associated Legal Terminology:
+
+Prospectus: Any document described or issued as a prospectus and includes any notice, circular, advertisement or other document inviting offers from the public for the subscription or purchase of any securities of a body corporate.
+
+Initial Public Offer (IPO): The process by which a private company can go public by sale of its stocks to the general public for the first time.
+
+Debenture: An instrument of debt issued by a company, which is typically secured by the company's assets.

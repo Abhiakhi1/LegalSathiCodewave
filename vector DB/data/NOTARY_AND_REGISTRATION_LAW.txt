@@ -1,0 +1,92 @@
+INTRODUCTORY OVERVIEW OF NOTARY AND REGISTRATION LAW
+What is Notary and Registration Law?
+Notary and Registration Law in India is a body of law that governs the formal authentication of documents and the official recording of certain transactions, particularly those related to immovable property. This field is composed of two distinct but interconnected parts:
+
+The Law of Notaries: This governs the functions of a Notary Public, who is a public officer appointed to serve the public in non-contentious matters, primarily to authenticate documents, administer oaths, and perform other formal acts.
+
+The Law of Registration: This governs the process of officially recording documents to ensure their authenticity, provide public notice of the transaction, and prevent fraud.
+
+These laws are crucial for providing legal sanctity, evidentiary value, and public notice to a wide range of personal and commercial documents and transactions.
+
+PART I: LAW OF NOTARIES
+1. The Notaries Act, 1952
+Description: This is the primary legislation that consolidates and amends the law relating to notaries in India. It provides for the appointment of notaries by the Central and State Governments and regulates their professional conduct and functions. A Notary Public is a person of integrity appointed by the government to act as an impartial witness in the signing of documents and to certify their authenticity.
+
+Key Provisions:
+
+Appointment of Notaries (Section 3): Empowers the Central Government and State Governments to appoint any legal practitioner or other person who possesses the prescribed qualifications as a notary.
+
+Register of Notaries (Section 4): Mandates the maintenance of a Register of Notaries by the government.
+
+Functions of Notaries (Section 8): This is the core provision that outlines the functions of a notary, which include:
+
+To verify, authenticate, certify, or attest the execution of any instrument.
+
+To administer an oath to, or take an affidavit from, any person.
+
+To translate and verify the translation of any document from one language into another.
+
+To act as a Commissioner to record evidence in any civil or criminal trial if so directed by any court.
+
+To present any promissory note, hundi or bill of exchange for acceptance or payment or demand better security.
+
+To note or protest the dishonor of a promissory note, hundi or bill of exchange.
+
+Seal of Notary (Section 12): Every notary is required to use a plain circular seal of the prescribed diameter, bearing their name, the name of the area for which they are appointed, and the registration number.
+
+Professional Misconduct: The Act and the Notaries Rules, 1956, lay down a code of conduct for notaries. A notary can be removed from the Register for professional misconduct.
+
+Associated Legal Terminology:
+
+Notary Public: A public officer constituted by law to serve the public in non-contentious matters usually concerned with estates, deeds, powers-of-attorney, and foreign and international business.
+
+Attestation: The act of witnessing the signing of a formal document and then signing it oneself to verify that it was properly signed by those who made it.
+
+Authentication: The act of confirming that something is genuine or that a document is a true copy.
+
+Affidavit: A written statement confirmed by oath or affirmation, for use as evidence in court. A notary is authorized to administer the oath for an affidavit.
+
+Protest: A formal declaration made by a notary, on behalf of the holder of a bill or note, that it has been dishonored.
+
+PART II: LAW OF REGISTRATION
+1. The Registration Act, 1908
+Description: This Act consolidates the law relating to the registration of documents. Its primary purpose is to provide a method of public registration of documents to give notice to the world of legal rights and obligations arising from them, ensure authenticity, and prevent fraud. It is a crucial procedural law for real estate transactions and other significant legal instruments.
+
+Key Provisions:
+
+Documents of which Registration is Compulsory (Section 17): This is the most critical section. It mandates the registration of certain documents to make them legally valid and enforceable. These include:
+
+Instruments of gift of immovable property.
+
+Non-testamentary instruments which create, declare, assign, limit or extinguish any right, title or interest in immovable property of a value of one hundred rupees and upwards (this covers most sale deeds, lease deeds, and mortgage deeds).
+
+Leases of immovable property for any term exceeding one year.
+
+Documents of which Registration is Optional (Section 18): This section lists documents for which registration is optional, such as leases for a term not exceeding one year and wills. While registration of a will is not compulsory, it is often recommended to ensure its authenticity and prevent future disputes.
+
+Time for Presentation (Sections 23-26): Documents (other than wills) must generally be presented for registration at the proper registration office within four months from the date of their execution.
+
+Place of Registration (Sections 28-31): Documents relating to immovable property must be presented for registration in the office of a Sub-Registrar within whose sub-district the whole or some portion of the property is situated.
+
+Effect of Non-Registration (Section 49): This provision lays down the serious consequences of not registering a document that is required to be registered. Such a document:
+
+Shall not affect any immovable property comprised therein.
+
+Shall not confer any power to adopt.
+
+Shall not be received as evidence of any transaction affecting such property.
+In essence, an unregistered sale deed for a property worth more than Rs. 100 is legally invalid and cannot be used to prove ownership in court.
+
+Registration Establishment: The Act provides for the establishment of registration offices under an Inspector-General of Registration for the state, with Registrars for districts and Sub-Registrars for sub-districts.
+
+Associated Legal Terminology:
+
+Registration: The official recording of a document with a public authority (the Sub-Registrar) to make it legally effective and to provide public notice of the transaction.
+
+Instrument: A formal legal document that creates, modifies, or terminates a right (e.g., a sale deed, gift deed, lease deed).
+
+Execution: The act of signing a legal instrument in accordance with the formalities required by law, which makes it valid.
+
+Constructive Notice: A legal principle that signifies a person should have known of a legal action or fact, even if they did not have actual knowledge of it. Registration of a document serves as constructive notice to the public, meaning anyone interested in the property is deemed to be aware of the registered transaction.
+
+Sub-Registrar: The public official responsible for registering documents within a specific local jurisdiction (a sub-district).

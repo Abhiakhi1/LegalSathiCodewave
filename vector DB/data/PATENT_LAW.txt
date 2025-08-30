@@ -1,0 +1,73 @@
+INTRODUCTORY OVERVIEW OF PATENT LAW
+What is Patent Law?
+Patent Law is a specialized branch of Intellectual Property Law that deals with the protection of inventions. It grants the inventor an exclusive right, for a limited period, to make, use, sell, or import their invention. This exclusive right is a reward for the inventor's ingenuity and the disclosure of the invention to the public. The primary objective of patent law in India is to encourage scientific research, innovation, new technology, and industrial progress by providing a legal framework that protects the commercial interests of inventors. The entire patent system in India is governed by the Patents Act, 1970, and the rules made thereunder.
+
+PART I: THE PRIMARY LEGISLATION
+1. The Patents Act, 1970
+Description: This Act is the sole legislation that governs the patent system in India. It was enacted to provide a comprehensive legal framework for the protection of inventions and to encourage scientific research, innovation, and industrial progress. The Act has been significantly amended over the years, most notably in 1999, 2002, and 2005, to bring Indian patent law in line with its international obligations under the TRIPS (Trade-Related Aspects of Intellectual Property Rights) Agreement.
+
+Key Provisions:
+
+What can be Patented (Section 2(1)(j)): An invention is patentable if it meets three key criteria:
+
+Novelty: The invention must be new and must not have been published or used anywhere in the world before the date of filing the patent application. It should not form part of the "prior art."
+
+Inventive Step (Non-Obviousness): The invention must involve a technical advance as compared to the existing knowledge or have economic significance, or both, and should not be obvious to a person skilled in the relevant field of technology.
+
+Capable of Industrial Application: The invention must be capable of being made or used in an industry.
+
+What are not Inventions (Section 3): This is a crucial section that lists subject matter that is not patentable in India, even if it meets the three criteria above. This includes:
+
+Frivolous inventions or anything contrary to natural laws.
+
+Discoveries of scientific principles or the formulation of an abstract theory.
+
+The mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance (this is particularly relevant for pharmaceutical patents).
+
+A method of agriculture or horticulture.
+
+Any process for the medicinal, surgical, curative, prophylactic, diagnostic, therapeutic or other treatment of human beings or animals.
+
+A mathematical or business method or a computer program per se or algorithms.
+
+A presentation of information.
+
+Topography of integrated circuits.
+
+An invention which in effect, is traditional knowledge.
+
+Procedure for obtaining a Patent (Chapters IV-VIII): The Act lays down a detailed procedure, which includes:
+
+Filing of a patent application (provisional or complete specification).
+
+Publication of the application after 18 months.
+
+Examination of the application by the Patent Office.
+
+Grant or refusal of the patent.
+
+Term of Patent (Section 53): The term of every patent granted is twenty years from the date of filing the patent application. To keep the patent in force, a renewal fee must be paid annually.
+
+Rights of Patentee (Section 48): A patent grants the patentee the exclusive right to prevent third parties, who do not have their consent, from the act of making, using, offering for sale, selling, or importing the patented product or process in India.
+
+Compulsory Licensing (Sections 84-92): To balance the rights of the patentee with the public interest, the Act contains provisions for the grant of compulsory licenses. A compulsory license can be applied for by any person after three years from the date of the grant of a patent on grounds that the reasonable requirements of the public have not been met, the patented invention is not available to the public at a reasonably affordable price, or the patented invention is not worked in the territory of India.
+
+Infringement of Patents (Section 104): The Act provides for civil remedies for the infringement of a patent. The patentee can file a suit in a court not inferior to a District Court to seek relief in the form of an injunction (to stop the infringing activity) and damages or an account of profits.
+
+Associated Legal Terminology:
+
+Patent: An exclusive right granted by the government to an inventor for a limited period of time for an invention.
+
+Invention: A new product or process involving an inventive step and capable of industrial application.
+
+Inventive Step: A feature of an invention that makes the invention not obvious to a person skilled in the art.
+
+Prior Art: All information that has been made available to the public in any form before a given date that might be relevant to a patent's claims of novelty and non-obviousness.
+
+Specification: The technical document that describes the invention. It can be a provisional specification (an initial description) or a complete specification (a full and detailed description).
+
+Claims: The part of the patent specification that defines the boundaries of the legal protection conferred by the patent.
+
+Compulsory License: An authorization given by the Controller General of Patents to a third party to make, use, or sell a patented invention without the consent of the patent owner.
+
+Infringement: The violation of the exclusive rights of a patent holder.

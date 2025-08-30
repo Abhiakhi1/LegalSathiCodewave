@@ -1,0 +1,60 @@
+INTRODUCTORY OVERVIEW OF CONSUMER PROTECTION LAW
+What is Consumer Protection Law?
+Consumer Protection Law is a branch of civil law designed to protect the interests of consumers. It provides a legal framework to safeguard consumers against unfair trade practices, defective goods, deficient services, and other forms of exploitation by sellers and manufacturers. The law aims to ensure that consumers have access to safe products, accurate information, and a speedy and effective mechanism for redressing their grievances. In India, this field was revolutionized by the Consumer Protection Act, 1986, which established a dedicated three-tier quasi-judicial machinery for consumer dispute resolution. This has now been replaced by the more comprehensive Consumer Protection Act, 2019, which has modernized the law to address new challenges posed by e-commerce, digital advertising, and complex supply chains.
+
+PART I: THE PRIMARY LEGISLATION
+1. The Consumer Protection Act, 2019
+Description: This is the current and principal legislation that governs the protection of consumer rights in India. It replaced the Consumer Protection Act, 1986, to provide a more robust framework for the timely and effective administration and settlement of consumers' disputes. The 2019 Act has widened the definition of a "consumer," introduced new concepts like product liability and unfair contracts, established a new regulatory authority (the CCPA), and brought e-commerce and direct selling under its ambit.
+
+Key Provisions:
+
+Definition of 'Consumer' (Section 2(7)): A consumer is any person who buys any goods or hires or avails of any service for a consideration. Importantly, this definition now explicitly includes transactions made through offline or online modes, including electronic means, teleshopping, direct selling, or multi-level marketing. It does not include a person who obtains goods for resale or for any commercial purpose.
+
+Rights of Consumers (Section 2(9)): The Act defines six key consumer rights:
+
+The right to be protected against the marketing of goods, products or services which are hazardous to life and property.
+
+The right to be informed about the quality, quantity, potency, purity, standard and price of goods, products or services.
+
+The right to be assured, wherever possible, access to a variety of goods, products or services at competitive prices.
+
+The right to be heard and to be assured that consumer's interests will receive due consideration at appropriate fora.
+
+The right to seek redressal against unfair trade practices or restrictive trade practices or unscrupulous exploitation of consumers.
+
+The right to consumer awareness.
+
+Central Consumer Protection Authority (CCPA) (Chapter III): This is a major addition in the 2019 Act. The CCPA is established as a regulatory body with powers to investigate, recall unsafe goods, and impose penalties for violations of consumer rights, unfair trade practices, and false or misleading advertisements. It can act suo motu and has an investigation wing.
+
+Consumer Disputes Redressal Commissions (Chapter IV): The Act continues the three-tier quasi-judicial machinery for resolving consumer disputes, but with enhanced pecuniary jurisdictions:
+
+District Consumer Disputes Redressal Commission (District Commission): For claims up to Rs. 50 lakh.
+
+State Consumer Disputes Redressal Commission (State Commission): For claims between Rs. 50 lakh and Rs. 2 crore.
+
+National Consumer Disputes Redressal Commission (National Commission): For claims exceeding Rs. 2 crore.
+
+Product Liability (Chapter VI): This is another significant new concept. It introduces the liability of a product manufacturer, product service provider, or product seller to compensate a consumer for any harm caused by a defective product. A consumer can bring a product liability action for harm caused by defects in manufacturing, design, or a failure to provide adequate instructions or warnings.
+
+Unfair Contracts (Section 2(46)): The Act introduces the concept of "unfair contracts," which are contracts between a manufacturer or trader and a consumer that have terms which cause a significant change in the rights of such consumer. The State and National Commissions have the power to declare such contracts null and void.
+
+Mediation (Chapter V): The Act provides for mediation as an alternative dispute resolution mechanism. The consumer commissions can refer a dispute to mediation with the consent of the parties to facilitate a quicker and amicable settlement.
+
+Rules on E-commerce: The Act empowers the Central Government to make rules for e-commerce entities to protect consumer interests, which include regulations on displaying seller details, country of origin, and handling consumer grievances.
+
+Associated Legal Terminology:
+
+Consumer: A person who buys goods or avails services for a consideration, for personal use.
+
+Defect: Any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law.
+
+Deficiency: Any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law in relation to any service.
+
+Unfair Trade Practice: A trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice. This includes making false or misleading representations.
+
+Product Liability: The responsibility of a product manufacturer or seller to compensate for any harm caused to a consumer by a defective product.
+
+E-commerce: The buying or selling of goods or services using an electronic network.
+
+Misleading Advertisement: An advertisement which falsely describes a product or service, gives a false guarantee, or is likely to mislead the consumers as to the nature, substance, quantity or quality of such product or service.
+

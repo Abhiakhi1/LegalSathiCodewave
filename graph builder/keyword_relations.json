@@ -1,0 +1,16 @@
+{
+  "technology": {
+    "energy": "Technology requires energy to function and operate."
+  },
+  "education": {
+    "technology": "Education uses technology to enhance and facilitate the learning process.",
+    "economy": "\"A well-educated workforce can increase a country's economic growth and productivity.\""
+  },
+  "health": {
+    "economy": "A healthy workforce is more productive, leading to increased economic growth."
+  },
+  "energy": {
+    "technology": "Energy is the driving force behind the development and operation of technology.",
+    "health": "\"Having sufficient energy is essential for maintaining optimal physical and mental health.\""
+  }
+}

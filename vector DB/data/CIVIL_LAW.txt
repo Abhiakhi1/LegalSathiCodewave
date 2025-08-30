@@ -1,0 +1,149 @@
+INTRODUCTORY OVERVIEW OF CIVIL LAW
+What is Civil Law?
+Civil Law in India governs disputes between private individuals or organizations. Unlike criminal law, which deals with offenses against the state, civil law addresses private wrongs where the remedy is typically compensation (damages) or a specific action (injunction, specific performance) rather than punishment. It encompasses a vast range of subjects, including contracts, property, torts (civil wrongs), and family matters. The procedural framework for civil litigation is primarily governed by the Code of Civil Procedure, 1908.
+
+PART I: CIVIL PROCEDURE
+This area of law prescribes the procedure to be followed in civil courts for the adjudication of civil suits.
+
+1. The Code of Civil Procedure, 1908 (CPC)
+Description: The Code of Civil Procedure (CPC) is the primary procedural law that consolidates and amends the laws relating to the procedure of the Courts of Civil Judicature in India. It provides a comprehensive framework for all stages of a civil lawsuit, from the filing of a suit to the execution of a decree, ensuring that disputes are adjudicated in a fair and orderly manner.
+
+Key Provisions:
+
+Jurisdiction of Courts (Section 9): Grants civil courts the jurisdiction to try all suits of a civil nature unless their cognizance is either expressly or impliedly barred.
+
+Res Judicata (Section 11): A fundamental principle that prevents the re-litigation of a matter that has already been finally decided between the same parties by a competent court.
+
+Institution of Suit (Section 26 & Order IV): A suit is instituted by the presentation of a plaint, which is the statement of the plaintiff's claim.
+
+Summons (Section 27 & Order V): Details the procedure for issuing a summons to the defendant to notify them of the suit and give them an opportunity to defend it.
+
+Pleadings (Order VI): Governs the drafting of pleadings (plaint and written statement), which are the formal written statements of the parties.
+
+Judgment and Decree (Section 33 & Order XX): After the trial, the court pronounces a judgment, which is followed by a decree—the formal expression of the adjudication that conclusively determines the rights of the parties.
+
+Execution of Decree (Part II & Order XXI): This is the largest part of the procedural code, detailing the methods by which a court's decree can be enforced or executed, such as by attachment and sale of property or arrest of the judgment-debtor.
+
+Associated Legal Terminology:
+
+Plaint: The statement of claim filed by the plaintiff.
+
+Written Statement: The defendant's formal reply to the plaint.
+
+Decree: The formal expression of the court's decision that conclusively determines the rights of the parties.
+
+Order: The formal expression of any decision of a Civil Court which is not a decree.
+
+Injunction: A court order compelling a party to do or refrain from doing a specific act.
+
+PART II: LAW OF CONTRACTS
+This body of law governs legally enforceable agreements and forms the foundation of all commercial transactions.
+
+1. The Indian Contract Act, 1872
+Description: This is the principal legislation that governs contracts in India. It defines the essential elements of a valid contract, the principles of performance and breach, and the remedies available.
+
+Key Provisions:
+
+Formation of a Contract (Section 10): For an agreement to be a valid contract, it requires: an offer and acceptance, lawful consideration, a lawful object, competent parties, and free consent.
+
+Free Consent (Section 14): Consent is free when it is not caused by coercion, undue influence, fraud, misrepresentation, or mistake. Contracts without free consent are generally voidable.
+
+Void and Voidable Contracts: The Act distinguishes between agreements that are void from the beginning (e.g., an agreement with an unlawful object) and contracts that are voidable at the option of one party (e.g., a contract entered into under coercion).
+
+Breach of Contract (Section 73): When a contract is breached, the aggrieved party is entitled to receive compensation for any loss or damage that naturally arose in the usual course of things from such breach.
+
+Specific Contracts: The Act also contains provisions for specific types of contracts, including indemnity, guarantee, bailment, pledge, and agency.
+
+Associated Legal Terminology:
+
+Contract: An agreement enforceable by law.
+
+Consideration: "Something for something" (quid pro quo); the price for a promise.
+
+Void Agreement: An agreement not enforceable by law.
+
+Voidable Contract: An agreement which is enforceable at the option of one or more of the parties thereto, but not at the option of the other or others.
+
+2. The Specific Relief Act, 1963
+Description: This Act provides remedies for the breach of a contract when monetary compensation is not an adequate relief. It is a remedial statute, supplemental to the Indian Contract Act.
+
+Key Provisions:
+
+Specific Performance of Contract (Part II): This is the core of the Act. It allows a court to order a party to perform their exact contractual obligations. Following the 2018 amendment, specific performance is now the rule rather than an exception.
+
+Injunctions (Part III): Provides for preventive relief. A perpetual injunction can be granted to prevent the breach of an obligation, while a temporary injunction can be granted at any stage of a suit.
+
+Declaratory Decrees: Allows a person to file a suit for a declaration of their legal character or right to any property.
+
+Associated Legal Terminology:
+
+Specific Performance: A court-ordered remedy that requires precise fulfillment of a contractual obligation.
+
+Declaratory Decree: A binding judgment from a court defining the legal relationship between parties and their rights in a matter.
+
+PART III: PROPERTY LAW
+This area of law governs the rights, interests, and transfer of property.
+
+1. The Transfer of Property Act, 1882
+Description: This Act regulates the transfer of property between living persons (inter vivos). It provides a systematic and uniform law for various modes of transfer, such as sale, mortgage, lease, and gift.
+
+Key Provisions:
+
+Sale (Section 54): The transfer of ownership in exchange for a price. A sale of immovable property valued at Rs. 100 or more must be made by a registered instrument.
+
+Mortgage (Section 58): The transfer of an interest in specific immovable property to secure a loan.
+
+Lease (Section 105): The transfer of a right to enjoy property for a certain time in consideration of a price (rent).
+
+Gift (Section 122): The voluntary transfer of property without consideration.
+
+Rule Against Perpetuity (Section 14): Prevents the tying up of property for an indefinite period.
+
+Associated Legal Terminology:
+
+Immovable Property: Includes land, buildings, and benefits arising out of land.
+
+Vested Interest: A present, fixed right of future enjoyment.
+
+Contingent Interest: An interest that takes effect only on the happening of a specified uncertain event.
+
+2. The Registration Act, 1908
+Description: This Act provides for the registration of documents, which gives them legal validity and provides public notice of the transaction.
+
+Key Provisions:
+
+Compulsory Registration (Section 17): Mandates the registration of certain documents, including instruments of gift of immovable property, and non-testamentary instruments that create or extinguish any right in immovable property valued at Rs. 100 or more.
+
+Effect of Non-Registration (Section 49): A document that is required to be registered but is not, cannot affect the immovable property it relates to or be received as evidence of any transaction affecting such property.
+
+Associated Legal Terminology:
+
+Registration: The official recording of a document with a public authority (the Sub-Registrar).
+
+Constructive Notice: A legal fiction that signifies a person should have known of a legal fact. Registration serves as constructive notice to the public.
+
+PART IV: LAW OF TORTS
+What is the Law of Torts?
+The law of torts is a branch of civil law that is largely uncodified and based on English common law principles. A tort is a civil wrong that causes a claimant to suffer loss or harm, resulting in legal liability for the person who commits the tortious act. The primary remedy is an award of unliquidated damages.
+
+Key Torts and Principles:
+
+Negligence: The most common tort. It is the breach of a legal duty of care owed by one person to another, which results in damage. Key elements are: a duty of care, breach of that duty, and resulting damage.
+
+Nuisance: Unlawful interference with a person's use or enjoyment of land.
+
+Defamation: The publication of a false statement that lowers a person's reputation. It can be libel (permanent form) or slander (transient form).
+
+Trespass: Direct and forcible interference with a person's body (assault and battery), land, or goods.
+
+Strict and Absolute Liability: Principles that hold a person liable for harm caused by a hazardous substance or activity, regardless of fault. Absolute liability is an Indian innovation with no exceptions.
+
+Vicarious Liability: The liability of one person for the torts committed by another, typically in an employer-employee relationship.
+
+Associated Legal Terminology:
+
+Tort: A civil wrong, independent of contract, for which the remedy is an action for unliquidated damages.
+
+Unliquidated Damages: Damages that are not pre-determined but are assessed by the court based on the loss suffered.
+
+Duty of Care: A legal obligation to adhere to a standard of reasonable care while performing any acts that could foreseeably harm others.

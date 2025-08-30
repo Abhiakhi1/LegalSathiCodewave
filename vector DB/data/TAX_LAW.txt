@@ -1,0 +1,112 @@
+INTRODUCTORY OVERVIEW OF TAX LAW
+What is Tax Law?
+Tax Law in India is the body of law that governs the levy, collection, and administration of taxes by the government. The power to levy taxes is a sovereign power of the state, and it is exercised through legislation. The Constitution of India provides the framework for the division of taxing powers between the Union Government and the State Governments. No tax can be levied or collected except by the authority of law (Article 265 of the Constitution). Taxes are broadly classified into two categories: Direct Taxes (levied directly on the income or wealth of a person) and Indirect Taxes (levied on goods and services, with the burden being passed on to the consumer).
+
+PART I: DIRECT TAXES
+Direct tax is a tax that a person or organization pays directly to the entity that imposed it. The primary direct tax in India is the Income Tax.
+
+1. The Income-tax Act, 1961
+Description: This is the principal legislation in India that governs the levy and collection of tax on income. It provides for the determination of taxable income, the rates of taxation, and the procedure for assessment, collection, and recovery of tax. The Act is amended annually by the Finance Act passed by the Parliament.
+
+Key Provisions and Concepts:
+
+Basis of Charge (Section 4): The Act levies income tax on the "total income" of a person for a "previous year" at the rates prescribed for the relevant "assessment year."
+
+Residential Status (Section 6): The tax liability of a person in India depends on their residential status. A person can be a "Resident and Ordinarily Resident" (ROR), "Resident but Not Ordinarily Resident" (RNOR), or a "Non-Resident" (NR). An ROR is taxed on their global income, while an NR is taxed only on income earned or received in India.
+
+Heads of Income (Section 14): To compute the total income, all income is classified under five heads:
+
+Salaries: Income received by an employee from an employer.
+
+Income from House Property: Income from renting out a property.
+
+Profits and Gains of Business or Profession (PGBP): Income earned from carrying on a business or profession.
+
+Capital Gains: Profit arising from the transfer of a capital asset (e.g., property, shares).
+
+Income from Other Sources: Residual head for income that does not fall under the other four heads (e.g., interest from savings accounts, lottery winnings).
+
+Deductions from Gross Total Income (Chapter VI-A): The Act allows for certain deductions from the Gross Total Income to arrive at the Total Income. Popular deductions include Section 80C (for investments in specified instruments like PPF, LIC), Section 80D (for health insurance premiums), and Section 80TTA (for interest on savings accounts).
+
+Tax Deduction at Source (TDS): A mechanism where the payer of an income (e.g., an employer paying a salary) is required to deduct tax at the source and deposit it with the government on behalf of the recipient.
+
+Advance Tax: A system where taxpayers are required to pay their income tax in installments throughout the year, rather than as a lump sum at the end.
+
+Associated Legal Terminology:
+
+Assessee: A person by whom any tax or any other sum of money is payable under the Act.
+
+Previous Year: The financial year in which the income is earned (April 1 to March 31).
+
+Assessment Year: The financial year immediately following the previous year, in which the income earned in the previous year is taxed.
+
+Gross Total Income (GTI): The aggregate income computed under the five heads of income.
+
+Total Income: The income on which tax is actually levied, calculated after subtracting deductions under Chapter VI-A from the GTI.
+
+Permanent Account Number (PAN): A ten-digit alphanumeric number issued by the Income Tax Department to identify taxpayers.
+
+PART II: INDIRECT TAXES
+Indirect tax is a tax collected by an intermediary (such as a retail store) from the person who bears the ultimate economic burden of the tax (such as the consumer). The primary indirect tax in India is the Goods and Services Tax (GST).
+
+1. The Goods and Services Tax (GST) Regime (from 2017)
+Description: GST is a comprehensive, multi-stage, destination-based indirect tax that has replaced many indirect taxes in India, such as excise duty, VAT, and service tax. It is levied on every value addition in the supply chain of goods and services. The GST regime is governed by a set of interconnected laws and is administered by the GST Council, a constitutional body.
+
+Key Legislations:
+
+The Central Goods and Services Tax (CGST) Act, 2017: Governs the levy and collection of CGST by the Central Government on intra-state supplies of goods and services.
+
+The Integrated Goods and Services Tax (IGST) Act, 2017: Governs the levy and collection of IGST by the Central Government on inter-state supplies of goods and services, as well as on imports.
+
+The State Goods and Services Tax (SGST) Acts, 2017: Each state has its own SGST Act that governs the levy and collection of SGST by the State Government on intra-state supplies.
+
+Key Provisions and Concepts:
+
+Concept of 'Supply' (Section 7 of CGST Act): Supply is the taxable event under GST. It is a broad term that includes all forms of supply of goods or services such as sale, transfer, barter, exchange, license, rental, lease, or disposal made for a consideration in the course or furtherance of business.
+
+Levy and Collection (Section 9 of CGST Act): CGST and SGST are levied on intra-state supplies, while IGST is levied on inter-state supplies.
+
+Input Tax Credit (ITC): This is the cornerstone of GST. It is a mechanism that allows a business to claim credit for the GST it has paid on its inputs (raw materials, services, etc.) and set it off against its output tax liability. This avoids the cascading effect of taxes.
+
+GST Council (Article 279A of the Constitution): A constitutional body comprising the Union Finance Minister, the Union Minister of State for Finance, and the Finance Ministers of all states. It makes recommendations to the Union and the States on all important issues related to GST, such as tax rates, exemptions, and thresholds.
+
+Composition Levy (Section 10 of CGST Act): A simplified tax payment scheme for small taxpayers with a specified turnover, allowing them to pay tax at a fixed percentage of their turnover without the hassle of detailed compliance.
+
+Associated Legal Terminology:
+
+GST: A destination-based tax on consumption of goods and services.
+
+Intra-State Supply: Supply of goods or services where the location of the supplier and the place of supply are in the same state.
+
+Inter-State Supply: Supply of goods or services where the location of the supplier and the place of supply are in different states.
+
+Input Tax Credit (ITC): The credit of tax paid on inputs that can be used to offset the tax liability on outputs.
+
+Goods and Services Tax Identification Number (GSTIN): A unique 15-digit identification number assigned to every taxpayer registered under GST.
+
+2. The Customs Act, 1962
+Description: This Act consolidates and amends the law relating to customs. It provides the legal framework for the levy and collection of customs duties on goods imported into or exported from India. It also regulates the import and export procedures, prohibitions, and penalties.
+
+Key Provisions and Concepts:
+
+Levy of Customs Duties (Section 12): Customs duties are levied on goods imported into or exported from India at the rates specified under the Customs Tariff Act, 1975.
+
+Valuation of Goods: The value of the goods on which customs duty is levied is the transaction value, i.e., the price actually paid or payable for the goods when sold for export to India.
+
+Types of Customs Duties:
+
+Basic Customs Duty (BCD): The standard rate of duty levied on imported goods.
+
+Countervailing Duty (CVD): Levied on imported goods to offset the excise duty that is levied on similar goods manufactured in India. (Largely subsumed by IGST under the GST regime).
+
+Anti-dumping Duty: Levied on imported goods that are sold at a price lower than their normal value in the exporting country, to protect the domestic industry.
+
+Associated Legal Terminology:
+
+Customs Duty: A tax imposed on the import and export of goods.
+
+Bill of Entry: A legal document filed by an importer with the customs authorities, declaring the details of the imported goods.
+
+Shipping Bill: A document filed by an exporter with the customs authorities, declaring the details of the goods being exported.
+
+Dutiable Goods: Any goods which are chargeable to duty and on which duty has not been paid.

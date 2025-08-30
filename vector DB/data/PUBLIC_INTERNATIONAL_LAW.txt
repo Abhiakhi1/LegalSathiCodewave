@@ -1,0 +1,117 @@
+INTRODUCTORY OVERVIEW OF PUBLIC INTERNATIONAL LAW
+What is Public International Law?
+Public International Law is the body of legal rules, norms, and standards that apply between sovereign states and other entities that are legally recognized as international actors. It governs the relationships between states in matters such as war, peace, diplomacy, trade, and human rights. Unlike domestic law, which is created by a national legislature, international law primarily derives from international conventions (treaties), customary state practice, and general principles of law. In India, the Constitution provides a framework for the application of international law. Article 51 of the Constitution directs the State to foster respect for international law and treaty obligations, and Article 253 empowers the Parliament to enact laws to implement international treaties.
+
+PART I: CONSTITUTIONAL FRAMEWORK
+The Constitution of India, 1950
+
+Description: The Constitution of India lays down the principles for the country's engagement with the international community and provides the legal authority for the incorporation of international law into the domestic legal system.
+
+Key Provisions:
+
+Article 51 (Promotion of international peace and security): This is a Directive Principle of State Policy which states that the State shall endeavor to:
+
+(a) promote international peace and security;
+
+(b) maintain just and honorable relations between nations;
+
+(c) foster respect for international law and treaty obligations in the dealings of organized peoples with one another; and
+
+(d) encourage settlement of international disputes by arbitration.
+
+Article 253 (Legislation for giving effect to international agreements): This article gives the Parliament of India the overriding power to make any law for the whole or any part of the territory of India for implementing any treaty, agreement, or convention with any other country or countries or any decision made at any international conference, association, or other body. This power allows the Parliament to legislate on subjects that are normally in the State List if it is necessary to implement an international obligation.
+
+Seventh Schedule (Union List, Entries 10-21): These entries give the Union Government exclusive legislative power over matters related to foreign affairs, including diplomatic relations, United Nations Organisation, participation in international conferences, entering into and implementing treaties, war and peace, and extradition.
+
+Associated Legal Terminology:
+
+Treaty: A formally concluded and ratified agreement between states.
+
+International Customary Law: Rules of law derived from the consistent practice of States acting out of a sense of legal obligation.
+
+Dualism: The legal theory that international law and domestic law are two separate legal systems. For an international law to apply domestically, it must be expressly incorporated into domestic law through legislation. India largely follows this principle.
+
+Monism: The legal theory that international and domestic law form a single, unified legal system.
+
+PART II: KEY INDIAN LEGISLATIONS IMPLEMENTING INTERNATIONAL LAW
+1. The Geneva Conventions Act, 1960
+Description: This Act was enacted to give effect to the four Geneva Conventions of August 12, 1949, to which India is a signatory. These conventions are the cornerstone of International Humanitarian Law (IHL), which regulates the conduct of armed conflict and seeks to limit its effects.
+
+Key Provisions:
+
+Punishment of grave breaches of Conventions (Section 3): Provides for severe punishment, including the death penalty or life imprisonment, for persons who commit grave breaches of the conventions, such as willful killing, torture, or inhuman treatment of protected persons.
+
+Protected Persons: The Act protects various categories of persons during armed conflict, including prisoners of war, the wounded and sick in armed forces, and civilians.
+
+Prohibition of use of Red Cross and other emblems (Section 12): Prohibits the unauthorized use of the emblem of the Red Cross on a white ground, or the words "Red Cross" or "Geneva Cross."
+
+Associated Legal Terminology:
+
+International Humanitarian Law (IHL): A set of rules which seek, for humanitarian reasons, to limit the effects of armed conflict. It is also known as the law of war or the law of armed conflict.
+
+Grave Breaches: The most serious category of violations of the Geneva Conventions.
+
+Prisoner of War (POW): A combatant who is captured and held by an enemy power during or immediately after an armed conflict.
+
+2. The Extradition Act, 1962
+Description: This Act consolidates and amends the law relating to the extradition of fugitive criminals from India to foreign states and from foreign states to India. Extradition is the formal process by which one state surrenders an individual to another state for prosecution or punishment for crimes committed in the requesting country's jurisdiction.
+
+Key Provisions:
+
+Application of Act (Section 3): The Act applies in relation to a foreign state only after an extradition treaty has been entered into by India with that state.
+
+Requisition for surrender (Section 4): A requisition for the surrender of a fugitive criminal of a foreign state may be made to the Central Government by a diplomatic representative of the foreign state.
+
+Restrictions on surrender (Section 31): A fugitive criminal shall not be surrendered if the offense is of a political character, or if the prosecution for the offense is barred by time according to the law of the requesting state.
+
+Associated Legal Terminology:
+
+Extradition: The official process whereby one country transfers a suspected or convicted criminal to another country.
+
+Fugitive Criminal: Any person accused or convicted of an extradition offense committed within the jurisdiction of a foreign state.
+
+Extradition Treaty: A bilateral or multilateral agreement that governs the process of extradition between the signatory states.
+
+Rule of Double Criminality: A requirement in extradition law that the offense for which extradition is sought must be a crime in both the requesting and the requested states.
+
+3. The Diplomatic Relations (Vienna Convention) Act, 1972
+Description: This Act gives legal force in India to the provisions of the Vienna Convention on Diplomatic Relations, 1961. This convention provides a complete framework for the establishment, maintenance, and termination of diplomatic relations on a basis of consent between independent sovereign states.
+
+Key Provisions:
+
+Application of Vienna Convention (Section 2): The provisions of the Vienna Convention on Diplomatic Relations, as set out in the Schedule to the Act, shall have the force of law in India.
+
+Key Privileges and Immunities under the Convention:
+
+Inviolability of the Mission Premises (Article 22): The premises of a diplomatic mission are inviolable and agents of the receiving state may not enter them without consent.
+
+Personal Inviolability of Diplomatic Agents (Article 29): A diplomatic agent shall not be liable to any form of arrest or detention.
+
+Immunity from Jurisdiction (Article 31): A diplomatic agent enjoys immunity from the criminal jurisdiction of the receiving state. They also enjoy immunity from its civil and administrative jurisdiction, with some exceptions.
+
+Associated Legal Terminology:
+
+Diplomatic Immunity: A form of legal immunity that ensures diplomats are given safe passage and are considered not susceptible to lawsuit or prosecution under the host country's laws.
+
+Diplomatic Agent: The head of the mission or a member of the diplomatic staff of the mission.
+
+Receiving State: The state in which a diplomatic mission is located.
+
+Sending State: The state that sends the diplomatic mission.
+
+Persona non grata: A Latin phrase meaning "an unwelcome person." A receiving state may at any time declare a diplomatic agent as persona non grata, requiring the sending state to recall the person.
+
+4. The United Nations (Privileges and Immunities) Act, 1947
+Description: This Act was enacted to give effect to the Convention on the Privileges and Immunities of the United Nations, adopted by the General Assembly of the UN in 1946. It grants the United Nations, its officials, and representatives of member states certain privileges and immunities necessary for the independent exercise of their functions.
+
+Key Provisions:
+
+Conferral of certain privileges and immunities on the United Nations (Section 2): The Act confers legal personality on the United Nations and grants it immunity from every form of legal process except insofar as it has expressly waived its immunity.
+
+Privileges of Officials and Representatives: The Act provides for various immunities for UN officials, such as immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity, and exemption from taxation on their salaries.
+
+Associated Legal Terminology:
+
+Privileges and Immunities: Special legal rights and exemptions from certain laws and taxes granted to international organizations and their officials to ensure their independent functioning.
+
+Functional Immunity: Immunity that is granted to officials for acts performed in their official capacity.

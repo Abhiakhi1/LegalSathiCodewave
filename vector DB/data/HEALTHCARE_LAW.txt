@@ -1,0 +1,113 @@
+INTRODUCTORY OVERVIEW OF HEALTHCARE LAW
+What is Healthcare Law?
+Healthcare Law in India is a body of law that governs the rights and responsibilities of healthcare providers and patients. It provides the legal framework for the regulation of the medical profession, the operation of healthcare establishments, and the protection of patient rights. The foundation of healthcare law is rooted in the Constitution of India. While the "Right to Health" is not an explicit Fundamental Right, the Supreme Court of India has, through a series of landmark judgments, interpreted the fundamental Right to Life under Article 21 to include the right to health and medical care. This makes it an obligation of the State to provide for the health and well-being of its citizens. The law in this field aims to ensure the quality, accessibility, and ethical delivery of healthcare services across the country.
+
+PART I: REGULATION OF THE MEDICAL PROFESSION
+1. The National Medical Commission Act, 2019
+Description: This is a landmark legislation that brought about a major overhaul of the regulation of medical education and the medical profession in India. It replaced the nearly 63-year-old Indian Medical Council Act, 1956, and dissolved the Medical Council of India (MCI). The Act's primary objective is to create a modern regulatory system that ensures transparency, accountability, and quality in medical education and practice.
+
+Key Provisions:
+
+Constitution of the National Medical Commission (NMC) (Chapter II): The Act provides for the establishment of the NMC as the new apex regulator for the medical profession.
+
+Autonomous Boards (Section 16): Four autonomous boards were constituted under the supervision of the NMC to perform specific functions:
+
+The Under-Graduate Medical Education Board.
+
+The Post-Graduate Medical Education Board.
+
+The Medical Assessment and Rating Board (for inspecting and rating medical institutions).
+
+The Ethics and Medical Registration Board (which maintains a national register of all licensed medical practitioners and regulates professional conduct).
+
+National Exit Test (NExT) (Section 15): The Act provides for a common final year undergraduate medical examination, to be known as the National Exit Test. This single examination will serve as a licentiate exam for granting a license to practice medicine, as an entrance examination for admission to postgraduate medical courses, and as a screening test for foreign medical graduates.
+
+Regulation of Fees (Section 10): The NMC is empowered to frame guidelines for the determination of fees and all other charges in respect of fifty percent of the seats in private medical institutions and deemed to be universities.
+
+Associated Legal Terminology:
+
+National Medical Commission (NMC): The statutory body that regulates medical education and medical professionals in India.
+
+Medical Practitioner: A person who is enrolled in the State Medical Register or the National Medical Register.
+
+Professional Misconduct: An act by a medical practitioner that is considered unethical or contrary to the standards of professional conduct as laid down by the Ethics Board.
+
+PART II: REGULATION OF HEALTHCARE ESTABLISHMENTS
+1. The Clinical Establishments (Registration and Regulation) Act, 2010
+Description: This Act was enacted by the Central Government to provide for the registration and regulation of all clinical establishments (both public and private) in the country. Its primary objective is to prescribe minimum standards of facilities and services that a clinical establishment must provide to be eligible for registration. The adoption of the Act is voluntary for states, and it applies to states that have passed a resolution to adopt it.
+
+Key Provisions:
+
+Applicability: Applies to all types of clinical establishments, including hospitals, maternity homes, nursing homes, dispensaries, clinics, and diagnostic laboratories.
+
+Registration (Section 11): Makes it mandatory for every clinical establishment to be registered with the prescribed authority.
+
+National Council for Clinical Establishments (Section 3): Provides for the establishment of a National Council to determine the standards for clinical establishments and to classify them into different categories.
+
+Minimum Standards: The Act mandates that all registered establishments must fulfill certain pre-determined minimum standards for infrastructure, equipment, and staff.
+
+Maintenance of Records (Section 12): Every clinical establishment shall maintain records of its activities in the prescribed manner.
+
+Display of Rates (Section 12): The Act requires clinical establishments to conspicuously display the rates charged for each type of service provided by them.
+
+Associated Legal Terminology:
+
+Clinical Establishment: Includes a hospital, maternity home, nursing home, dispensary, clinic, sanatorium or an institution that offers services for the diagnosis, treatment or care of illness, injury, or deformity.
+
+Standard: The norms that a clinical establishment has to meet to be registered under this Act.
+
+PART III: SPECIFIC HEALTH-RELATED LEGISLATIONS
+1. The Mental Healthcare Act, 2017
+Description: This is a progressive, rights-based law that repealed the Mental Health Act, 1987. It was enacted to align Indian law with the UN Convention on the Rights of Persons with Disabilities. The Act takes a patient-centric approach, aiming to protect, promote, and fulfill the rights of persons with mental illness during the delivery of mental healthcare.
+
+Key Provisions:
+
+Rights of Persons with Mental Illness (Chapter V): The Act guarantees several rights, including the right to access affordable and quality mental healthcare, the right to live with dignity, the right to confidentiality, and protection from cruel, inhuman, or degrading treatment.
+
+Advance Directive (Section 5): A unique feature that allows a person with mental illness to specify, in advance, how they wish to be cared for and treated for a mental illness, and who their nominated representative will be.
+
+Decriminalization of Suicide (Section 115): This is a landmark provision. It presumes that any person who attempts to commit suicide is under severe stress and shall not be tried and punished under the Indian Penal Code.
+
+Associated Legal Terminology:
+
+Mental Illness: A substantial disorder of thinking, mood, perception, orientation or memory that grossly impairs judgment, behaviour, capacity to recognise reality or ability to meet the ordinary demands of life.
+
+Advance Directive: A written instruction made by a person regarding their future mental healthcare treatment.
+
+Informed Consent: Consent given for a specific treatment without any force, undue influence, fraud, threat or misrepresentation.
+
+2. The Pre-conception and Pre-natal Diagnostic Techniques (Prohibition of Sex Selection) Act, 1994 (PCPNDT Act)
+Description: This Act was enacted to combat the problem of female foeticide in India. It prohibits sex selection, both before and after conception, and regulates the use of pre-natal diagnostic techniques to prevent their misuse for sex determination.
+
+Key Provisions:
+
+Regulation of Genetic Counselling Centres, Genetic Laboratories and Genetic Clinics (Section 3): Mandates that these facilities can be used only for the detection of specified abnormalities and not for sex determination.
+
+Prohibition of Sex-Selection (Section 3A): Prohibits any person from using any technique for the purpose of determining the sex of the foetus.
+
+Prohibition of Advertisement: The Act bans advertisements relating to pre-conception and pre-natal determination of sex.
+
+PART IV: PATIENT RIGHTS AND MEDICAL NEGLIGENCE
+1. The Consumer Protection Act, 2019
+Description: This Act is highly relevant to healthcare law. The Supreme Court has held that medical services, for which a fee is paid, fall under the definition of "service" under this Act.
+
+Relevance to Healthcare:
+
+Medical Negligence as 'Deficiency in Service': A patient who has suffered an injury due to the negligence of a doctor or a hospital can file a complaint alleging "deficiency in service."
+
+Remedy: The Consumer Disputes Redressal Commissions (at the District, State, and National levels) provide a relatively speedy and less expensive forum for patients to seek compensation for medical negligence.
+
+2. Law of Torts and The Indian Penal Code, 1860
+Description: Medical negligence can also be pursued as a civil wrong (a tort) or, in rare cases, as a criminal offense.
+
+Civil Liability (Law of Torts): A doctor has a duty of care towards their patient. A breach of this duty, which directly causes injury or death to the patient, constitutes medical negligence. The standard of care required is that of a reasonably competent medical professional in that field. A successful civil suit can result in the court awarding damages (monetary compensation) to the victim or their family.
+
+Criminal Liability (Indian Penal Code, 1860): In cases of gross negligence or recklessness that leads to a patient's death, a doctor can be prosecuted under Section 304A of the IPC for causing death by a rash or negligent act. However, the Supreme Court has set a very high threshold for criminal prosecution to protect doctors from frivolous litigation, requiring evidence of a very high degree of negligence.
+
+Associated Legal Terminology:
+
+Medical Negligence: A breach of a legal duty of care by a medical professional which results in damage to the patient.
+
+Duty of Care: The legal obligation of a healthcare provider to conform to a recognized standard of care to protect the patient from unreasonable risk of harm.
+
+Standard of Care: The degree of care and skill that a reasonably competent healthcare professional, with a similar background and in the same medical community, would have provided under the circumstances.

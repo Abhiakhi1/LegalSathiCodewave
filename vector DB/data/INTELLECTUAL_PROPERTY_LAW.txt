@@ -1,0 +1,133 @@
+INTRODUCTORY OVERVIEW OF INTELLECTUAL PROPERTY LAW
+What is Intellectual Property Law?
+Intellectual Property (IP) Law is the branch of law that deals with the protection of creations of the human mind. It grants the creator certain exclusive rights to use their creation for a certain period of time. The main purpose of intellectual property law is to encourage innovation and creativity by allowing creators to benefit from their work. In India, the legal framework for IP is well-developed and compliant with international standards, particularly the TRIPS (Trade-Related Aspects of Intellectual Property Rights) Agreement. The law covers various forms of IP, including patents, trademarks, copyrights, and designs.
+
+PART I: PATENTS
+1. The Patents Act, 1970
+Description: This Act is the primary legislation that governs the patent system in India. It was enacted to provide a legal framework for the protection of inventions and to encourage scientific research, innovation, and industrial progress. The Act has been significantly amended, most notably in 2005, to comply with India's obligations under the TRIPS Agreement.
+
+Key Provisions:
+
+What can be Patented (Section 3): The Act specifies what are not considered inventions, thereby defining what is patentable. An invention is patentable if it is a new product or process involving an inventive step and is capable of industrial application. Things that are not patentable include frivolous inventions, discoveries of scientific principles, methods of agriculture, and computer programs per se.
+
+Term of Patent (Section 53): The term of every patent granted is twenty years from the date of filing the patent application.
+
+Rights of Patentee (Section 48): A patent grants the patentee the exclusive right to prevent third parties from making, using, selling, or importing the patented invention without their consent.
+
+Compulsory Licensing (Sections 84-92): To prevent the abuse of patent rights and to ensure that patented inventions are available to the public at reasonable prices, the Act contains provisions for the grant of compulsory licenses. A compulsory license can be granted after three years from the grant of a patent if the reasonable requirements of the public have not been met or if the patented invention is not available at a reasonably affordable price.
+
+Infringement of Patents (Section 104): The Act provides for civil remedies for the infringement of a patent, including injunctions and damages.
+
+Associated Legal Terminology:
+
+Patent: An exclusive right granted for an invention, which is a product or a process that provides a new way of doing something, or offers a new technical solution to a problem.
+
+Invention: A new product or process involving an inventive step and capable of industrial application.
+
+Inventive Step: A feature of an invention that involves technical advance as compared to the existing knowledge or having economic significance or both and that makes the invention not obvious to a person skilled in the art.
+
+Prior Art: All information that has been made available to the public in any form before a given date that might be relevant to a patent's claims of originality.
+
+Compulsory License: An authorization given by the government to a third party to make, use, or sell a patented invention without the consent of the patent owner.
+
+PART II: TRADEMARKS
+1. The Trade Marks Act, 1999
+Description: This Act governs the law relating to trademarks in India. It provides for the registration of trademarks, the protection of trademarks used in relation to goods and services, and the prevention of the use of fraudulent marks.
+
+Key Provisions:
+
+Definition of 'Trade Mark' (Section 2(1)(zb)): A trademark is a mark capable of being represented graphically and which is capable of distinguishing the goods or services of one person from those of others. It may include the shape of goods, their packaging, and combination of colours.
+
+Registration of Trade Marks (Chapter III): The Act provides for the registration of trademarks with the Trade Marks Registry. Registration gives the proprietor the exclusive right to use the trademark in relation to the goods or services for which it is registered.
+
+Term of Registration (Section 25): The registration of a trademark is initially for a period of ten years, but can be renewed from time to time for further periods of ten years.
+
+Infringement of Registered Trade Marks (Section 29): A registered trademark is infringed by a person who, not being a registered proprietor, uses a mark which is identical with, or deceptively similar to, the registered trademark in the course of trade.
+
+Passing Off: The Act also protects unregistered trademarks through the common law action of passing off. Passing off occurs when a person misrepresents their goods or services as those of another, causing damage to the goodwill and reputation of that other person.
+
+Associated Legal Terminology:
+
+Trademark: A sign, design, or expression which identifies products or services of a particular source from those of others.
+
+Service Mark: A trademark used to identify a service rather than a product.
+
+Well-known Mark: A mark which has become so well-known to the substantial segment of the public which uses such goods or receives such services that the use of such mark in relation to other goods or services would be likely to be taken as indicating a connection between those goods or services and the owner of the well-known mark.
+
+Deceptively Similar: A mark is considered deceptively similar to another if it so nearly resembles that other mark as to be likely to deceive or cause confusion.
+
+Passing Off: The common law tort of misrepresenting one's own goods or services as those of another.
+
+PART III: COPYRIGHT
+1. The Copyright Act, 1957
+Description: This Act is a comprehensive legislation that protects the rights of creators of original literary, dramatic, musical, and artistic works, as well as cinematograph films and sound recordings. It grants the creator a bundle of exclusive rights over their work.
+
+Key Provisions:
+
+Works in which copyright subsists (Section 13): Copyright subsists in original literary, dramatic, musical and artistic works; cinematograph films; and sound recordings.
+
+Meaning of Copyright (Section 14): Copyright means the exclusive right to do or authorize the doing of certain acts in respect of a work, such as to reproduce the work, to issue copies of the work to the public, to perform the work in public, and to make any translation or adaptation of the work.
+
+Term of Copyright (Sections 22-29): For literary, dramatic, musical, or artistic works, the term of copyright is the lifetime of the author plus sixty years. For cinematograph films and sound recordings, the term is sixty years from the year of publication.
+
+Fair Dealing (Section 52): This is a crucial provision that provides for certain exceptions to copyright infringement. It allows for the use of copyrighted material for purposes such as private or personal use, including research; criticism or review; and reporting of current events, without the permission of the copyright owner.
+
+Infringement of Copyright (Section 51): Copyright in a work is deemed to be infringed when any person, without a license from the copyright owner, does anything that the copyright owner has the exclusive right to do.
+
+Associated Legal Terminology:
+
+Copyright: A legal right that grants the creator of an original work exclusive rights for its use and distribution.
+
+Literary Work: Includes computer programs, tables, and compilations including computer databases.
+
+Author: The creator of the work.
+
+Fair Dealing: A legal doctrine which allows the use of copyrighted material without permission from the copyright holder under certain circumstances.
+
+Plagiarism: The act of taking another person's writing, conversation, song, or even idea and passing it off as your own. While unethical, it is not always a copyright infringement.
+
+PART IV: DESIGNS
+1. The Designs Act, 2000
+Description: This Act protects the aesthetic or ornamental aspects of an article. It provides for the registration of industrial designs to protect the visual features of a product, such as its shape, configuration, pattern, or ornament.
+
+Key Provisions:
+
+Definition of 'Design' (Section 2(d)): Design means only the features of shape, configuration, pattern, ornament or composition of lines or colours applied to any article, which in the finished article appeal to and are judged solely by the eye. It does not include any mode or principle of construction.
+
+Registration of Designs (Chapter II): A design can be registered if it is new or original, has not been disclosed to the public anywhere in India or in any other country before the filing date, and is not contrary to public order or morality.
+
+Term of Design Registration (Section 11): The term of a registered design is ten years from the date of registration, which can be extended for a further period of five years.
+
+Piracy of Registered Design (Section 22): It is unlawful for any person to apply a registered design or any fraudulent or obvious imitation of it to any article for the purpose of sale, without the license of the registered proprietor.
+
+Associated Legal Terminology:
+
+Design: The ornamental or aesthetic aspect of an article.
+
+Article: Any article of manufacture and any substance, artificial or partly artificial and partly natural; and includes any part of an article capable of being made and sold separately.
+
+Originality: In relation to a design, it means originating from the author of such design and includes the cases which though old in themselves yet are new in their application.
+
+Piracy: The unauthorized use or reproduction of another's work, in this context, a registered design.
+
+PART V: GEOGRAPHICAL INDICATIONS
+1. The Geographical Indications of Goods (Registration and Protection) Act, 1999
+Description: This Act provides for the registration and better protection of geographical indications relating to goods. A geographical indication (GI) is a sign used on products that have a specific geographical origin and possess qualities or a reputation that are due to that origin.
+
+Key Provisions:
+
+Definition of 'Geographical Indication' (Section 2(1)(e)): A GI, in relation to goods, means an indication which identifies such goods as agricultural goods, natural goods or manufactured goods as originating, or manufactured in the territory of a country, or a region or locality in that territory, where a given quality, reputation or other characteristic of such goods is essentially attributable to its geographical origin.
+
+Registration of GIs (Chapter II): The Act provides for the registration of GIs with the Geographical Indications Registry.
+
+Rights conferred by Registration (Section 21): Registration of a GI gives the registered proprietor and the authorized users the right to obtain relief in respect of infringement of the geographical indication.
+
+Prohibition of Registration of GI as a Trademark (Section 25): The Act prohibits the registration of a GI as a trademark.
+
+Associated Legal Terminology:
+
+Geographical Indication (GI): A name or sign used on certain products which corresponds to a specific geographical location or origin (e.g., a town, region, or country).
+
+Authorized User: A person who has the right to use the registered geographical indication in relation to the goods for which it is registered.
+
+Infringement: The unauthorized use of a geographical indication. Examples of GIs in India include Darjeeling Tea, Kanchipuram Silk, and Basmati Rice.

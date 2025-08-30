@@ -1,0 +1,107 @@
+INTRODUCTORY OVERVIEW OF REAL ESTATE LAW
+What is Real Estate Law?
+Real Estate Law in India is the body of law that governs the rights, interests, and transfer of immovable property. It is a comprehensive legal field that encompasses the acquisition, ownership, management, use, and disposition of land and buildings. The law is primarily governed by a combination of central and state-specific statutes. The foundational principles are laid down in acts like the Transfer of Property Act, 1882, and the Registration Act, 1908. In recent years, the sector has seen a major regulatory overhaul with the introduction of The Real Estate (Regulation and Development) Act, 2016 (RERA), which was enacted to bring transparency, accountability, and efficiency to the real estate sector, particularly in relation to the sale of plots, apartments, and buildings, and to protect the interests of consumers.
+
+PART I: FOUNDATIONAL LEGISLATIONS
+1. The Transfer of Property Act, 1882
+Description: This is the principal legislation in India that regulates the transfer of property between living persons (inter vivos). It provides a systematic and uniform law for the transfer of immovable property by acts of parties and covers various modes of transfer such as sale, mortgage, lease, exchange, and gift.
+
+Key Provisions:
+
+Sale (Section 54): Defines a sale as a transfer of ownership in exchange for a price. It mandates that a sale of immovable property of a value of one hundred rupees and upwards can be made only by a registered instrument.
+
+Mortgage (Section 58): The transfer of an interest in specific immovable property for the purpose of securing a loan. The Act defines various types of mortgages.
+
+Lease (Section 105): A transfer of a right to enjoy such property, made for a certain time, in consideration of a price paid or promised (rent). Leases of immovable property for any term exceeding one year must be made by a registered instrument.
+
+Gift (Section 122): The transfer of existing immovable property made voluntarily and without consideration. A gift of immovable property must be effected by a registered instrument signed by the donor and attested by at least two witnesses.
+
+Rule Against Perpetuity (Section 14): Prevents the tying up of property for an indefinite period, ensuring that property remains transferable.
+
+Associated Legal Terminology:
+
+Immovable Property: Includes land, buildings, and benefits arising out of land, and things attached to the earth.
+
+Instrument: A formal legal document that creates or transfers a right in property, such as a sale deed or a lease deed.
+
+Attestation: The act of witnessing the signing of a formal document and then signing it oneself to verify that it was properly signed by those who made it.
+
+Lis Pendens (Section 52): A doctrine which states that property that is the subject matter of a pending lawsuit cannot be transferred in a way that affects the rights of the parties to the suit.
+
+2. The Indian Easements Act, 1882
+Description: This Act defines and amends the law relating to easements concerning immovable property. An easement is a right that the owner of one property has over the property of another for the beneficial enjoyment of their own property.
+
+Key Provisions:
+
+Easement Defined (Section 4): An easement is a right which the owner of a certain land (the dominant heritage) possesses, for the beneficial enjoyment of that land, to do something in or upon certain other land not his own (the servient heritage).
+
+Types of Easements: Common examples include a right of way, a right to light and air, and a right to draw water.
+
+Acquisition of Easements: Easements can be acquired by an express grant, by necessity (e.g., a right of way to a landlocked property), or by prescription (long and continuous use).
+
+Associated Legal Terminology:
+
+Easement: A non-possessory right to use the real property of another.
+
+Dominant Heritage: The land for whose beneficial enjoyment the right of easement exists.
+
+Servient Heritage: The land upon which the liability of an easement is imposed.
+
+Right of Way: A legal right to pass along a specific route through property belonging to another.
+
+3. The Registration Act, 1908
+Description: This Act consolidates the law relating to the registration of documents. Its primary purpose is to provide a method of public registration of documents to give notice to the world of legal rights and obligations arising from them, ensure authenticity, and prevent fraud. It is a crucial procedural law for real estate transactions.
+
+Key Provisions:
+
+Documents of which Registration is Compulsory (Section 17): This is the most critical section. It mandates the registration of certain documents relating to immovable property, including:
+
+Instruments of gift of immovable property.
+
+Sale deeds for immovable property of a value of Rs. 100 and upwards.
+
+Leases of immovable property for any term exceeding one year.
+
+Effect of Non-Registration (Section 49): A document that is required to be registered but is not, shall not affect the immovable property it relates to, nor can it be received as evidence of any transaction affecting such property. In essence, an unregistered sale deed for a property worth more than Rs. 100 is legally invalid.
+
+Registration Establishment: The Act provides for the establishment of registration offices under Sub-Registrars, who are responsible for registering documents.
+
+Associated Legal Terminology:
+
+Registration: The official recording of a document with a public authority (the Sub-Registrar) to make it legally effective.
+
+Sale Deed: The primary legal document that evidences the sale and transfer of ownership of a property.
+
+Constructive Notice: A legal principle that signifies a person should have known of a legal fact. Registration of a document serves as constructive notice to the public, meaning anyone interested in the property is deemed to be aware of the registered transaction.
+
+PART II: MODERN REGULATORY LEGISLATION
+1. The Real Estate (Regulation and Development) Act, 2016 (RERA)
+Description: This is a landmark Act enacted to regulate and promote the real estate sector and to protect the interests of consumers (homebuyers). It aims to bring transparency, accountability, and efficiency to the sale of real estate projects. The Act establishes a Real Estate Regulatory Authority (RERA) in each state for the regulation of the sector and an Appellate Tribunal for hearing appeals.
+
+Key Provisions:
+
+Registration of Real Estate Projects (Section 3): This is the cornerstone of the Act. It mandates that no promoter shall advertise, market, book, sell or offer for sale any plot, apartment, or building in any real estate project without registering the project with the RERA. This applies to all commercial and residential projects where the land is over 500 square meters or the number of apartments is more than eight.
+
+Functions and Duties of Promoter (Section 11): The Act imposes several obligations on the promoter (developer), including:
+
+Making available all project details (approvals, layout plans, etc.) on the RERA website.
+
+Adhering to the approved plans and project specifications.
+
+Obtaining a completion certificate and occupancy certificate.
+
+Separate Bank Account (Section 4(2)(l)(D)): The promoter is required to deposit seventy percent of the amounts realized from the allottees in a separate account in a scheduled bank to cover the cost of construction and land cost. This amount can only be withdrawn in proportion to the percentage of completion of the project. This provision is designed to prevent the diversion of funds.
+
+Rights and Duties of Allottees (Section 19): The Act specifies the rights of homebuyers, including the right to obtain information about the project, to know the stage-wise time schedule of completion, and to claim possession of the apartment.
+
+Real Estate Regulatory Authority (RERA) (Chapter V): Establishes RERA as the nodal agency to register projects, regulate the real estate sector, and act as an adjudicating body for the speedy resolution of disputes.
+
+Associated Legal Terminology:
+
+Promoter: A person who constructs or causes to be constructed an independent building or a building consisting of apartments, or develops land into a project, for the purpose of selling.
+
+Allottee: A person to whom a plot, apartment or building has been allotted, sold or otherwise transferred by the promoter.
+
+Carpet Area: The net usable floor area of an apartment, excluding the area covered by the external walls, areas under services shafts, exclusive balcony or verandah area and exclusive open terrace area. The Act mandates that promoters must sell properties based on carpet area, not super built-up area.
+
+Completion Certificate: A certificate issued by the competent authority certifying that the real estate project has been developed according to the sanctioned plan and is fit for occupation.

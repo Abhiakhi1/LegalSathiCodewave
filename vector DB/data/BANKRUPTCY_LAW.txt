@@ -1,0 +1,75 @@
+INTRODUCTORY OVERVIEW OF BANKRUPTCY LAW
+What is Bankruptcy Law?
+Bankruptcy Law is the body of law that provides a formal legal process for individuals and entities who are insolvent (unable to pay their debts) to resolve their financial obligations. It is a specific legal proceeding initiated by a court order. While often used interchangeably with "insolvency," the two terms are distinct: insolvency is a financial state of being unable to pay debts, whereas bankruptcy is the legal process that follows. The primary objective of bankruptcy law is to provide a fresh start for an honest but unfortunate debtor by discharging them from most of their debts, while also ensuring an orderly and fair distribution of the debtor's available assets among the creditors. In India, the law relating to the bankruptcy of individuals and partnership firms is consolidated under the Insolvency and Bankruptcy Code, 2016.
+
+PART I: THE PRIMARY LEGISLATION
+1. The Insolvency and Bankruptcy Code, 2016 (IBC)
+Description: While the IBC is known for its Corporate Insolvency Resolution Process, it also contains a comprehensive and consolidated framework for the insolvency and bankruptcy of individuals and partnership firms under Part III of the Code. This part of the Code replaces the old, fragmented personal insolvency laws (the Presidency-Towns Insolvency Act, 1909, and the Provincial Insolvency Act, 1920). The process is designed to be time-bound and is adjudicated by the Debt Recovery Tribunal (DRT).
+
+Key Provisions (Part III - Insolvency Resolution and Bankruptcy for Individuals and Partnership Firms):
+
+The process for individuals is typically divided into two stages: an insolvency resolution process aimed at creating a repayment plan, followed by a bankruptcy process if the resolution fails.
+
+A. The Fresh Start Process (Chapter II):
+
+Description: This is a waiver of debt for poor debtors who have minimal assets and income. It is designed to provide a "fresh start" without going through a more complex process.
+
+Eligibility: An application can be made by a debtor who has a gross annual income not exceeding Rs. 60,000, aggregate value of assets not exceeding Rs. 20,000, and aggregate value of qualifying debts not exceeding Rs. 35,000.
+
+Process: The debtor applies to the Debt Recovery Tribunal (DRT). If the application is admitted, a moratorium is declared, and a Resolution Professional is appointed to examine the application.
+
+Discharge Order: If the DRT is satisfied with the report of the Resolution Professional, it will pass a discharge order, discharging the debtor from their qualifying debts.
+
+B. The Insolvency Resolution Process (Chapter III):
+
+Description: This is the primary process for resolving the insolvency of individuals and partnership firms by creating a viable repayment plan.
+
+Initiation: An application can be filed with the DRT by the debtor or by a creditor.
+
+Moratorium: Upon admission of the application, a moratorium comes into effect, staying any legal action against the debtor in respect of the debt.
+
+Repayment Plan: The Resolution Professional works with the debtor and creditors to prepare a repayment plan, which details how the debts will be restructured and paid over a period of time. The plan must be approved by a majority of the creditors.
+
+Approval by DRT: The approved repayment plan is then submitted to the DRT for its sanction. Once sanctioned, it is binding on the debtor and all creditors.
+
+C. The Bankruptcy Process (Chapter IV):
+
+Description: This is the final legal process for an insolvent individual, which is initiated when the insolvency resolution process fails or is not feasible. It involves the vesting of the debtor's assets in a Bankruptcy Trustee for distribution among creditors.
+
+Initiation: An application for a bankruptcy order can be filed with the DRT if:
+
+The insolvency resolution process fails.
+
+The debtor contravenes the terms of the repayment plan.
+
+The debtor or a creditor, with the consent of other creditors, directly applies for bankruptcy.
+
+Bankruptcy Order: If the DRT is satisfied, it passes a bankruptcy order.
+
+Appointment of Bankruptcy Trustee: A Bankruptcy Trustee is appointed to take control of the "estate of the bankrupt."
+
+Vesting of Estate: All the property of the bankrupt (with certain exceptions like personal effects and tools of trade) vests in the Bankruptcy Trustee. The trustee's role is to realize the assets and distribute the proceeds among the creditors.
+
+Discharge Order: After the administration of the estate is complete, the bankrupt can apply for a discharge order. A discharge order releases the bankrupt from all debts payable in the bankruptcy, allowing them a fresh financial start.
+
+Associated Legal Terminology:
+
+Bankruptcy: A legal proceeding involving a person or business that is unable to repay their outstanding debts. The process is initiated by a petition filed by the debtor or on behalf of creditors.
+
+Insolvency: A financial state where an individual or organization is unable to meet their outstanding financial debts as they fall due.
+
+Debtor: A person who owes a debt.
+
+Creditor: A person to whom a debt is owed.
+
+Debt Recovery Tribunal (DRT): The Adjudicating Authority for the insolvency and bankruptcy of individuals and partnership firms under the IBC.
+
+Fresh Start Process: A simplified debt waiver process for debtors with very low income and assets.
+
+Repayment Plan: A plan agreed upon by the debtor and creditors for the settlement of outstanding debts.
+
+Bankruptcy Trustee: A licensed insolvency professional appointed by the DRT to administer the estate of the bankrupt.
+
+Estate of the Bankrupt: All property belonging to or vested in the bankrupt at the commencement of the bankruptcy.
+
+Discharge Order: A court order that releases a bankrupt from their liability to repay the debts that were proved in the bankruptcy.

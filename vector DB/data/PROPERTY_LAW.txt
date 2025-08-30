@@ -1,0 +1,105 @@
+INTRODUCTORY OVERVIEW OF PROPERTY LAW
+What is Property Law?
+Property Law in India is the body of law that governs the various forms of ownership and tenancy in both movable and immovable property. Property is broadly classified into two categories: movable property (like goods, vehicles, or securities) and immovable property (like land and buildings). This legal field encompasses the rights and interests associated with property, and the methods by which these rights can be transferred from one person to another. The foundational statutes governing property law in India include the Transfer of Property Act, 1882, which deals with transfers between living persons, the Sale of Goods Act, 1930, for movable property, and the Registration Act, 1908, for formalizing transactions in immovable property.
+
+PART I: LEGISLATIONS GOVERNING IMMOVABLE PROPERTY
+1. The Transfer of Property Act, 1882
+Description: This is the principal legislation in India that regulates the transfer of property between living persons (inter vivos). It provides a systematic and uniform law for the transfer of both movable and immovable property by acts of parties and covers various modes of transfer such as sale, mortgage, lease, exchange, and gift.
+
+Key Provisions:
+
+Sale (Section 54): Defines a sale as a transfer of ownership in exchange for a price. It mandates that a sale of immovable property of a value of one hundred rupees and upwards can be made only by a registered instrument.
+
+Mortgage (Section 58): The transfer of an interest in specific immovable property for the purpose of securing a loan. The Act defines various types of mortgages.
+
+Lease (Section 105): A transfer of a right to enjoy such property, made for a certain time, in consideration of a price paid or promised (rent). Leases of immovable property for any term exceeding one year must be made by a registered instrument.
+
+Gift (Section 122): The transfer of existing movable or immovable property made voluntarily and without consideration. A gift of immovable property must be effected by a registered instrument.
+
+Rule Against Perpetuity (Section 14): Prevents the tying up of property for an indefinite period, ensuring that property remains transferable.
+
+Associated Legal Terminology:
+
+Immovable Property: Includes land, buildings, and benefits arising out of land, and things attached to the earth.
+
+Instrument: A formal legal document that creates or transfers a right in property, such as a sale deed or a lease deed.
+
+Attestation: The act of witnessing the signing of a formal document and then signing it oneself to verify that it was properly signed by those who made it.
+
+Lis Pendens (Section 52): A doctrine which states that property that is the subject matter of a pending lawsuit cannot be transferred in a way that affects the rights of the parties to the suit.
+
+2. The Registration Act, 1908
+Description: This Act consolidates the law relating to the registration of documents. Its primary purpose is to provide a method of public registration of documents to give notice to the world of legal rights and obligations arising from them, ensure authenticity, and prevent fraud. It is a crucial procedural law for real estate transactions.
+
+Key Provisions:
+
+Documents of which Registration is Compulsory (Section 17): This is the most critical section. It mandates the registration of certain documents relating to immovable property, including instruments of gift, sale deeds for property valued at Rs. 100 or more, and leases for a term exceeding one year.
+
+Effect of Non-Registration (Section 49): A document that is required to be registered but is not, shall not affect the immovable property it relates to, nor can it be received as evidence of any transaction affecting such property.
+
+Associated Legal Terminology:
+
+Registration: The official recording of a document with a public authority (the Sub-Registrar) to make it legally effective.
+
+Sale Deed: The primary legal document that evidences the sale and transfer of ownership of a property.
+
+Constructive Notice: A legal principle that signifies a person should have known of a legal fact. Registration of a document serves as constructive notice to the public.
+
+3. The Indian Easements Act, 1882
+Description: This Act defines and amends the law relating to easements concerning immovable property. An easement is a right that the owner of one property has over the property of another for the beneficial enjoyment of their own property.
+
+Key Provisions:
+
+Easement Defined (Section 4): An easement is a right which the owner of a certain land (the dominant heritage) possesses, for the beneficial enjoyment of that land, to do something in or upon certain other land not his own (the servient heritage). Common examples include a right of way and a right to light and air.
+
+Associated Legal Terminology:
+
+Easement: A non-possessory right to use the real property of another.
+
+Dominant Heritage: The land for whose beneficial enjoyment the right of easement exists.
+
+Servient Heritage: The land upon which the liability of an easement is imposed.
+
+PART II: LEGISLATIONS GOVERNING MOVABLE PROPERTY
+1. The Sale of Goods Act, 1930
+Description: This Act governs contracts relating to the sale of movable property ("goods"). It was originally a part of the Indian Contract Act, 1872, but was separated to create a specialized law for commercial transactions involving goods.
+
+Key Provisions:
+
+Contract of Sale (Section 4): Defines a "sale" (where property in goods is transferred immediately) and an "agreement to sell" (where transfer is to take place at a future time).
+
+Conditions and Warranties (Sections 11-17): Differentiates between a "condition" (a stipulation essential to the main purpose of the contract) and a "warranty" (a stipulation collateral to the main purpose). It also lays down implied conditions, such as the seller's right to sell and that the goods correspond with the description.
+
+Transfer of Property (Sections 18-26): Specifies the rules for determining when the ownership (property) of the goods passes from the seller to the buyer. This is crucial for determining who bears the risk of loss.
+
+Rights of Unpaid Seller (Sections 45-54): Grants specific rights to a seller who has not been paid, including the right of lien (to retain possession of goods), the right of stoppage in transit, and the right of resale.
+
+Associated Legal Terminology:
+
+Goods: Every kind of movable property other than actionable claims and money; includes stock and shares, growing crops, and things attached to land which are agreed to be severed before sale.
+
+Sale: A contract whereby the seller transfers the property in goods to the buyer for a price.
+
+Condition: A stipulation essential to the main purpose of the contract, the breach of which gives the aggrieved party the right to repudiate the contract.
+
+Warranty: A stipulation collateral to the main purpose of the contract, the breach of which gives the aggrieved party a right to claim damages but not to reject the goods.
+
+PART III: REGULATORY LEGISLATION
+1. The Real Estate (Regulation and Development) Act, 2016 (RERA)
+Description: This is a landmark Act enacted to regulate and promote the real estate sector and to protect the interests of consumers (homebuyers). It aims to bring transparency, accountability, and efficiency to the sale of real estate projects.
+
+Key Provisions:
+
+Registration of Real Estate Projects (Section 3): Mandates that promoters must register their projects with the Real Estate Regulatory Authority (RERA) before advertising or selling.
+
+Separate Bank Account (Section 4(2)(l)(D)): The promoter is required to deposit seventy percent of the amounts realized from the allottees in a separate account to cover the cost of construction and land cost, preventing the diversion of funds.
+
+Rights and Duties of Allottees (Section 19): Specifies the rights of homebuyers, including the right to obtain information about the project and to claim possession of the apartment in a timely manner.
+
+Associated Legal Terminology:
+
+Promoter: A person who constructs or causes to be constructed an independent building or a building consisting of apartments, or develops land into a project, for the purpose of selling.
+
+Allottee: A person to whom a plot, apartment or building has been allotted, sold or otherwise transferred by the promoter.
+
+Carpet Area: The net usable floor area of an apartment. The Act mandates that promoters must sell properties based on carpet area.

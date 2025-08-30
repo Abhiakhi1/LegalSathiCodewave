@@ -1,0 +1,127 @@
+INTRODUCTORY OVERVIEW OF ENVIRONMENTAL LAW
+What is Environmental Law?
+Environmental Law in India is a body of laws, rules, regulations, and judicial precedents that govern the protection of the natural environment. It has evolved significantly over the last few decades, driven by constitutional mandates, international commitments, and judicial activism. The Constitution of India provides the foundation for environmental protection. Article 21 (Right to Life) has been interpreted by the Supreme Court to include the right to a healthy and clean environment. Furthermore, Article 48A (a Directive Principle of State Policy) directs the State to protect and improve the environment, while Article 51A(g) (a Fundamental Duty) imposes a duty on every citizen to protect and improve the natural environment. This field of law aims to prevent pollution, conserve natural resources, and ensure sustainable development.
+
+PART I: UMBRELLA LEGISLATION
+1. The Environment (Protection) Act, 1986
+Description: This is a comprehensive and powerful "umbrella" legislation that provides a framework for the coordination of activities of various central and state authorities established under other environmental laws. It was enacted in the wake of the Bhopal Gas Tragedy to plug the gaps in the existing legal framework. It grants wide-ranging powers to the Central Government to take all measures necessary for the purpose of protecting and improving the quality of the environment.
+
+Key Provisions:
+
+Power of Central Government to take measures to protect and improve environment (Section 3): This is the core provision, empowering the Central Government to take all necessary measures, including laying down standards for the quality of the environment and for the emission or discharge of environmental pollutants.
+
+Power to make rules to regulate environmental pollution (Section 6): The Central Government is empowered to make rules on a wide range of matters, such as air, water, and soil quality standards, and procedures for handling hazardous substances.
+
+Persons handling hazardous substances to comply with procedural safeguards (Section 8): Mandates that persons handling hazardous substances must comply with prescribed safeguards.
+
+Penalties for Contravention (Section 15): Provides for stringent penalties, including imprisonment for a term which may extend to five years or with a fine which may extend to one lakh rupees, or with both.
+
+Associated Legal Terminology:
+
+Environment: Includes water, air, and land and the inter-relationship which exists among and between water, air and land, and human beings, other living creatures, plants, micro-organisms and property.
+
+Environmental Pollutant: Any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to the environment.
+
+Hazardous Substance: Any substance or preparation which, by reason of its chemical or physico-chemical properties or handling, is liable to cause harm to human beings, other living creatures, plants, micro-organisms, property or the environment.
+
+PART II: POLLUTION CONTROL LEGISLATIONS
+1. The Water (Prevention and Control of Pollution) Act, 1974
+Description: This was the first major legislation enacted in India to specifically address the problem of water pollution. Its primary objective is to provide for the prevention and control of water pollution and the maintaining or restoring of the wholesomeness of water. It established the institutional framework for pollution control by creating the Central Pollution Control Board (CPCB) and State Pollution Control Boards (SPCBs).
+
+Key Provisions:
+
+Constitution of Central and State Boards (Sections 3 & 4): Provides for the establishment of the CPCB at the national level and SPCBs at the state level as the primary agencies to implement the Act.
+
+Powers and Functions of Boards (Sections 16 & 17): Outlines the functions of the boards, which include planning comprehensive programs for pollution control, advising the government, setting standards for sewage and trade effluents, and conducting inspections.
+
+Prohibition on use of stream or well for disposal of polluting matter (Section 24): Prohibits any person from knowingly causing or permitting any poisonous, noxious or polluting matter to enter any stream or well.
+
+Power to take samples (Section 21): Empowers the boards to take samples of effluents from any industrial plant for analysis.
+
+Associated Legal Terminology:
+
+Pollution: Such contamination of water or such alteration of the physical, chemical or biological properties of water or such discharge of any sewage or trade effluent or of any other liquid, gaseous or solid substance into water as may, or is likely to, create a nuisance or render such water harmful or injurious to public health or safety.
+
+Stream: Includes river, water course (whether flowing or for the time being dry), inland water (whether natural or artificial), sub-terranean waters, and sea or tidal waters.
+
+Trade Effluent: Any liquid, gaseous or solid substance which is discharged from any premises used for carrying on any industry, operation or process, or treatment and disposal system, other than domestic sewage.
+
+2. The Air (Prevention and Control of Pollution) Act, 1981
+Description: This Act was enacted to implement the decisions taken at the United Nations Conference on the Human Environment held in Stockholm in 1972. It provides for the prevention, control, and abatement of air pollution. The Act empowers the CPCB and SPCBs (established under the Water Act) to also implement its provisions.
+
+Key Provisions:
+
+Power to declare air pollution control areas (Section 19): The State Government, after consultation with the SPCB, may declare any area or areas within the State as air pollution control areas.
+
+Restrictions on use of certain industrial plants (Section 21): No person shall, without the previous consent of the State Board, establish or operate any industrial plant in an air pollution control area.
+
+Power of entry and inspection (Section 24): Empowers any person authorized by a board to enter and inspect any place for the purpose of performing any of the functions of the board.
+
+Noise Pollution: The Act was amended in 1987 to include noise as an "air pollutant."
+
+Associated Legal Terminology:
+
+Air Pollutant: Any solid, liquid or gaseous substance (including noise) present in the atmosphere in such concentration as may be or tend to be injurious to human beings or other living creatures or plants or property or environment.
+
+Air Pollution: The presence in the atmosphere of any air pollutant.
+
+Emission: Any solid or liquid or gaseous substance coming out of any chimney, duct or flue or any other outlet.
+
+PART III: RESOURCE CONSERVATION LEGISLATIONS
+1. The Wildlife (Protection) Act, 1972
+Description: This is a comprehensive Act that provides for the protection of India's wild animals, birds, and plant species, in order to ensure environmental and ecological security. It established a framework for the creation of protected areas and prohibits the hunting and trade of specified species.
+
+Key Provisions:
+
+Schedules of Protected Species (Schedules I-VI): The Act classifies wildlife into different schedules. Species listed in Schedule I and Part II of Schedule II get absolute protection, and offenses under these are prescribed the highest penalties.
+
+Prohibition of Hunting (Section 9): Prohibits the hunting of any wild animal specified in Schedules I, II, III, and IV.
+
+Declaration of Sanctuaries and National Parks (Chapter IV): Empowers the State Government to declare any area as a wildlife sanctuary or a national park for the purpose of protecting, propagating, or developing wildlife or its environment.
+
+Constitution of National Tiger Conservation Authority (Chapter IVB): A statutory body established for the conservation of tigers.
+
+Associated Legal Terminology:
+
+Wildlife: Includes any animal, bees, butterflies, crustacean, fish and moths; and aquatic or land vegetation which forms part of any habitat.
+
+Habitat: Includes land, water or vegetation which is the natural home of any wild animal.
+
+Hunting: Includes capturing, killing, poisoning, snaring, and trapping of any wild animal.
+
+National Park: An area set aside for the protection of wildlife and biodiversity, where activities like grazing and forestry are not permitted.
+
+Sanctuary: An area where protection is given to the fauna, and certain human activities are permitted.
+
+2. The Forest (Conservation) Act, 1980
+Description: This is a brief but highly significant Act enacted to check the rapid deforestation in the country. It imposes strict restrictions on the de-reservation of forests and the use of forest land for non-forest purposes.
+
+Key Provisions:
+
+Restriction on the de-reservation of forests or use of forest land for non-forest purpose (Section 2): This is the cornerstone of the Act. It mandates that no State Government or other authority shall make any order directing that any reserved forest shall cease to be reserved, or that any forest land may be used for any non-forest purpose, without the prior approval of the Central Government.
+
+Associated Legal Terminology:
+
+Forest Land: The term "forest" is not defined in the Act, but the Supreme Court in the T.N. Godavarman case held that it includes not only forests as understood in the dictionary sense, but also any area recorded as forest in the Government records, irrespective of ownership.
+
+Non-forest purpose: Any purpose other than reafforestation, such as the cultivation of crops, construction of buildings, or mining.
+
+PART IV: ADJUDICATORY BODY
+1. The National Green Tribunal Act, 2010
+Description: This Act provides for the establishment of a specialized judicial body, the National Green Tribunal (NGT), for the effective and expeditious disposal of cases relating to environmental protection and conservation of forests and other natural resources. It also provides for giving relief and compensation for damages to persons and property.
+
+Key Provisions:
+
+Establishment of the Tribunal (Section 3): Provides for the creation of the NGT.
+
+Jurisdiction of the Tribunal (Section 14): The NGT has jurisdiction to hear all civil cases where a substantial question relating to the environment is involved and such question arises out of the implementation of the enactments specified in Schedule I (which includes the Water Act, Air Act, Environment Act, etc.).
+
+Application of principles of sustainable development, precautionary principle, and polluter pays principle (Section 20): This is a unique feature. The Act statutorily mandates the NGT to apply these three fundamental principles of environmental jurisprudence while passing any order or decision.
+
+Associated Legal Terminology:
+
+Substantial question relating to environment: A question that arises out of a direct violation of a specific statutory environmental obligation, which affects or is likely to affect a large number of persons or the community at large.
+
+Precautionary Principle: The principle that where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation.
+
+Polluter Pays Principle: The principle that the polluter should bear the cost of preventing and controlling pollution, as well as the cost of the damage caused by it.

@@ -1,0 +1,86 @@
+INTRODUCTORY OVERVIEW OF LAW ON EXAMINATIONS AND MALPRACTICES
+What is Law on Examinations and Malpractices?
+The law relating to malpractices in examinations in India is a specific area of law designed to maintain the sanctity, integrity, and fairness of public examinations conducted by school boards, universities, and other public bodies. This is not governed by a single, central statute but is a composite legal framework comprising:
+
+State-specific Acts: Many states have enacted their own laws to prevent the use of "unfair means" in examinations and to prescribe criminal penalties for such acts.
+
+Regulations of Examination Boards: Statutory bodies like the Central Board of Secondary Education (CBSE), ICSE, and various State Boards have their own examination bye-laws and regulations that define malpractices and lay down the administrative actions that can be taken against a student.
+
+General Criminal Law: Provisions of the Indian Penal Code (now the Bharatiya Nyaya Sanhita) can be invoked in cases of organized cheating, impersonation, or forgery related to examinations.
+
+The objective of this body of law is to penalize dishonest practices and to ensure that academic qualifications are a true reflection of a student's merit.
+
+PART I: STATE-LEVEL LEGISLATIONS (THE PRIMARY FRAMEWORK)
+Description: Recognizing the serious nature of examination malpractices, many states have enacted specific laws to treat the use of unfair means as a criminal offense. These acts provide a strong deterrent by prescribing punishments like imprisonment and fines.
+
+Example: The Maharashtra Prevention of Malpractices at University, Board and Other Specified Examinations Act, 1982
+
+Description: This is a representative state-level Act that provides a clear framework for penalizing examination malpractices.
+
+Key Provisions:
+
+Definition of 'Unfair Means' (Section 2(k)): Defines "unfair means" very broadly to include a wide range of activities, such as:
+
+Possessing any unauthorized material (like notes, books, or electronic devices) in the examination hall.
+
+Copying from any material or from another candidate.
+
+Communicating with any person inside or outside the examination hall.
+
+Impersonating another candidate.
+
+Disclosing or procuring the contents of a question paper before the examination.
+
+Prohibition of use of unfair means (Section 7): Prohibits any candidate from using unfair means at an examination.
+
+Penalty for use of unfair means (Section 8): Makes the use of unfair means a cognizable and non-bailable offense, punishable with imprisonment for a term which may extend to two years, or with a fine which may extend to two thousand rupees, or with both.
+
+Penalty for leakage of question papers (Section 6): Prescribes stringent punishment for any person entrusted with examination work who leaks the question paper.
+
+Other Similar State Acts:
+
+The Uttar Pradesh Public Examinations (Prevention of Unfair Means) Act, 1998.
+
+The Andhra Pradesh Public Examinations (Prevention of Malpractices and Unfair Means) Act, 1997.
+
+The Rajasthan Public Examination (Prevention of Unfair Means) Act, 1992.
+
+PART II: REGULATIONS OF EXAMINATION BOARDS
+Description: In addition to criminal prosecution under state laws, students found using unfair means are also subject to administrative action by the concerned examination board. These actions are governed by the board's own examination rules or bye-laws. These administrative penalties are independent of any court proceedings.
+
+Example: Central Board of Secondary Education (CBSE) Examination Bye-laws
+
+Description: The CBSE has a detailed set of rules that define what constitutes an unfair means and the penalties that will be imposed by the Board's Results Committee.
+
+Types of Malpractices Defined: The rules list various offenses, such as possessing unauthorized material, communicating with others, impersonation, smuggling out a question paper, or smuggling in an answer book.
+
+Administrative Penalties: The penalties are graded according to the severity of the offense and can include:
+
+Cancellation of the performance in that subject: The student's exam for that specific paper is cancelled, and they are marked as absent.
+
+Cancellation of the entire examination: The student's result for the entire board examination for that year is cancelled.
+
+Debarring from future examinations: The student can be debarred from appearing for any examination of the Board for a period of one to five years.
+
+Associated Legal Terminology:
+
+Unfair Means: Any activity that gives a candidate an unfair advantage over other candidates in an examination.
+
+Malpractice: A broader term that includes the use of unfair means by a candidate as well as misconduct by persons involved in conducting the examination.
+
+Debarment: The act of officially preventing a student from taking part in future examinations for a specified period.
+
+Invigilator: A person who supervises candidates during an examination.
+
+Results Committee: A committee within an examination board that is empowered to decide on cases of unfair means and impose administrative penalties.
+
+PART III: RELEVANCE OF GENERAL CRIMINAL LAW
+Description: In cases of serious or organized malpractices, the general criminal law of the country, i.e., the Indian Penal Code, 1860 (now the Bharatiya Nyaya Sanhita, 2023), can be applied.
+
+Key Provisions:
+
+Cheating (Section 415 IPC / Section 318 BNS): While simple copying may not amount to cheating under the IPC, the offense of cheating by personation is directly applicable if a candidate arranges for another person to write the examination on their behalf.
+
+Forgery (Section 463 IPC / relevant BNS section): This is applicable in cases involving the creation of false documents, such as forging an admit card, a medical certificate to seek special concessions, or a marksheet after the results.
+
+Criminal Conspiracy (Section 120A IPC / Section 61 BNS): This provision is invoked when two or more persons conspire to commit an illegal act, such as an organized plan to leak a question paper, run a copying racket, or manipulate results at a large scale.

@@ -1,0 +1,194 @@
+INTRODUCTORY OVERVIEW OF ADMINISTRATIVE LAW
+What is Administrative Law?
+Administrative Law is the branch of public law that deals with the powers, functions, and duties of administrative authorities, the procedures they must follow in exercising those powers, and the remedies available to individuals whose rights have been infringed by administrative actions. In essence, it is the law that governs the government. Its primary purpose is to ensure that the vast powers exercised by the government and its agencies are used in a lawful, fair, and reasonable manner. It acts as a check on the abuse of power and aims to protect the rights of citizens.
+
+Core Principles of Administrative Law in India:
+
+Rule of Law: This is the foundational principle. It means that no person is above the law, and every action of the government must be backed by legal authority. It opposes arbitrariness.
+
+Separation of Powers: While India does not have a rigid separation of powers, the functions of the legislature (making law), the executive (implementing law), and the judiciary (interpreting law) are distinct. Administrative law primarily deals with the executive branch.
+
+Judicial Review: The power of the judiciary (Supreme Court and High Courts) to review the actions of the legislative and executive branches to ensure they are constitutional and lawful. This is a cornerstone of administrative law.
+
+CONSTITUTIONAL FOUNDATIONS OF ADMINISTRATIVE LAW
+The Constitution of India is the supreme law, and several of its articles provide the basis for administrative law.
+
+Article 14: Equality Before Law
+
+Description: This article guarantees that "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+
+Relevance: This is a fundamental check on administrative action. Any action by a government body that is arbitrary, discriminatory, or unreasonable can be challenged as a violation of Article 14.
+
+Article 19: Protection of Certain Rights
+
+Description: This article guarantees fundamental freedoms such as freedom of speech, assembly, movement, etc. These rights are not absolute and can be restricted by law, but the restrictions must be reasonable.
+
+Relevance: Administrative authorities cannot impose unreasonable restrictions on these fundamental rights. The reasonableness of any restrictive action can be tested in court.
+
+Article 21: Protection of Life and Personal Liberty
+
+Description: It states that "No person shall be deprived of his life or personal liberty except according to procedure established by law."
+
+Relevance: The Supreme Court has interpreted this to mean that the "procedure established by law" must be fair, just, and reasonable, not arbitrary. This has given rise to the principles of natural justice.
+
+Article 32 & 226: Writ Jurisdiction
+
+Description: Article 32 gives the Supreme Court the power to issue writs for the enforcement of fundamental rights. Article 226 gives a similar, but wider, power to the High Courts.
+
+Relevance: These articles are the most potent tools for judicial review of administrative action. Citizens can directly approach the higher judiciary if their rights are violated by an administrative authority.
+
+Article 136: Special Leave to Appeal
+
+Description: This article grants the Supreme Court discretionary power to hear appeals from any judgment, decree, determination, sentence, or order in any cause or matter passed or made by any court or tribunal in India.
+
+Relevance: This allows the Supreme Court to review the decisions of various administrative tribunals, ensuring they act within the law.
+
+Article 311: Safeguards for Civil Servants
+
+Description: This article provides procedural safeguards to persons employed in civil capacities under the Union or a State. It protects them from arbitrary dismissal, removal, or reduction in rank.
+
+Relevance: It establishes a key principle of administrative law related to the service conditions of government employees, ensuring fairness.
+
+Articles 323A & 323B: Administrative Tribunals
+
+Description: These articles empower the Parliament to create administrative tribunals for the adjudication of disputes relating to recruitment and conditions of service of public servants (323A) and for other matters like taxation, foreign exchange, and land reforms (323B).
+
+Relevance: These articles form the constitutional basis for the establishment of a parallel judicial system for specific areas of administrative law, leading to the enactment of the Administrative Tribunals Act, 1985.
+
+KEY PRINCIPLES AND DOCTRINES
+1. Principles of Natural Justice
+These are fundamental rules of fairness that every administrative authority must follow when making a decision that affects the rights of an individual. They are not codified but are considered essential for a just process.
+
+Nemo Judex in Causa Sua (Rule Against Bias):
+
+Description: This Latin phrase means "no one should be a judge in their own cause." It ensures that the decision-making authority is impartial and not biased.
+
+Types of Bias:
+
+Pecuniary Bias: If the adjudicator has a financial interest in the matter.
+
+Personal Bias: Arises from a relationship of friendship, enmity, or kinship between the adjudicator and a party.
+
+Official Bias / Bias as to Subject Matter: When the adjudicator has a general interest in the subject matter.
+
+Audi Alteram Partem (Rule of Fair Hearing):
+
+Description: This means "hear the other side." It requires that any person against whom an action is proposed to be taken must be given a fair opportunity to be heard.
+
+Components of a Fair Hearing:
+
+Notice: The person must be given a clear and unambiguous notice of the case against them.
+
+Right to Present Case and Evidence: The person must have the opportunity to present their arguments and evidence in their defense.
+
+Right to Rebut Adverse Evidence (Cross-Examination): The person should be informed of the evidence against them and be given a chance to challenge it.
+
+Reasoned Decision: The administrative authority should provide reasons for its decision. This ensures transparency and allows for a meaningful appeal.
+
+2. Doctrine of Proportionality
+
+Description: This doctrine requires that the administrative action taken should not be more drastic than necessary to achieve the desired result. There must be a rational connection between the objective and the means used to achieve it, and the punishment or restriction imposed should not be excessive.
+
+3. Doctrine of Legitimate Expectation
+
+Description: This doctrine protects the expectation of an individual that an administrative body will act in a certain way based on its past practice or an express promise. The expectation can be procedural (expecting a certain procedure to be followed) or substantive (expecting a certain benefit or outcome). The authority cannot go back on this expectation without a valid, overriding public interest.
+
+MAJOR LEGISLATIONS IN ADMINISTRATIVE LAW
+1. The Administrative Tribunals Act, 1985
+Objective: To provide for the adjudication of disputes and complaints with respect to the recruitment and conditions of service of persons appointed to public services and posts in connection with the affairs of the Union or of any State. It was enacted under Article 323A of the Constitution to reduce the burden on High Courts.
+
+Key Sections:
+
+Section 4: Establishment of Administrative Tribunals: Empowers the Central Government to establish a Central Administrative Tribunal (CAT) and State Administrative Tribunals (SATs) upon request from the respective state governments.
+
+Section 14: Jurisdiction, Powers and Authority of the Central Administrative Tribunal: Vests the CAT with the jurisdiction that was previously exercised by all courts (except the Supreme Court) in relation to service matters of central government employees.
+
+Section 22: Procedure and Powers of Tribunals: States that tribunals are not bound by the strict procedures of the Code of Civil Procedure, 1908, but shall be guided by the principles of natural justice. This allows for flexibility and speedy disposal of cases.
+
+Section 28: Exclusion of jurisdiction of courts except the Supreme Court: Originally, this section barred the jurisdiction of all courts, including High Courts, over service matters. However, in the landmark case of L. Chandra Kumar v. Union of India, the Supreme Court held that the power of judicial review of High Courts under Article 226 is part of the basic structure of the Constitution and cannot be taken away. Therefore, appeals from tribunals now lie before the Division Bench of the concerned High Court.
+
+2. The Right to Information Act, 2005 (RTI Act)
+Objective: To provide a practical regime for citizens to secure access to information under the control of public authorities, in order to promote transparency and accountability in the working of every public authority.
+
+Key Sections:
+
+Section 2(f): Definition of "Information": Defines "information" very broadly to include any material in any form, such as records, documents, memos, emails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, and data material held in any electronic form.
+
+Section 2(h): Definition of "Public Authority": Defines "public authority" to include bodies of self-government established under the Constitution or law, and any body owned, controlled, or substantially financed by the government, including non-governmental organizations that receive substantial government funding.
+
+Section 4: Obligations of Public Authorities (Proactive Disclosure): Mandates that every public authority must proactively publish key information about its organization, functions, duties, and finances so that citizens need minimum recourse to the Act to obtain information.
+
+Section 6: Request for Obtaining Information: Lays down the simple procedure for a citizen to request information. A request must be made in writing or electronically, with a prescribed fee, to the Public Information Officer (PIO) of the concerned authority.
+
+Section 7: Disposal of Request: Sets a time limit of 30 days for the PIO to provide the information. If the information concerns the life or liberty of a person, it must be provided within 48 hours.
+
+Section 8: Exemption from Disclosure of Information: Lists the categories of information that are exempt from disclosure, such as information that would affect the sovereignty and integrity of India, national security, strategic interests, information forbidden by a court, or information that would impede an investigation. However, even these exemptions are not absolute and can be overridden if the public interest in disclosure outweighs the harm to the protected interests.
+
+Section 19: Appeal: Provides for a two-tier appeal mechanism. The first appeal lies with an officer senior in rank to the PIO within the same public authority. The second appeal lies with the Central Information Commission (CIC) or the State Information Commission (SIC).
+
+3. The Commissions of Inquiry Act, 1952
+Objective: To provide for the appointment of Commissions of Inquiry to investigate definite matters of public importance. These commissions are fact-finding bodies and their reports are recommendatory in nature; they do not have the power to adjudicate or punish.
+
+Key Sections:
+
+Section 3: Appointment of Commission: Empowers the appropriate Government (Central or State) to appoint a Commission of Inquiry by a notification in the Official Gazette. The government can do this on its own initiative or if a resolution is passed by the Parliament or State Legislature.
+
+Section 4: Powers of Commission: Vests the Commission with the powers of a civil court while trying a suit under the Code of Civil Procedure, 1908. These powers include summoning and enforcing the attendance of any person, examining them on oath, requiring the discovery and production of any document, and receiving evidence on affidavits.
+
+Section 5: Additional Powers of Commission: Allows the government to confer additional powers on the Commission, such as the power to enter any building or place for inspection and to seize relevant documents.
+
+4. The Central Vigilance Commission Act, 2003
+Objective: To constitute a Central Vigilance Commission (CVC) to inquire or cause inquiries to be conducted into offenses alleged to have been committed under the Prevention of Corruption Act, 1988, by certain categories of public servants of the Central Government. It is the apex anti-corruption body in India.
+
+Key Sections:
+
+Section 3: Constitution of Central Vigilance Commission: Provides for the establishment of the CVC, which consists of a Central Vigilance Commissioner (Chairperson) and not more than two Vigilance Commissioners (Members).
+
+Section 8: Functions and Powers of Central Vigilance Commission: Outlines the functions of the CVC, which include exercising superintendence over the functioning of the Delhi Special Police Establishment (CBI) in relation to corruption cases, tendering advice to Central Government agencies on vigilance matters, and undertaking inquiries into complaints of corruption against specified categories of public servants.
+
+Section 11: Power to inquire: The CVC has the powers of a civil court to summon witnesses and compel the production of documents.
+
+KEY LEGAL TERMINOLOGIES IN ADMINISTRATIVE LAW
+Ultra Vires:
+
+Description: A Latin term meaning "beyond the powers." An act is ultra vires if it is done by a public authority that exceeds the scope of the power given to it by law. Such an act is invalid and has no legal effect.
+
+Intra Vires:
+
+Description: A Latin term meaning "within the powers." An act is intra vires if it is done within the legal authority of the administrative body.
+
+Quasi-Judicial Action:
+
+Description: An action by an administrative agency that is partly judicial and partly administrative in nature. It involves investigating facts, holding a hearing, and making a decision based on evidence, which affects the rights of a private party. The principles of natural justice must be followed in such actions.
+
+Writ:
+
+Description: A formal written order issued by a court (Supreme Court or High Court) directing an individual or authority to perform or refrain from performing a specific act.
+
+Types of Writs:
+
+Habeas Corpus: "To have the body." A writ issued to bring a person who has been illegally detained before the court.
+
+Mandamus: "We command." A writ issued to a public authority to compel it to perform its public or statutory duty.
+
+Certiorari: "To be certified." A writ issued by a higher court to a lower court or tribunal to quash an order that is illegal, without jurisdiction, or in violation of the principles of natural justice.
+
+Prohibition: A writ issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction.
+
+Quo Warranto: "By what authority." A writ issued to inquire into the legality of a person's claim to a public office.
+
+Ombudsman:
+
+Description: An independent official who investigates complaints from citizens against government agencies. In India, the Lokpal (at the Central level) and Lokayuktas (at the State level) are the ombudsman institutions created to combat corruption.
+
+Delegated Legislation (Subordinate Legislation):
+
+Description: Law made by an executive authority under powers delegated to it by the legislature. The legislature enacts a primary law (Parent Act) which provides a broad framework and delegates the power to the executive to make detailed rules and regulations to carry out the purpose of the Act. This is necessary for efficient governance but is subject to judicial and legislative control to prevent abuse.
+
+Administrative Discretion:
+
+Description: The power conferred on an administrative authority to choose between different courses of action. This discretion is not absolute and must be exercised reasonably, in good faith, and for the purpose for which it was given. An arbitrary or irrelevant exercise of discretion can be struck down by the courts.
+
+Promissory Estoppel:
+
+Description: A legal principle that prevents a person (or a public authority) from going back on a promise if the other party has acted upon that promise to their detriment. The government can be held to its promises under this doctrine, unless it is against the law or against the public interest.

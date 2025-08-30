@@ -1,0 +1,114 @@
+INTRODUCTORY OVERVIEW OF BANKING LAW
+What is Banking Law?
+Banking Law is the body of law that governs the functioning of banks and financial institutions. It provides the legal framework that regulates how banks are formed, licensed, and operated, and it governs the relationship between banks and their customers. In India, "Banking" is a subject in the Union List of the Constitution, giving the Parliament exclusive power to legislate on it. The primary objective of banking law is to ensure the stability and integrity of the financial system, protect the interests of depositors, facilitate credit and commerce, and implement the country's monetary policy. The Reserve Bank of India (RBI), as the central bank, is the principal regulator of the banking sector in India.
+
+PART I: THE PRIMARY LEGISLATIONS
+1. The Reserve Bank of India Act, 1934 (RBI Act)
+Description: This is the foundational statute that established the Reserve Bank of India (RBI) as the country's central bank. The Act lays down the constitution, powers, and functions of the RBI. It empowers the RBI to act as the issuer of currency, the government's banker, the commercial banks' banker, and the overall regulator of the financial and monetary system in India.
+
+Key Provisions:
+
+Establishment and incorporation of Reserve Bank (Section 3): Provides for the establishment of the RBI as a body corporate.
+
+Sole right to issue bank notes (Section 22): Grants the RBI the exclusive right to issue bank notes in India.
+
+Banker to Governments (Sections 20, 21, & 21A): The RBI is obligated to act as the banker to the Central Government and can also act as the banker to State Governments by agreement.
+
+Banker to Banks: The Act requires scheduled banks to maintain a certain percentage of their deposits as a cash reserve with the RBI, known as the Cash Reserve Ratio (CRR). This allows the RBI to act as the lender of last resort to banks.
+
+Monetary Policy: The Act empowers the RBI to operate the monetary policy of the country. This includes the power to determine the policy rates (like the repo rate and reverse repo rate) to control inflation and regulate the money supply in the economy.
+
+Associated Legal Terminology:
+
+Reserve Bank of India (RBI): The central bank of India, responsible for regulating the Indian banking system.
+
+Monetary Policy: The process by which the central bank of a country controls the supply of money, often targeting an inflation rate or interest rate to ensure price stability.
+
+Bank Note: A promissory note made by a bank payable to the bearer on demand.
+
+Repo Rate: The interest rate at which the RBI lends money to commercial banks.
+
+Cash Reserve Ratio (CRR): The share of a bank's total deposits that is mandated by the RBI to be maintained with the RBI as liquid cash.
+
+2. The Banking Regulation Act, 1949
+Description: This is a comprehensive Act that provides the legal framework for the regulation of all banking firms in India. While the RBI Act focuses on the RBI's role as the central bank, this Act gives the RBI its specific powers to regulate commercial banks. It aims to ensure the sound and orderly development of the banking system.
+
+Key Provisions:
+
+Definition of 'Banking' (Section 5(b)): Defines banking as "the accepting, for the purpose of lending or investment, of deposits of money from the public, repayable on demand or otherwise, and withdrawable by cheque, draft, order or otherwise."
+
+Licensing of banking companies (Section 22): No company can carry on banking business in India without obtaining a license from the RBI.
+
+Regulation of business of banking companies (Section 6): Specifies the forms of business in which banking companies may engage.
+
+Maintenance of a percentage of assets (Statutory Liquidity Ratio - SLR) (Section 24): Every banking company is required to maintain in India a certain percentage of its total demand and time liabilities in the form of liquid assets like cash, gold, or approved securities.
+
+Powers of the RBI (Sections 21 & 35A): The Act gives the RBI wide-ranging powers, including the power to control advances by banking companies and the power to issue directions to banks in the public interest.
+
+Associated Legal Terminology:
+
+Banking: The business of accepting deposits for the purpose of lending or investment.
+
+Banking Company: Any company which transacts the business of banking in India.
+
+Scheduled Bank: A bank which is listed in the Second Schedule to the Reserve Bank of India Act, 1934.
+
+Statutory Liquidity Ratio (SLR): The minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold or other securities.
+
+Non-Performing Asset (NPA): A loan or advance for which the principal or interest payment remained overdue for a period of 90 days.
+
+3. The Negotiable Instruments Act, 1881
+Description: This is one of the oldest commercial laws in India and is the primary legislation that defines and governs the use of negotiable instruments, which are essential tools for commercial and banking transactions.
+
+Key Provisions:
+
+Definitions of Negotiable Instruments:
+
+Promissory Note (Section 4): An unconditional undertaking in writing, signed by the maker, to pay a certain sum of money to a certain person.
+
+Bill of Exchange (Section 5): An unconditional order in writing, signed by the maker, directing a certain person to pay a certain sum of money to a certain person.
+
+Cheque (Section 6): A bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.
+
+Holder in Due Course (Section 9): A person who for consideration became the possessor of a negotiable instrument before it was overdue, and without having sufficient cause to believe that any defect existed in the title of the person from whom he derived his title. A holder in due course gets a good title to the instrument even if the title of the transferor was defective.
+
+Dishonour of Cheque for insufficiency, etc., of funds in the account (Section 138): This is the most significant provision in modern banking practice. It makes the dishonour of a cheque a criminal offense. If a person draws a cheque which is returned unpaid by the bank due to insufficient funds, the drawer of the cheque can be punished with imprisonment for a term which may extend to two years, or with a fine which may extend to twice the amount of the cheque, or with both. The provision is subject to certain conditions, such as the cheque being presented within its validity period and the payee sending a legal notice demanding payment within 30 days of the dishonour.
+
+Associated Legal Terminology:
+
+Negotiable Instrument: A document guaranteeing the payment of a specific amount of money, either on demand, or at a set time, whose ownership can be transferred from one person to another.
+
+Holder in Due Course: A person who has received a negotiable instrument in good faith and for value.
+
+Dishonour: The non-payment of a negotiable instrument by the party liable to pay.
+
+4. The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002
+Description: This Act was enacted to empower banks and financial institutions to recover their non-performing assets (NPAs) or bad loans without the intervention of the court. It provides a mechanism for the quick recovery of secured debts.
+
+Key Provisions:
+
+Enforcement of Security Interest (Section 13): This is the core provision of the Act. It allows a secured creditor (bank or financial institution) to enforce its security interest without the intervention of a court or tribunal. If a borrower defaults on a secured loan, the bank can issue a demand notice giving the borrower 60 days to repay the debt. If the borrower fails to comply, the bank is empowered to:
+
+Take possession of the secured assets of the borrower.
+
+Take over the management of the business of the borrower.
+
+Appoint any person to manage the secured assets.
+
+Appeal to Debt Recovery Tribunal (Section 17): Any person, including the borrower, aggrieved by any of the measures taken by the secured creditor under Section 13 can file an appeal with the Debt Recovery Tribunal (DRT).
+
+Asset Reconstruction: The Act provides for the establishment of Asset Reconstruction Companies (ARCs) which can acquire NPAs from banks and financial institutions and then work towards their resolution.
+
+Associated Legal Terminology:
+
+Non-Performing Asset (NPA): A loan asset which has ceased to generate income for the bank.
+
+Secured Creditor: Any bank or financial institution or any consortium or group of banks or financial institutions in whose favour a security interest is created.
+
+Security Interest: Right, title and interest of any kind whatsoever upon property, created in favour of any secured creditor.
+
+Securitization: The process of pooling various types of contractual debt and selling their related cash flows to third party investors as securities.
+
+Asset Reconstruction Company (ARC): A specialized financial institution that buys the NPAs or bad assets from banks and financial institutions so that the latter can clean up their balance sheets.
+
+Debt Recovery Tribunal (DRT): A specialized tribunal established to facilitate the speedy recovery of debts due to banks and financial institutions.

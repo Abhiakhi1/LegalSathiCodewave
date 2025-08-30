@@ -1,0 +1,83 @@
+INTRODUCTORY OVERVIEW OF CYBER LAW
+What is Cyber Law?
+Cyber Law, also known as Information Technology (IT) Law, is the area of law that deals with legal issues related to the use of the internet, cyberspace, and information technology. It governs a wide range of activities, including electronic commerce, electronic communication, digital signatures, intellectual property in the digital space, data protection, and cybercrimes. In India, the legal framework for cyber law was established by the Information Technology Act, 2000, which provides legal recognition for electronic transactions and a mechanism for punishing cybercrimes. This field is rapidly evolving to address new challenges posed by emerging technologies, with the recent enactment of the Digital Personal Data Protection Act, 2023, being a significant development in data privacy and security.
+
+PART I: THE PRIMARY CYBER LEGISLATION
+1. The Information Technology Act, 2000 (IT Act)
+Description: This is the primary legislation in India that deals with cybercrime and electronic commerce. The Act was enacted to provide a legal framework for electronic governance by giving legal recognition to electronic records and digital signatures. It also defines various cybercrimes and prescribes penalties for them. The Act was significantly amended in 2008 to introduce provisions related to data protection and cyber terrorism.
+
+Key Provisions:
+
+Legal Recognition of Electronic Records and Digital Signatures (Sections 4 & 5): These sections provide that electronic records and digital signatures shall have the same legal validity and enforceability as paper-based documents and handwritten signatures. This forms the legal foundation for e-commerce and e-governance.
+
+Civil Wrongs / Contraventions (Chapter IX):
+
+Penalty and Compensation for damage to computer, computer system, etc. (Section 43): This section deals with civil liability for various unauthorized acts, such as accessing or downloading data without permission, introducing computer viruses, damaging a computer system, or denying access to an authorized person. The adjudicating officer can award compensation to the affected person.
+
+Compensation for failure to protect data (Section 43A): Imposes a liability on a body corporate to pay damages to a person if it is negligent in implementing and maintaining reasonable security practices and procedures, resulting in wrongful loss or wrongful gain.
+
+Criminal Offences (Chapter XI):
+
+Tampering with computer source documents (Section 65): Penalizes the intentional concealment, destruction, or alteration of computer source code.
+
+Hacking with computer systems (Section 66): This section, read with Section 43, defines and penalizes hacking.
+
+Punishment for identity theft (Section 66C): Makes the fraudulent or dishonest use of another person's electronic signature, password, or other unique identification feature a punishable offense.
+
+Punishment for cyber terrorism (Section 66F): A stringent provision that penalizes acts committed with the intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in the people.
+
+Punishment for publishing or transmitting obscene material in electronic form (Section 67): Penalizes the publication or transmission of obscene material. Sections 67A and 67B deal with sexually explicit material and child pornography, respectively.
+
+Intermediary Liability (Section 79): This is a "safe harbour" provision. It grants immunity to intermediaries (like internet service providers, social media platforms, and search engines) from liability for any third-party information, data, or communication link made available or hosted by them, provided they observe due diligence and comply with government guidelines.
+
+Adjudicatory and Appellate Framework: The Act provides for the appointment of Adjudicating Officers to decide on compensation claims under Chapter IX and the establishment of a Cyber Appellate Tribunal to hear appeals from their orders.
+
+Associated Legal Terminology:
+
+Computer: Any electronic, magnetic, optical or other high-speed data processing device or system which performs logical, arithmetic, and memory functions by manipulations of electronic, magnetic or optical impulses.
+
+Cyber Security: Protecting information, equipment, devices, computer, computer resource, communication device and information stored therein from unauthorized access, use, disclosure, disruption, modification or destruction.
+
+Digital Signature: A means of authenticating an electronic record by a subscriber by means of an electronic method or procedure in accordance with the provisions of section 3.
+
+Intermediary: Includes telecom service providers, network service providers, internet service providers, web-hosting service providers, search engines, online payment sites, online-auction sites, online-market places and cyber cafes.
+
+Hacking: The act of gaining unauthorized access to a computer system or network.
+
+PART II: DATA PROTECTION AND PRIVACY
+1. The Digital Personal Data Protection Act, 2023 (DPDP Act)
+Description: This is a landmark legislation enacted to provide for the processing of digital personal data in a manner that recognizes both the right of individuals to protect their personal data and the need to process such personal data for lawful purposes. It establishes a comprehensive legal framework for data protection, specifying the rights of individuals and the obligations of entities that collect and process data.
+
+Key Provisions:
+
+Application (Section 3): The Act applies to the processing of digital personal data within India, and also to the processing of personal data outside India if it is in connection with any activity related to the offering of goods or services to individuals in India.
+
+Grounds for Processing Personal Data (Chapter II): Personal data can be processed only for a lawful purpose upon the consent of the individual. Consent must be free, specific, informed, and unambiguous. The Act also provides for "legitimate uses" where data can be processed without consent, such as for the performance of any function under law or for medical emergencies.
+
+Obligations of Data Fiduciaries (Section 8): A Data Fiduciary (the entity that determines the purpose and means of processing) has several obligations, including making reasonable efforts to ensure that personal data is accurate and complete, implementing appropriate security safeguards to prevent data breaches, and deleting personal data once the purpose for which it was collected is no longer being served.
+
+Rights of the Data Principal (Chapter III): The Act grants several rights to the Data Principal (the individual to whom the data relates), including:
+
+Right to access information about personal data.
+
+Right to correction and erasure of personal data.
+
+Right to grievance redressal.
+
+**Right to nominate another person to exercise these rights in case of death or incapacity.
+
+Data Protection Board of India (Chapter V): The Act provides for the establishment of a Data Protection Board of India as the primary authority to adjudicate on non-compliance with the Act and to impose penalties.
+
+Associated Legal Terminology:
+
+Personal Data: Any data about an individual who is identifiable by or in relation to such data.
+
+Data Principal: The individual to whom the personal data relates.
+
+Data Fiduciary: Any person who alone or in conjunction with other persons determines the purpose and means of the processing of personal data.
+
+Data Processor: Any person who processes personal data on behalf of a Data Fiduciary.
+
+Processing: An automated operation or set of operations performed on digital personal data, and may include operations such as collection, storage, use, sharing, and erasure.
+
+Personal Data Breach: Any unauthorized processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction of or loss of access to personal data, that compromises the confidentiality, integrity or availability of personal data.

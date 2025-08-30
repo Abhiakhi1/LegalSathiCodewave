@@ -1,0 +1,65 @@
+INTRODUCTORY OVERVIEW OF COMPETITION LAW
+What is Competition Law?
+Competition Law is the field of law that promotes or seeks to maintain market competition by regulating anti-competitive conduct by companies. The primary objective of this law is to ensure a fair and healthy competitive environment in the market, which in turn leads to wider consumer choice, better quality products, and lower prices. In India, the economic reforms of 1991 necessitated a shift from the earlier regime of controlling monopolies to a new framework focused on promoting competition. This led to the enactment of the Competition Act, 2002, which replaced the Monopolies and Restrictive Trade Practices (MRTP) Act, 1969. The law is designed to prevent practices that have an adverse effect on competition, to promote and sustain competition in markets, to protect the interests of consumers, and to ensure freedom of trade for all market participants.
+
+PART I: THE PRIMARY LEGISLATION
+1. The Competition Act, 2002
+Description: This is the principal legislation that governs competition law in India. It was enacted to provide a modern legal framework for establishing a robust competitive environment. The Act provides for the establishment of the Competition Commission of India (CCI) to prevent anti-competitive practices, promote competition, protect consumer interests, and ensure freedom of trade. The Act's philosophy is not to punish monopolies, but to prohibit the abuse of a dominant market position and to scrutinize agreements and mergers that could harm competition.
+
+Key Provisions: The Act is primarily built on four pillars:
+
+Prohibition of Anti-Competitive Agreements (Section 3):
+
+Description: This section prohibits any enterprise or person from entering into an agreement which causes or is likely to cause an Appreciable Adverse Effect on Competition (AAEC) within India. Such agreements are void.
+
+Types of Agreements:
+
+Horizontal Agreements: These are agreements between enterprises at the same stage of the production chain (i.e., competitors). The Act presumes that certain horizontal agreements, such as those to fix prices, limit production, share markets, or rig bids (collusive bidding), are anti-competitive. These are often referred to as "cartels" and are considered the most serious violations of competition law.
+
+Vertical Agreements: These are agreements between enterprises at different stages of the production chain (e.g., a manufacturer and a distributor). Examples include tie-in arrangements, exclusive supply agreements, exclusive distribution agreements, and resale price maintenance. Unlike horizontal agreements, these are not presumed to be illegal but are examined under a "rule of reason" approach to determine if they cause an AAEC.
+
+Prohibition of Abuse of Dominant Position (Section 4):
+
+Description: This section does not prohibit an enterprise from being dominant, but it prohibits the abuse of that dominant position. A dominant position is a position of strength enjoyed by an enterprise in a relevant market that enables it to operate independently of competitive forces or affect its competitors, consumers, or the relevant market in its favor.
+
+Forms of Abuse: The Act lists several actions that constitute abuse of a dominant position, including:
+
+Imposing unfair or discriminatory conditions or prices (including predatory pricing).
+
+Limiting or restricting the production of goods or services.
+
+Indulging in practices that result in the denial of market access to other competitors.
+
+Using its dominant position in one relevant market to enter into or protect another relevant market.
+
+Regulation of Combinations (Mergers and Acquisitions) (Sections 5 & 6):
+
+Description: The Act regulates "combinations," which include mergers, amalgamations, and acquisitions of control, shares, or assets that exceed certain financial thresholds (based on assets and turnover).
+
+Mandatory Notification: Parties proposing to enter into a combination that crosses the prescribed thresholds must notify the Competition Commission of India.
+
+CCI's Role: The CCI examines whether the proposed combination causes or is likely to cause an Appreciable Adverse Effect on Competition (AAEC) within the relevant market in India. If it finds that the combination is likely to have such an effect, it can block the combination or approve it subject to certain modifications.
+
+Competition Commission of India (CCI) (Chapter IV):
+
+Establishment and Composition (Sections 7 & 8): The Act provides for the establishment of the CCI as the principal regulatory body, consisting of a Chairperson and not less than two and not more than six other Members.
+
+Duties, Powers, and Functions of the Commission (Sections 18, 19, & 27): The primary duty of the CCI is to eliminate practices having an adverse effect on competition, promote and sustain competition, protect the interests of consumers, and ensure freedom of trade. It has the power to inquire into alleged contraventions of the Act, either on its own motion or on receipt of a complaint. If a contravention is found, the CCI can impose significant penalties, direct the modification of agreements, or order the division of a dominant enterprise.
+
+Associated Legal Terminology:
+
+Competition Commission of India (CCI): The statutory body responsible for enforcing the Competition Act, 2002.
+
+Appreciable Adverse Effect on Competition (AAEC): The standard used by the CCI to determine whether an agreement or a combination is anti-competitive. The Act lists factors to be considered when determining AAEC, such as creating barriers to entry and driving existing competitors out of the market.
+
+Cartel: An association of producers, sellers, distributors, traders or service providers who, by agreement amongst themselves, limit, control or attempt to control the production, distribution, sale or price of, or, trade in goods or provision of services.
+
+Bid Rigging: An illegal practice in which competing parties collude to choose the winner of a bidding process, often by agreeing on the prices they will bid.
+
+Dominant Position: A position of strength, enjoyed by an enterprise, in the relevant market, in India, which enables it to operate independently of competitive forces.
+
+Predatory Pricing: The practice of selling a product or service at a very low price with the intent of driving competitors out of the market, or creating barriers to entry for new competitors.
+
+Combination: The legal term for a merger, acquisition, or amalgamation that is regulated under the Act.
+
+Relevant Market: The market which has to be determined by the Commission with reference to the "relevant product market" and the "relevant geographic market." This is the first step in assessing dominance or the competitive effects of a combination.

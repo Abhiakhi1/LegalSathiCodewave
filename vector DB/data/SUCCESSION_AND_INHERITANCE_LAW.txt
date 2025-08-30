@@ -1,0 +1,110 @@
+INTRODUCTORY OVERVIEW OF SUCCESSION & INHERITANCE LAW
+What is Succession & Inheritance Law?
+Succession and Inheritance Law is the body of law that governs the devolution of a person's property after their death. It determines who is entitled to the property of the deceased and in what proportion. In India, this area of law is a part of Personal Law, meaning the rules of succession are primarily based on the religious affiliation of the deceased. There are distinct laws for Hindus, Muslims, Christians, and Parsis. The law is broadly divided into two categories: (1) Intestate Succession, which applies when a person dies without making a will, and (2) Testamentary Succession, which applies when a person dies after making a will, dictating how their property should be distributed.
+
+PART I: HINDU LAW OF SUCCESSION
+1. The Hindu Succession Act, 1956
+Description: This Act is the primary legislation that amends and codifies the law relating to intestate succession among Hindus. It applies not only to Hindus but also to Buddhists, Jains, and Sikhs. The Act introduced significant reforms, particularly in relation to the rights of female heirs.
+
+Key Provisions (Intestate Succession):
+
+Succession to Property of a Hindu Male (Section 8): The property of a Hindu male who dies without a will devolves according to a specific order of heirs:
+
+Class I Heirs: These heirs inherit the property simultaneously and to the exclusion of all others. They include the son, daughter, widow, mother, and children of a predeceased son or daughter.
+
+Class II Heirs: If there are no Class I heirs, the property devolves upon the heirs specified in Class II of the Schedule.
+
+Agnates: If there are no Class I or Class II heirs, the property goes to the agnates (relatives through the male line).
+
+Cognates: If there are no agnates, the property goes to the cognates (relatives not wholly through the male line).
+
+Succession to Property of a Hindu Female (Section 15): The property of a Hindu female dying intestate devolves according to a different set of rules, generally upon her sons, daughters, and husband first, and then upon the heirs of her husband.
+
+Coparcenary Property and Rights of Daughters (Section 6, as amended in 2005): This was a landmark amendment. It granted daughters the same rights as sons in the ancestral property of a Hindu Undivided Family (HUF), making them coparceners by birth. This means a daughter now has an equal right to claim a share in the ancestral property.
+
+Associated Legal Terminology:
+
+Intestate: A person who has died without having made a valid will.
+
+Coparcener: A person who has a birthright in the ancestral property of a Hindu Undivided Family (HUF).
+
+Ancestral Property: Property inherited by a Hindu from his father, father's father, or father's father's father.
+
+Self-Acquired Property: Property acquired by a person through their own efforts or from a source other than ancestral property. A person can dispose of their self-acquired property as they wish through a will.
+
+Agnate: A person related to the deceased wholly through a male line of descent.
+
+Cognate: A person related to the deceased through a mixed line of descent, including females.
+
+PART II: MUSLIM LAW OF SUCCESSION
+Description: The Muslim law of inheritance is uncodified and is based on the principles of the Quran and other sources of Shariat. It is governed by The Muslim Personal Law (Shariat) Application Act, 1937. The law comes into operation on the death of a person, and there is no concept of a right by birth (like coparcenary in Hindu law). The two main schools of Islamic law, the Hanafi (Sunni) and the Ithna-Ashari (Shia), have different rules of inheritance.
+
+Key Principles (Hanafi School - applicable to majority of Indian Muslims):
+
+Classification of Heirs: Heirs are divided into three main classes:
+
+Sharers (Quranic Heirs): These are twelve heirs whose shares are fixed by the Quran. They include the husband, wife, father, mother, and daughter. They are the first to get their specified share from the property.
+
+Residuaries: These are heirs who take the residue of the property after the shares of the Sharers have been distributed. They are typically male agnatic relatives.
+
+Distant Kindred: These are all other blood relatives who are not Sharers or Residuaries. They inherit only in the absence of the first two classes.
+
+Rule of Representation: The Hanafi school does not recognize the principle of representation. This means that if a son dies during the lifetime of his father, the son's children cannot inherit from their grandfather.
+
+Wills (Wasiyat): A Muslim can bequeath only one-third of their total property by will. Any bequest of more than one-third is not valid unless the other heirs consent to it after the testator's death.
+
+Associated Legal Terminology:
+
+Shariat: Islamic canonical law.
+
+Heir: A person who is entitled to inherit the property of the deceased.
+
+Sharer: An heir whose share is specifically fixed by the Quran.
+
+Residuary: An heir who takes the remaining property after the Sharers have taken their shares.
+
+Wasiyat: A will made by a Muslim.
+
+PART III: CHRISTIAN, PARSI, AND SECULAR LAW OF SUCCESSION
+1. The Indian Succession Act, 1925
+Description: This is a comprehensive secular law that governs (1) intestate succession for all communities in India other than Hindus and Muslims, primarily Christians and Parsis, and (2) testamentary succession (succession by will) for all communities except Muslims. It also governs the succession to the property of persons who marry under The Special Marriage Act, 1954.
+
+Key Provisions (Intestate Succession for Christians):
+
+Rules of Distribution (Sections 32-49):
+
+Where the intestate has left a widow and lineal descendants: The widow gets one-third of the property, and the remaining two-thirds go to the lineal descendants (children, grandchildren).
+
+Where the intestate has left a widow but no lineal descendants: The widow gets half of the property, and the other half goes to the kindred (blood relatives) of the deceased. If there are no kindred, the whole property goes to the widow.
+
+Kindred or Consanguinity (Section 24): The Act recognizes relationship by blood and does not distinguish between relatives through the father or the mother.
+
+Key Provisions (Testamentary Succession - Wills):
+
+Persons capable of making Wills (Section 59): Every person of sound mind and not a minor may dispose of their property by will.
+
+Execution of unprivileged Wills (Section 63): This is a crucial provision. For a will to be valid, it must satisfy three conditions:
+
+The testator (the person making the will) shall sign or affix their mark to the will.
+
+The signature or mark shall be so placed that it appears that it was intended thereby to give effect to the writing as a will.
+
+The will shall be attested by two or more witnesses, each of whom has seen the testator sign or affix their mark, and each of the witnesses shall sign the will in the presence of the testator.
+
+Probate (Section 213): A probate is a certified copy of the will under the seal of a court of competent jurisdiction. For wills made by Hindus, Buddhists, Sikhs, or Jains within certain territories (like the presidency towns of Kolkata, Mumbai, and Chennai), and for all wills made by Christians, a probate is mandatory to establish the right of the executor.
+
+Associated Legal Terminology:
+
+Testamentary Succession: Succession governed by a will.
+
+Will: The legal declaration of the intention of a testator with respect to their property which they desire to be carried into effect after their death.
+
+Testator / Testatrix: The male / female person who makes a will.
+
+Executor: The person appointed by the testator to execute the will.
+
+Attestation: The act of witnessing the signing of a will and then signing it oneself in the presence of the testator.
+
+Probate: The legal process of proving the validity of a will in a court of law.
+
+Lineal Descendants: Direct descendants of a person (children, grandchildren, etc.).

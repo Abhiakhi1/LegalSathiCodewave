@@ -1,0 +1,63 @@
+INTRODUCTORY OVERVIEW OF SUBSTANTIVE CRIMINAL LAW
+What is Substantive Criminal Law?
+Substantive Criminal Law is the body of law that defines specific crimes and prescribes the punishments for them. It establishes what conduct is considered criminal and lays down the essential elements of various offenses. In India, this area of law underwent a historic transformation in 2023, with the enactment of the Bharatiya Nyaya Sanhita, 2023 (BNS), which replaced the colonial-era Indian Penal Code, 1860 (IPC), effective from July 1, 2024. This dataset covers both the historical framework of the IPC and the current legal regime under the BNS to provide a complete understanding of substantive criminal law in India.
+
+PART I: HISTORICAL SUBSTANTIVE LAW
+1. The Indian Penal Code, 1860 (IPC) [Repealed]
+Description: The Indian Penal Code was the primary substantive criminal code of India for over 160 years. Drafted on the recommendations of the First Law Commission of India chaired by Thomas Babington Macaulay, it was a comprehensive code intended to cover all substantive aspects of criminal law. It was repealed and replaced by the Bharatiya Nyaya Sanhita, 2023.
+
+Key Provisions:
+
+General Explanations and Exceptions (Chapters II, IV): Defined fundamental concepts like "offence," "dishonestly," and "fraudulently," and laid down general exceptions to criminal liability, such as acts done by a person of unsound mind and the right of private defence.
+
+Offences Against the State (Chapter VI): Included offenses like waging war against the Government of India and sedition (Section 124A).
+
+Offences Against the Human Body (Chapter XVI): Covered a wide range of offenses from culpable homicide and murder (Sections 299-302) to kidnapping, abduction, and sexual offenses like rape (Section 375).
+
+Offences Against Property (Chapter XVII): Defined offenses such as theft, extortion, robbery, dacoity, criminal misappropriation, criminal breach of trust, and cheating.
+
+Defamation (Chapter XXI): Criminalized the act of harming the reputation of a person through words or representations.
+
+Associated Legal Terminology:
+
+Offence: An act or omission made punishable by any law.
+
+Mens Rea: "Guilty mind," referring to the criminal intent.
+
+Actus Reus: "Guilty act," referring to the physical act of the crime.
+
+Culpable Homicide: Causing death with the intention or knowledge that the act is likely to cause death.
+
+Sedition: The act of bringing or attempting to bring into hatred or contempt, or exciting disaffection towards, the Government established by law.
+
+PART II: CURRENT SUBSTANTIVE LAW
+2. The Bharatiya Nyaya Sanhita, 2023 (BNS)
+Description: The Bharatiya Nyaya Sanhita (BNS) is the new official criminal code of India, which replaced the Indian Penal Code, 1860. The BNS aims to consolidate and amend the laws relating to criminal offenses with a focus on delivering justice rather than merely inflicting punishment, reflecting a shift in penal philosophy.
+
+Key Provisions:
+
+New Offences: The BNS introduces new, contemporary offenses, including:
+
+Terrorist Act (Section 113): Defined as an act intended to threaten the unity, integrity, security, or economic security of India.
+
+Organised Crime (Section 111): Defined as a continuing unlawful activity by a group for material benefit, including crimes like kidnapping, extortion, and cyber-crime.
+
+Mob Lynching (Section 103(2)): Murder or grievous hurt committed by a group of five or more persons on grounds of race, caste, community, sex, or other similar grounds is now a specific offense.
+
+Repeal of Sedition: The offense of sedition is repealed and replaced by Section 152, which penalizes acts endangering the sovereignty, unity, and integrity of India.
+
+New Punishment: Introduces "community service" as a form of punishment for certain petty offenses, such as theft of property valued under Rs. 5,000 by a first-time offender.
+
+Gender Neutrality: Updates some provisions for greater gender neutrality; for instance, the definition of "gender" now includes transgender individuals.
+
+Enhanced Punishments: The BNS increases the punishment for several offenses, including causing death by negligence, and introduces mandatory minimum punishments for many offenses.
+
+Associated Legal Terminology:
+
+Terrorist Act: An act committed with the intent to threaten or likely to threaten the unity, integrity, security, economic security, or sovereignty of India or with intent to strike terror in the people.
+
+Organised Crime: Any continuing unlawful activity by an individual, singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence, or other unlawful means to obtain direct or indirect material benefit.
+
+Community Service: A punishment requiring an offender to perform a certain number of hours of unpaid work for the community.
+
+Petty Organised Crime: Includes acts like vehicle theft, pick-pocketing, and selling public examination question papers when committed by an organized group.

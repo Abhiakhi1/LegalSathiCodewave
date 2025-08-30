@@ -1,0 +1,157 @@
+FAMILY LAW DATASET
+INTRODUCTORY OVERVIEW OF FAMILY LAW
+What is Family Law?
+Family Law, also known as Personal Law, in India is a unique feature of its legal system. It governs personal matters such as marriage, divorce, succession, inheritance, adoption, and guardianship. India does not have a uniform civil code; instead, these matters are governed by different laws based on the religious affiliation of the individuals involved. This creates a pluralistic legal framework with distinct codes for Hindus, Muslims, Christians, Parsis, and others, coexisting with secular laws that are available to all citizens irrespective of their religion.
+
+PART I: HINDU LAW
+Hindu law, as codified, applies not only to Hindus but also to Buddhists, Jains, and Sikhs. It represents a modernization and codification of traditional religious and customary laws.
+
+1. The Hindu Marriage Act, 1955
+Description: This Act amends and codifies the law relating to marriage among Hindus. It introduced the concept of monogamy and divorce, which were not traditionally part of Hindu law, and established a uniform legal framework for marriage.
+
+Key Provisions:
+
+Conditions for a Hindu Marriage (Section 5): Lays down the conditions for a valid marriage, including monogamy, soundness of mind, and marriageable age (21 for the groom, 18 for the bride). It also prohibits marriages within the "degrees of prohibited relationship" and between "sapindas," unless custom permits.
+
+Ceremonies for a Hindu Marriage (Section 7): Recognizes that a marriage is solemnized in accordance with the customary rites and ceremonies of either party. The marriage becomes complete when the seventh step is taken before the sacred fire (Saptapadi).
+
+Divorce (Section 13): Lists the grounds for divorce, including adultery, cruelty, desertion, conversion to another religion, and incurable unsoundness of mind.
+
+Divorce by Mutual Consent (Section 13B): Allows for divorce by mutual consent if the parties have been living separately for one year or more.
+
+Associated Legal Terminology:
+
+Sapinda Relationship: Refers to relationships within certain degrees of ascent from a common ancestor.
+
+Monogamy: The practice of being married to one person at a time.
+
+Judicial Separation: A legal process by which a married couple may formalize a separation while remaining legally married.
+
+2. The Hindu Succession Act, 1956
+Description: This Act amends and codifies the law relating to intestate (unwilled) succession among Hindus.
+
+Key Provisions:
+
+Succession to Property of a Hindu Male (Section 8): The property of a Hindu male dying intestate devolves first upon Class I heirs (son, daughter, widow, mother, etc.), then Class II heirs, then agnates, and finally cognates.
+
+Coparcenary Property (Section 6, as amended in 2005): Granted daughters the same rights as sons in the ancestral property of the family, making them coparceners by birth.
+
+Associated Legal Terminology:
+
+Intestate: A person who has died without having made a will.
+
+Coparcener: A person who has a birthright in the ancestral property of a Hindu Undivided Family (HUF).
+
+3. The Hindu Adoptions and Maintenance Act, 1956
+Description: This Act codifies the law relating to adoptions and maintenance among Hindus.
+
+Key Provisions:
+
+Requisites of a Valid Adoption (Section 6): Lays down the conditions for a valid adoption.
+
+Effects of Adoption (Section 12): An adopted child is deemed to be the child of his or her adoptive parents for all purposes.
+
+Maintenance of Wife, Children, and Parents (Sections 18-20): Provides for the maintenance of a wife, children, and aged or infirm parents.
+
+4. The Hindu Minority and Guardianship Act, 1956
+Description: This Act defines the law relating to minority and guardianship among Hindus. It is supplemental to the Guardians and Wards Act, 1890.
+
+Key Provisions:
+
+Natural Guardians of a Hindu Minor (Section 6): The natural guardian of a Hindu minor boy or unmarried girl is the father, and after him, the mother. The custody of a minor who has not completed the age of five years shall ordinarily be with the mother.
+
+PART II: MUSLIM LAW
+Muslim Personal Law in India is primarily uncodified and is based on the Quran, Sunnah, Ijma, and Qiyas. The Muslim Personal Law (Shariat) Application Act, 1937, mandates that Sharia law governs personal matters for Indian Muslims.
+
+1. The Muslim Personal Law (Shariat) Application Act, 1937
+Description: This Act makes Islamic law (Shariat) the rule of decision in matters of personal law for Muslims, overriding any customs or usages to the contrary.
+
+Key Provisions:
+
+Application of Personal Law to Muslims (Section 2): States that in all questions regarding intestate succession, marriage, dissolution of marriage, maintenance, dower, guardianship, and gifts, the rule of decision shall be the Muslim Personal Law (Shariat).
+
+2. The Dissolution of Muslim Marriages Act, 1939
+Description: This Act clarifies the provisions of Muslim law relating to suits for dissolution of marriage by women married under Muslim law.
+
+Key Provisions:
+
+Grounds for Decree for Dissolution of Marriage (Section 2): Provides a Muslim wife the right to obtain a divorce on several grounds, including cruelty, desertion, failure to provide maintenance, and imprisonment of the husband.
+
+3. The Muslim Women (Protection of Rights on Divorce) Act, 1986
+Description: Enacted in the aftermath of the Shah Bano Begum case, this Act specifies the rights of Muslim women who have been divorced.
+
+Key Provisions:
+
+Mahr or other properties (Section 3): A divorced woman is entitled to a reasonable and fair provision and maintenance within the iddat period from her former husband, as well as her dower (mahr).
+
+Maintenance after Iddat (Section 4): If unable to maintain herself, she can claim maintenance from relatives who would inherit her property, and failing that, from the State Wakf Board.
+
+Associated Legal Terminology:
+
+Shariat: Islamic canonical law.
+
+Talaq: Divorce at the instance of the husband.
+
+Mahr (Dower): A sum of money or property the wife is entitled to receive from the husband in consideration of the marriage.
+
+Iddat: A period a woman must observe after divorce or the death of her husband, during which she cannot remarry.
+
+PART III: CHRISTIAN AND PARSI LAW
+1. The Indian Christian Marriage Act, 1872
+Description: This Act governs the solemnization of marriages of persons professing the Christian religion.
+
+Key Provisions:
+
+Persons by whom Marriages may be Solemnized (Section 5): Marriages can be solemnized by a Clergyman, a Minister of Religion licensed under the Act, or a Marriage Registrar.
+
+Procedure: Involves giving a notice of intended marriage, issuance of a certificate, and solemnization in the presence of two witnesses.
+
+2. The Indian Divorce Act, 1869
+Description: This Act governs divorce and other matrimonial reliefs for Christians.
+
+Key Provisions:
+
+Grounds for Dissolution of Marriage (Section 10): A wife may petition for divorce on grounds like adultery, cruelty, or desertion for two years.
+
+Nullity of Marriage and Judicial Separation: The Act also provides for these reliefs.
+
+3. The Parsi Marriage and Divorce Act, 1936
+Description: This Act governs the matrimonial relations of Parsis.
+
+Key Provisions:
+
+Parsi Matrimonial Courts (Sections 18-27): Establishes special courts to hear suits under the Act.
+
+Grounds for Divorce (Section 32): Provides ten grounds on which either party may sue for divorce.
+
+PART IV: SECULAR LAW
+These laws are available to all citizens of India, irrespective of their religion.
+
+1. The Special Marriage Act, 1954
+Description: This Act provides for a special form of marriage (civil marriage) for any two persons. It is the primary law for inter-religious and inter-caste marriages.
+
+Key Provisions:
+
+Conditions for Marriage (Section 4): Lays down secular conditions for marriage, such as age and soundness of mind.
+
+Procedure: Requires a 30-day public notice before the marriage can be solemnized by a Marriage Officer.
+
+Succession (Section 21): Succession to the property of persons married under this Act is governed by the secular Indian Succession Act, 1925, not by their personal laws.
+
+2. The Guardians and Wards Act, 1890
+Description: This is a secular law that governs the appointment of guardians for minors and the management of their property.
+
+Key Provisions:
+
+Welfare of the Minor (Section 17): The paramount consideration for the court in appointing a guardian is the welfare of the minor.
+
+3. The Family Courts Act, 1984
+Description: This Act provides for the establishment of Family Courts to promote conciliation and secure speedy settlement of disputes relating to marriage and family affairs.
+
+Key Provisions:
+
+Jurisdiction (Section 7): Family Courts have jurisdiction over all matrimonial disputes.
+
+Emphasis on Conciliation (Section 9): It is the duty of the Family Court to make efforts for settlement between the parties.
+
+Procedure: The proceedings are designed to be less adversarial and are generally held in camera.

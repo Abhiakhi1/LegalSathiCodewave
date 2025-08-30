@@ -1,0 +1,51 @@
+INTRODUCTORY OVERVIEW OF DATA PROTECTION LAW
+What is Data Protection Law?
+Data Protection Law is a specialized area of law designed to protect an individual's personal information in an increasingly digital world. It establishes a legal framework that governs the collection, processing, storage, and sharing of personal data. The core objective is to uphold the individual's right to privacy, which has been recognized by the Supreme Court of India as a fundamental right under Article 21 of the Constitution. In India, this field has been formalized and consolidated through the enactment of the Digital Personal Data Protection Act, 2023. This modern legislation aims to create a secure and trustworthy digital ecosystem by defining the rights of individuals (Data Principals) and imposing clear obligations and accountability on entities that handle their data (Data Fiduciaries).
+
+PART I: THE PRIMARY DATA PROTECTION LEGISLATION
+1. The Digital Personal Data Protection Act, 2023 (DPDP Act)
+Description: This is the landmark and principal legislation in India that provides for the processing of digital personal data in a manner that recognizes both the right of individuals to protect their personal data and the need to process such personal data for lawful purposes. It establishes a comprehensive legal framework for data protection, specifying the rights of individuals and the obligations of entities that collect and process data. The Act is based on principles of consent, purpose limitation, data minimization, and accountability.
+
+Key Provisions:
+
+Application (Section 3): The Act applies to the processing of digital personal data within the territory of India. It also has extraterritorial application, covering the processing of personal data outside India if it is in connection with any activity related to the offering of goods or services to individuals (Data Principals) within India.
+
+Grounds for Processing Personal Data (Chapter II): The Act lays down a consent-based framework. Personal data can be processed only for a lawful purpose upon the free, specific, informed, and unambiguous consent of the individual. The Act also provides for certain "legitimate uses" where data can be processed without explicit consent, such as for the performance of any function under law, for compliance with a court order, or for medical emergencies.
+
+Obligations of Data Fiduciaries (Section 8): A Data Fiduciary (the entity that determines the purpose and means of processing) has several significant obligations. They must:
+
+Make reasonable efforts to ensure that personal data processed is accurate and complete.
+
+Implement appropriate technical and organizational measures and reasonable security safeguards to prevent personal data breaches.
+
+Notify the Data Protection Board of India and each affected Data Principal in the event of a personal data breach.
+
+Erase personal data as soon as the purpose for which it was collected has been met and retention is no longer necessary for legal or business purposes.
+
+Rights and Duties of the Data Principal (Chapter III): The Act grants several rights to the Data Principal (the individual to whom the data relates), including:
+
+Right to access information: To obtain a summary of the personal data being processed and the processing activities undertaken.
+
+Right to correction and erasure: To request the correction of inaccurate or misleading personal data and the erasure of personal data that is no longer necessary for the purpose for which it was processed.
+
+Right to grievance redressal: To have a readily available means of grievance redressal provided by the Data Fiduciary.
+
+Right to nominate: To nominate another person to exercise these rights in the event of the Data Principal's death or incapacity.
+
+Data Protection Board of India (Chapter V): The Act provides for the establishment of a Data Protection Board of India. This will be the primary authority to adjudicate on non-compliance with the Act, conduct inquiries into data breaches, and impose significant financial penalties for violations.
+
+Associated Legal Terminology:
+
+Personal Data: Any data about an individual who is identifiable by or in relation to such data.
+
+Data Principal: The individual to whom the personal data relates and where such individual is a child includes the parents or lawful guardian of such a child.
+
+Data Fiduciary: Any person who alone or in conjunction with other persons determines the purpose and means of the processing of personal data.
+
+Data Processor: Any person who processes personal data on behalf of a Data Fiduciary.
+
+Processing: An automated operation or set of operations performed on digital personal data, which may include operations such as collection, recording, organisation, structuring, storage, adaptation, retrieval, use, alignment or combination, indexing, sharing, disclosure by transmission, dissemination or otherwise making available, restriction, erasure or destruction.
+
+Consent: Any freely given, specific, informed and unambiguous indication of the Data Principal's wishes by which he or she, by a clear affirmative action, signifies agreement to the processing of his or her personal data for the specified purpose.
+
+Personal Data Breach: Any unauthorized processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction of or loss of access to personal data, that compromises the confidentiality, integrity or availability of personal data.

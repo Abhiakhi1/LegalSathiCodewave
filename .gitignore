@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual env / environments
+.venv/
+venv/
+.env
+.env.*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / node (if any)
+node_modules/
+dist/
+build/
+
+# App artifacts
+vectordb/
+Dataset/
+data/tmp/
+*.sqlite
+*.db
+*.log
+
+# Streamlit/Gradio caches (if used)
+.streamlit/
+.gradio/
+
+# Local debug
+tempCodeRunnerFile.*

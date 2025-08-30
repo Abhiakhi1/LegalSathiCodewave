@@ -1,0 +1,78 @@
+INTRODUCTORY OVERVIEW OF INDUSTRIAL LAW
+What is Industrial Law?
+Industrial Law is the branch of law that governs industrial relations, meaning the relationship between employers, employees, and trade unions within an industrial setting. Its primary objective is to maintain industrial peace and harmony, prevent and settle industrial disputes, and regulate the conditions of labor in industrial establishments. This legal framework is crucial for ensuring fair labor practices, protecting the rights of workers, and providing a stable environment for industrial production and economic growth. The law addresses issues such as trade unionism, collective bargaining, strikes, lock-outs, retrenchment, and the safety and welfare of workers in factories.
+
+PART I: INDUSTRIAL RELATIONS
+This area of law focuses on the relationship between employers and employees and the resolution of disputes between them.
+
+1. The Industrial Disputes Act, 1947
+Description: This is the principal legislation for the investigation and settlement of industrial disputes. It provides a machinery and procedure for resolving conflicts through negotiation, conciliation, and adjudication, with the aim of maintaining industrial peace and harmony.
+
+Key Provisions:
+
+Definition of 'Industrial Dispute' (Section 2(k)): Defines an industrial dispute as any dispute or difference between employers and employers, or between employers and workmen, or between workmen and workmen, which is connected with the employment or non-employment or the terms of employment or with the conditions of labour, of any person.
+
+Authorities for Dispute Resolution (Chapters II & III): Establishes a multi-tiered dispute resolution machinery, including:
+
+Works Committee: For promoting measures for securing and preserving amity and good relations.
+
+Conciliation Officers: To mediate in and promote the settlement of disputes.
+
+Boards of Conciliation, Courts of Inquiry, Labour Courts, and Industrial Tribunals: Adjudicatory bodies to hear and decide disputes.
+
+Strikes and Lock-outs (Chapter V): Regulates the rights of workers to strike and employers to declare a lock-out, prohibiting them in public utility services without prior notice and during the pendency of conciliation or adjudication proceedings.
+
+Lay-off and Retrenchment (Chapter VA & VB): Lays down the procedure and conditions for the lay-off (temporary inability of an employer to provide employment) and retrenchment (termination of service for any reason other than disciplinary action) of workmen, including the payment of compensation.
+
+Associated Legal Terminology:
+
+Workman: Any person employed in any industry to do any manual, unskilled, skilled, technical, operational, clerical or supervisory work for hire or reward.
+
+Strike: A cessation of work by a body of persons employed in any industry acting in combination.
+
+Lock-out: The temporary closing of a place of employment or the suspension of work, or the refusal by an employer to continue to employ any number of persons employed by him.
+
+Retrenchment: The termination by the employer of the service of a workman for any reason whatsoever, otherwise than as a punishment inflicted by way of disciplinary action.
+
+2. The Trade Unions Act, 1926
+Description: This Act provides for the registration of Trade Unions and defines the law relating to registered Trade Unions. It confers a legal and corporate status on registered trade unions and grants them certain rights, immunities, and protections.
+
+Key Provisions:
+
+Mode of Registration (Section 4): Any seven or more members of a trade union can apply for registration.
+
+Rights of Registered Trade Union (Section 13): A registered trade union is a body corporate with perpetual succession and a common seal, with power to acquire and hold property and to contract.
+
+Immunity from Civil and Criminal Proceedings (Sections 17 & 18): Grants registered trade unions and their members immunity from criminal conspiracy charges and civil suits in respect of certain acts done in furtherance of a trade dispute.
+
+Associated Legal Terminology:
+
+Trade Union: Any combination, whether temporary or permanent, formed primarily for the purpose of regulating the relations between workmen and employers or between workmen and workmen, or between employers and employers.
+
+Trade Dispute: Any dispute between employers and workmen or between workmen and workmen, or between employers and employers which is connected with the employment or non-employment, or the terms of employment or the conditions of labour, of any person.
+
+PART II: WORKING CONDITIONS IN FACTORIES
+1. The Factories Act, 1948
+Description: This is a comprehensive legislation that regulates the health, safety, welfare, and other working conditions of workers in factories. It is a social welfare law aimed at protecting workers from exploitation and ensuring that they work in a safe and healthy environment.
+
+Key Provisions:
+
+Health (Chapter III): Contains detailed provisions relating to the cleanliness of the factory, disposal of wastes and effluents, ventilation and temperature control, prevention of dust and fumes, and provision of adequate lighting and drinking water.
+
+Safety (Chapter IV): Lays down extensive safety measures, including the fencing of machinery, work on or near machinery in motion, precautions against dangerous fumes, gases, and fire, and the maintenance of floors, stairs, and means of access.
+
+Welfare (Chapter V): Mandates the provision of various welfare facilities for workers, such as washing facilities, canteens (in factories with over 250 workers), crèches (in factories with over 30 women workers), and first-aid appliances.
+
+Working Hours of Adults (Chapter VI): Regulates daily and weekly working hours (not to exceed 48 hours in any week and 9 hours in any day), intervals for rest, and provides for extra wages for overtime work.
+
+Employment of Young Persons (Chapter VII): Prohibits the employment of children below the age of fourteen in any factory and regulates the working hours of adolescents (persons between 15 and 18 years of age).
+
+Associated Legal Terminology:
+
+Factory: Any premises where ten or more workers are working and a manufacturing process is being carried on with the aid of power, or where twenty or more workers are working without the aid of power.
+
+Worker: A person employed, directly or by or through any agency (including a contractor), with or without the knowledge of the principal employer, whether for remuneration or not, in any manufacturing process.
+
+Manufacturing Process: Includes making, altering, repairing, ornamenting, finishing, packing, oiling, washing, cleaning, breaking up, demolishing, or otherwise treating or adapting any article or substance with a view to its use, sale, transport, delivery or disposal.
+
+Occupier: The person who has ultimate control over the affairs of the factory.

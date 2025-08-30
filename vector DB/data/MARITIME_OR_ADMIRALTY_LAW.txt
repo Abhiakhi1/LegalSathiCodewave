@@ -1,0 +1,95 @@
+INTRODUCTORY OVERVIEW OF MARITIME LAW
+What is Maritime Law?
+Maritime Law, also known as Admiralty Law, is a distinct body of law that governs nautical issues and private maritime disputes. It is a comprehensive legal framework that deals with matters associated with the sea, navigation, shipping, and the transportation of goods and passengers by water. In India, maritime law is a mix of domestic legislation, English common law principles inherited by the judiciary, and international conventions to which India is a signatory. The Constitution of India places the subject of maritime shipping and navigation in the Union List, giving the Central Government the authority to legislate on it. This field of law covers a wide array of subjects, including the registration of ships, rights and duties of seamen, contracts of carriage, marine insurance, maritime liens, and the arrest of ships.
+
+PART I: THE PRIMARY LEGISLATIONS
+1. The Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017
+Description: This is a landmark piece of modern legislation that consolidates the laws relating to the admiralty jurisdiction of courts, legal proceedings in connection with vessels, their arrest, detention, and sale, and related matters. It replaced the colonial-era admiralty laws and provided a clear, statutory basis for the admiralty jurisdiction of the High Courts in India.
+
+Key Provisions:
+
+Admiralty Jurisdiction (Section 3): Vests the High Courts of the coastal states of India with admiralty jurisdiction.
+
+Maritime Claims (Section 4): This is a crucial provision that lists the specific disputes that are considered "maritime claims" over which the High Courts have admiralty jurisdiction. The list is extensive and includes claims regarding:
+
+The possession or ownership of a vessel.
+
+A mortgage on a vessel.
+
+Damage caused by a vessel.
+
+Loss of life or personal injury in connection with the operation of a vessel.
+
+Agreements relating to the carriage of goods or passengers by a vessel.
+
+Salvage operations.
+
+Goods, materials, provisions, bunkers, or services supplied to a vessel for its operation or maintenance.
+
+The construction, repair, or conversion of a vessel.
+
+Dues in respect of a port, harbour, or canal.
+
+Maritime liens.
+
+Arrest of Vessel in Rem (Section 5): This section codifies the power of the High Court to order the arrest of a vessel to secure a maritime claim. This is an action in rem (against the thing, i.e., the ship itself) and is a unique feature of admiralty law. The arrest of a vessel ensures that the court has security for the claim, and the vessel cannot sail away, leaving the claimant without a remedy.
+
+Inter-se priority of maritime claims (Section 10): Lays down the order of priority for the payment of various maritime claims from the sale proceeds of an arrested vessel. Claims for wages of the crew, loss of life, and salvage have a very high priority.
+
+Associated Legal Terminology:
+
+Admiralty Jurisdiction: The power of a court to hear and decide maritime cases.
+
+Action in rem: A legal action directed against a thing (the ship itself) rather than a person.
+
+Action in personam: A legal action against a person (the shipowner).
+
+Maritime Lien: A privileged claim upon a vessel for a service rendered to it or injury caused by it. It attaches to the vessel and travels with it, even into the hands of a bona fide purchaser.
+
+2. The Merchant Shipping Act, 1958
+Description: This is a comprehensive and voluminous Act that consolidates and amends the law relating to merchant shipping. It is the principal statute governing almost all aspects of shipping in India, from the registration of ships and the welfare of seafarers to safety at sea and the investigation of shipping casualties.
+
+Key Provisions:
+
+Registration of Indian Ships (Part V): Mandates that every Indian ship, unless it is a small vessel, must be registered under the Act. Registration confers Indian nationality on the ship.
+
+Employment of Seamen (Part VII): Contains detailed provisions for the engagement, discharge, wages, and welfare of seamen, including their accommodation, food, and medical care.
+
+Safety of Life at Sea (Part IX): Implements the provisions of the International Convention for the Safety of Life at Sea (SOLAS). It lays down rules for the construction of ships, life-saving appliances, and prevention of collisions.
+
+Limitation of Liability (Part XA): Provides a mechanism for the owner of a ship to limit their financial liability in respect of certain claims (like damage to property or loss of life) to a certain amount calculated on the basis of the ship's tonnage.
+
+Wreck and Salvage (Part XIII): Governs the rights and duties of a salvor who saves a ship or its cargo from danger, and the procedure for dealing with wrecks found in Indian waters.
+
+Associated Legal Terminology:
+
+Ship: A vessel of any description used in navigation not propelled by oars.
+
+Seaman: Every person (except masters, pilots and apprentices) employed or engaged in any capacity on board any ship.
+
+Salvage: The reward or compensation paid for services rendered in saving a ship or its cargo from loss or damage at sea.
+
+Wreck: Includes jetsam, flotsam, lagan and derelict found in or on the shores of the sea or any tidal water.
+
+3. The Carriage of Goods by Sea Act, 1925
+Description: This Act governs the rights and liabilities of carriers and shippers in relation to the carriage of goods by sea under a bill of lading. It was enacted to standardize the terms of contracts of carriage and is based on an international convention known as the Hague Rules of 1924.
+
+Key Provisions:
+
+Application of Rules (Article I): The Act applies the rules set out in its Schedule (the Hague Rules) to all contracts of carriage of goods by sea in ships carrying goods from any port in India to any other port whether in or outside India.
+
+Responsibilities and Liabilities of the Carrier (Article III): The carrier is bound, before and at the beginning of the voyage, to exercise due diligence to make the ship seaworthy, properly man, equip, and supply the ship, and make the holds fit and safe for the reception, carriage, and preservation of the goods. The carrier is also responsible for properly and carefully loading, handling, stowing, carrying, keeping, caring for, and discharging the goods carried.
+
+Rights and Immunities of the Carrier (Article IV): The carrier is not liable for loss or damage arising from certain specified causes, such as an act of God, act of war, perils of the sea, or negligence of the master or crew in the navigation or management of the ship.
+
+Limitation of Liability (Article IV, Rule 5): The carrier's liability for any loss or damage is limited to a certain amount per package or unit, unless the nature and value of the goods have been declared by the shipper before shipment and inserted in the bill of lading.
+
+Associated Legal Terminology:
+
+Carrier: Includes the owner or the charterer who enters into a contract of carriage with a shipper.
+
+Contract of Carriage: Applies only to contracts of carriage covered by a bill of lading or any similar document of title.
+
+Bill of Lading: A document issued by a carrier to a shipper, acknowledging receipt of cargo for shipment. It serves as a receipt, a contract of carriage, and a document of title.
+
+Hague Rules: An international convention that sets out the minimum rights and obligations of carriers and shippers in contracts of carriage of goods by sea.
