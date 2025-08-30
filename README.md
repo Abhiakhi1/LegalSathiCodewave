@@ -351,7 +351,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Report Bug](https://github.com/yourusername/legalsaathi/issues) • [Request Feature](https://github.com/yourusername/legalsaathi/issues) • [Contribute](CONTRIBUTING.md)
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by Team IQ89
 
 </div>
 '''
